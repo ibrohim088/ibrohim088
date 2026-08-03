@@ -180,6 +180,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 **Tools**
 <p>
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white">
 <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazons3&logoColor=white">
 <img src="https://img.shields.io/badge/Multer-FF6600?style=flat-square&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
@@ -189,15 +190,27 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
 </p>
 
+**Currently Learning**
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+</p>
+
 <br>
 
 ### Languages <img src="./assets/icons/globe.svg" width="20" align="right">
 <br clear="right">
 <hr>
 
-- <img src="https://flagcdn.com/24x18/uz.png" width="20"> Uzbek — Native
-- <img src="https://flagcdn.com/24x18/ru.png" width="20"> Russian — Fluent
-- <img src="https://flagcdn.com/24x18/gb.png" width="20"> English — Intermediate (A2)
+<p>
+<img src="https://img.shields.io/badge/Uzbek-Native-0099B5?style=flat-square&logo=googletranslate&logoColor=white">
+<img src="https://img.shields.io/badge/Russian-Fluent-0033A0?style=flat-square&logo=googletranslate&logoColor=white">
+<img src="https://img.shields.io/badge/English-Intermediate_(A2)-C8102E?style=flat-square&logo=googletranslate&logoColor=white">
+</p>
 
 <br>
 
@@ -209,4 +222,4 @@ Gym · Football · Chess · Reading anything book
 
 <br>
 
-<p align="center"><i>Learning by building — one full-stack feature at a time.</i></p>
+<p align="center"><i>Always learning, always building.</i></p>
