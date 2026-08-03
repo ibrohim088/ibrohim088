@@ -8,7 +8,9 @@
     <a href="mailto:ibrohimzokirjonov917@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <img src="https://img.shields.io/badge/Location-Tashkent%2C_Uzbekistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location">
+    <a href="https://yandex.uz/maps/?ll=69.240562,41.311081&z=12&pt=69.240562,41.311081">
+        <img src="https://img.shields.io/badge/Location-Tashkent%2C_Uzbekistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location">
+    </a>
 </p>
 
 
