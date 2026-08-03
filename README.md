@@ -79,7 +79,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="./assets/Certificate-backend.png" width="100%">
+<img src="./assets/certificate-backend.png" width="100%">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
@@ -87,7 +87,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="./assets/Certificate-frontend.png" width="100%">
+<img src="./assets/certificate-frontend.png" width="100%">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
