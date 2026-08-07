@@ -1,5 +1,5 @@
 <h1 align="center">Ibrohim Zokirjonov</h1>
-<h3 align="center">Full-Stack Developer · Student @ PDP University</h3>
+<h3 align="center">Full-Stack Developer · Frontend</h3>
 
 <p align="center">
     <a href="https://t.me/Ibrohim_77088">
@@ -37,7 +37,7 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 - Building complete web platforms end to end — from architecture to final interface — covering the client side, server side, and database
 - Creating role-based admin systems for managing orders, users, and content
-- Implementing multilingual (Uzbek/Russian) interface support for the local market
+- Implementing multilingual (Uzbek/Russian/English) interface support for the local market
 - Independently owning the whole process, from design and development through testing and delivery
 
 <br>
