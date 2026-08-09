@@ -99,6 +99,8 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 - Checkout is broken into clear, simple steps — address selection, delivery time scheduling, and payment confirmation
 
 
+<p align="left">🔗 <a href="https://peonyflowerstudio.uz/uz"><b>peonyflowerstudio.uz</b></a></p>
+
 <p align="left">
   <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%">
 </p>
@@ -166,6 +168,11 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 <tr>
 <td width="50%" valign="top" >
 
+<img src="./assets/pdp-university-logo.png" width="70">
+
+<br>
+<br>
+
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
 Oct 2025 — Oct 2030
@@ -174,6 +181,11 @@ Official Pearson BTEC international education center in partnership with the UK,
 
 </td>
 <td width="50%" valign="top" >
+
+<img src="./assets/school-logo.png" width="70">
+
+<br>
+<br>
 
 **School No. 104 — Tashkent**
 General Secondary Education
