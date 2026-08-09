@@ -1,17 +1,26 @@
-<h1 align="center">Ibrohim Zokirjonov</h1>
-<h3 align="center">Full-Stack Developer · Frontend</h3>
+<table width="100%">
+<tr>
+<td width="160" valign="middle" align="center">
+<img src="https://github.com/ibrohim088.png" width="140" style="border-radius:50%">
+</td>
+<td valign="middle">
 
-<p align="center">
-    <a href="https://t.me/Ibrohim_77088">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="mailto:ibrohimzokirjonov917@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://yandex.uz/maps/?ll=69.240562,41.311081&z=12&pt=69.240562,41.311081">
-        <img src="https://img.shields.io/badge/Location-Tashkent%2C_Uzbekistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location">
-    </a>
-</p>
+# Ibrohim Zokirjonov
+### Full-Stack Developer · Frontend
+
+<a href="https://t.me/Ibrohim_77088">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+<a href="mailto:ibrohimzokirjonov917@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://yandex.uz/maps/?ll=69.240562,41.311081&z=12&pt=69.240562,41.311081">
+    <img src="https://img.shields.io/badge/Location-Tashkent%2C_Uzbekistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location">
+</a>
+
+</td>
+</tr>
+</table>
 
 
 ### About <img src="./assets/icons/sparkles.svg" width="20" align="right">
