@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="160" valign="middle" align="center">
+<td width="160" valign="middle" align="left">
 <img src="https://github.com/ibrohim088.png" width="140" style="border-radius:50%">
 </td>
 <td valign="middle">
@@ -23,9 +23,12 @@
 </table>
 
 
-### About <img src="./assets/icons/sparkles.svg" width="20" align="right">
-<br clear="right">
+<h3 >About <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -35,11 +38,26 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
+
 <br>
 
-### Work Experience <img src="./assets/icons/briefcase.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Work Experience <img src="./assets/icons/briefcase.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
+
+**QA Tester — Faktura.uz**
+Full-time &nbsp;·&nbsp; Jun 2026 — Present
+
+- Studying task descriptions in depth or clarifying requirements with developers to confirm the intended logic and updated system behavior before starting work
+- Designing test cases ahead of or early in development
+- Executing test cases to verify functionality and localize bugs
+- Coordinating findings with a senior specialist before filing a detailed bug report or task comment, including reproduction steps, test cases used, and screenshots
+- Consistently delivering assigned tasks on schedule
 
 **Full-Stack Developer — Freelance**
 Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
@@ -49,20 +67,26 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 - Implementing multilingual (Uzbek/Russian/English) interface support for the local market
 - Independently owning the whole process, from design and development through testing and delivery
 
+
 <br>
 
-### Current Project <img src="./assets/icons/sparkles.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Current Project <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></h3>
 <hr>
 
-<p align="center">
+<div style="text-align: justify">
+
+
+<p align="left">
   <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="320">
 </p>
 
-<p align="center">
+<p align="left">
 <b>Peony Flowers Studio</b> — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 </p>
+
 
 **What the company does:**
 [Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
@@ -74,21 +98,26 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 - Returning customers get automatic discounts based on order count, plus a one-time bonus for leaving a product review
 - Checkout is broken into clear, simple steps — address selection, delivery time scheduling, and payment confirmation
 
-<p align="center">🔗 <a href="https://peonyflowerstudio.uz/uz"><b>peonyflowerstudio.uz</b></a></p>
 
-<p align="center">
+<p align="left">🔗 <a href="https://peonyflowerstudio.uz/uz"><b>peonyflowerstudio.uz</b></a></p>
+
+<p align="left">
   <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%">
 </p>
 
 <br>
 
-### Licenses & Certifications <img src="./assets/icons/award.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Licenses & Certifications <img src="./assets/icons/award.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
 <img src="./assets/certificate-backend.png" width="100%">
 
@@ -96,7 +125,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 230-hour course · 6 hands-on projects · final project defense
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
 <img src="./assets/certificate-frontend.png" width="100%">
 
@@ -109,9 +138,14 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 <br>
 
-### Leadership Experience <img src="./assets/icons/users.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Leadership Experience <img src="./assets/icons/users.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
 
 **PDP University — "Tengdosh Ustoz" (Peer Mentor) Program**
 Peer Mentor &nbsp;·&nbsp; 2025 — Present
@@ -119,15 +153,20 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 - Mentored students in full-stack development as part of the program, helping improve their code quality and technical confidence
 - Reviewed group members' frontend and backend assignments, explaining concepts in Vue.js, Node.js, Express, and MongoDB
 
+
 <br>
 
-### Education <img src="./assets/icons/graduation-cap.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Education <img src="./assets/icons/graduation-cap.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" >
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -136,7 +175,7 @@ Oct 2025 — Oct 2030
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" >
 
 **School No. 104 — Tashkent**
 General Secondary Education
@@ -150,17 +189,28 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 <br>
 
-### Skills <img src="./assets/icons/settings.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Skills <img src="./assets/icons/settings.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
 
 Full-Stack Development • Software Architecture • UI Design • Problem Solving • Time Management • Teamwork • Mentorship
 
+
 <br>
 
-### Technical Skills <img src="./assets/icons/code.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Technical Skills <img src="./assets/icons/code.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
 
 **Frontend**
 <p>
@@ -211,11 +261,17 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 </p>
 
+
 <br>
 
-### Languages <img src="./assets/icons/globe.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Languages <img src="./assets/icons/globe.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
 
 <p>
 <img src="https://img.shields.io/badge/Uzbek-Native-0099B5?style=flat-square&logo=googletranslate&logoColor=white">
@@ -223,14 +279,23 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <img src="https://img.shields.io/badge/English-Intermediate_(A2)-C8102E?style=flat-square&logo=googletranslate&logoColor=white">
 </p>
 
+
 <br>
 
-### Interests <img src="./assets/icons/heart.svg" width="20" align="right">
-<br clear="right">
+</div>
+
+<h3 >Interests <img src="./assets/icons/heart.svg" width="20" valign="middle"></h3>
 <hr>
+
+<div style="text-align: justify">
+
+
 
 Gym · Football · Chess · Reading anything book
 
+
 <br>
 
-<p align="center"><i>Always learning, always building.</i></p>
+<p align="left"><i>Always learning, always building.</i></p>
+
+</div>
