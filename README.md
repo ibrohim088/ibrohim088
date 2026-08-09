@@ -146,13 +146,7 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="text-align: justify">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<img src="./assets/pdp-university-logo.png" width="70">
-
-<br><br>
+<img src="./assets/pdp-university-logo.png" width="60">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -160,22 +154,15 @@ Oct 2025 — Oct 2030
 
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-<img src="./assets/school-logo.png" width="70">
-
-<br><br>
+<img src="./assets/school-logo.png" width="60">
 
 **School No. 104 — Tashkent**
 General Secondary Education
 Sep 2014 — May 2025
 
 Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
-
-</td>
-</tr>
-</table>
 
 <br>
 
