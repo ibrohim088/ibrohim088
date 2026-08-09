@@ -1,9 +1,6 @@
-<table width="100%">
-<tr>
-<td width="160" valign="middle" align="left">
-<img src="https://github.com/ibrohim088.png" width="140" style="border-radius:50%">
-</td>
-<td valign="middle">
+<div align="center">
+
+<img src="https://github.com/ibrohim088.png" width="120" style="border-radius:50%">
 
 # Ibrohim Zokirjonov
 ### Full-Stack Developer · Frontend
@@ -18,9 +15,7 @@
     <img src="https://img.shields.io/badge/Location-Tashkent%2C_Uzbekistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location">
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 
 <h3 >About <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></h3>
@@ -98,6 +93,8 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 - Returning customers get automatic discounts based on order count, plus a one-time bonus for leaving a product review
 - Checkout is broken into clear, simple steps — address selection, delivery time scheduling, and payment confirmation
 
+
+<p align="left">🔗 <a href="https://peonyflowerstudio.uz/uz"><b>peonyflowerstudio.uz</b></a></p>
 
 <p align="left">
   <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%">
