@@ -86,7 +86,6 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 - Returning customers get automatic discounts based on order count, plus a one-time bonus for leaving a product review
 - Checkout is broken into clear, simple steps — address selection, delivery time scheduling, and payment confirmation
 
-<p align="left">🔗 <a href="https://peonyflowerstudio.uz/uz"><b>peonyflowerstudio.uz</b></a></p>
 
 <p align="left">
   <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%">
