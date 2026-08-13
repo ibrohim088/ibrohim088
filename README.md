@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.gif" width="100%" height="280px" style="border-radius: 8px;" />&nbsp;
+<img src="./assets/github-banner.gif"  style="border-radius: 8px;" />&nbsp;
 
 ### Full-Stack Developer · Frontend
 
