@@ -2,8 +2,6 @@
 
 <img src="./assets/github-banner.gif" width="100%" height="340" style="border-radius: 8px;" />
 
-### Full-Stack Developer · Frontend
-
 </div>
 
 <br>
