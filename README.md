@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.gif"  style="border-radius: 8px;" />&nbsp;
+<img src="./assets/github-banner.gif" width="100%" height="340" style="border-radius: 8px;" />
 
 ### Full-Stack Developer · Frontend
 
@@ -134,7 +134,12 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="text-align: justify">
 
+<table>
+<tr>
+<td width="70" valign="top">
 <img src="./assets/pdp-university-logo.png" width="60">
+</td>
+<td valign="top">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -142,15 +147,28 @@ Oct 2025 — Oct 2030
 
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
+</td>
+</tr>
+</table>
+
 <br>
 
+<table>
+<tr>
+<td width="70" valign="top">
 <img src="./assets/school-logo.png" width="60">
+</td>
+<td valign="top">
 
 **School No. 104 — Tashkent**
 General Secondary Education
 Sep 2014 — May 2025
 
 Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -240,18 +258,6 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<h3>Interests <img src="./assets/icons/heart.svg" width="20" valign="middle"></h3>
-<hr>
-
-<div style="text-align: justify">
-
-Gym · Football · Chess · Reading anything book
-
-<br>
-
-<p align="left"><i>Always learning, always building.</i></p>
-
-</div>
 
 <h3>Resume <img src="./assets/icons/file.svg" width="20" valign="middle"></h3>
 <hr>
@@ -276,13 +282,13 @@ Gym · Football · Chess · Reading anything book
 <p>
 <a href="https://t.me/Ibrohim_77088">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">&nbsp;
-</a>&nbsp;
+</a>
 <a href="mailto:ibrohimzokirjonov917@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">&nbsp;
-</a>&nbsp;
+</a>
 <a href="https://github.com/ibrohim088">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/ibrohim-zokirjonov-1a93b6386/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;
 </a>
@@ -292,4 +298,4 @@ Gym · Football · Chess · Reading anything book
 
 </div>
 
-<img src="./assets/Bottom.svg" />&nbsp;
+<img src="./assets/Bottom.svg" />
