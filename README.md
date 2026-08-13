@@ -1,21 +1,8 @@
-<p align="center">
-  <img src="./assets/github-banner.gif" alt="Hi, I'm Ibrohim 👋">
-</p>
-
 <div align="center">
 
-<a href="https://t.me/Ibrohim_77088">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
-<a href="mailto:ibrohimzokirjonov917@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://yandex.uz/maps/?ll=69.240562,41.311081&z=12&pt=69.240562,41.311081">
-    <img src="https://img.shields.io/badge/Location-Tashkent%2C_Uzbekistan-0B1220?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location">
-</a>
-<a href="https://drive.google.com/file/d/1W6JgjVxM0rfTNHeOLzw8043p3v_dlPHJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4C1D95?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume">
-</a>
+<img src="./assets/github-banner.gif" width="100%" height="280px" style="border-radius: 8px;" />&nbsp;
+
+### Full-Stack Developer · Frontend
 
 </div>
 
@@ -26,8 +13,6 @@
 
 <div style="text-align: justify">
 
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="440" style="margin-left: 16px;">
-
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
 As a personal project, I built a complete platform intended for real users, staying with it through development and completion to prove I follow through to results.
@@ -36,7 +21,7 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-<br clear="right">
+<br>
 
 </div>
 
@@ -189,51 +174,51 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 **Frontend**
 <p>
-<img src="https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vuedotjs&logoColor=black">
-<img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Vue_I18n-42B883?style=flat-square&logo=vuedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white">
+<img src="https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">&nbsp;
+<img src="https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=flat&logo=vuedotjs&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Vue_I18n-42B883?style=flat&logo=vuedotjs&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white">&nbsp;
 </p>
 
 **Backend**
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white">&nbsp;
 </p>
 
 **Database**
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">&nbsp;
 </p>
 
 **Tools**
 <p>
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white">
-<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/Multer-FF6600?style=flat-square&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black">
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazons3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Multer-FF6600?style=flat&logo=npm&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black">&nbsp;
 </p>
 
 **Currently Learning**
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">&nbsp;
 </p>
 
 <br>
@@ -246,9 +231,9 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <div style="text-align: justify">
 
 <p>
-<img src="https://img.shields.io/badge/Uzbek-Native-0099B5?style=flat-square&logo=googletranslate&logoColor=white">
-<img src="https://img.shields.io/badge/Russian-Fluent-0033A0?style=flat-square&logo=googletranslate&logoColor=white">
-<img src="https://img.shields.io/badge/English-Intermediate_(A2)-C8102E?style=flat-square&logo=googletranslate&logoColor=white">
+<img src="https://img.shields.io/badge/Uzbek-Native-0099B5?style=flat&logo=googletranslate&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Russian-Fluent-0033A0?style=flat&logo=googletranslate&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/English-Intermediate_(A2)-C8102E?style=flat&logo=googletranslate&logoColor=white">&nbsp;
 </p>
 
 <br>
@@ -267,3 +252,44 @@ Gym · Football · Chess · Reading anything book
 <p align="left"><i>Always learning, always building.</i></p>
 
 </div>
+
+<h3>Resume <img src="./assets/icons/file.svg" width="20" valign="middle"></h3>
+<hr>
+
+<div style="text-align: justify">
+
+<p>
+<a href="https://drive.google.com/file/d/1W6JgjVxM0rfTNHeOLzw8043p3v_dlPHJ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4C1D95?style=flat&logo=readdotcv&logoColor=white" alt="Resume">&nbsp;
+</a>
+</p>
+
+<br>
+
+</div>
+
+<h3>Connect with me <img src="./assets/icons/users.svg" width="20" valign="middle"></h3>
+<hr>
+
+<div style="text-align: justify">
+
+<p>
+<a href="https://t.me/Ibrohim_77088">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">&nbsp;
+</a>&nbsp;
+<a href="mailto:ibrohimzokirjonov917@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">&nbsp;
+</a>&nbsp;
+<a href="https://github.com/ibrohim088">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/ibrohim-zokirjonov-1a93b6386/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;
+</a>
+</p>
+
+<br>
+
+</div>
+
+<img src="./assets/Bottom.svg" />&nbsp;
