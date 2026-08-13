@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/github-banner.gif" alt="Hi, I'm Ibrohim 👋">
+</p>
 
-### Full-Stack Developer · Frontend
+<div align="center">
 
 <a href="https://t.me/Ibrohim_77088">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -24,6 +26,8 @@
 
 <div style="text-align: justify">
 
+<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="440" style="margin-left: 16px;">
+
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
 As a personal project, I built a complete platform intended for real users, staying with it through development and completion to prove I follow through to results.
@@ -32,7 +36,7 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-<br>
+<br clear="right">
 
 </div>
 
