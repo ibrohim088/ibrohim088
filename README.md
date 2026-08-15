@@ -9,9 +9,9 @@
 <h3>About <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></h3>
 <hr>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
-<tr>
-<td valign="top" style="text-align: justify; border:none;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 16px;">
+
+<div style="flex: 3 1 280px; min-width: 280px; text-align: justify;">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -21,12 +21,13 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-</td>
-<td width="400" valign="top" align="right" style="border:none;">
+</div>
+
+<div style="flex: 1 1 400px; min-width: 400px; text-align: center;">
 <img alt="GIF" src="./assets/code.gif" width="400" height="250" />
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
@@ -61,21 +62,23 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 <div style="text-align: justify">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="320" valign="middle" align="left" style="border:none;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 16px;">
+
+<div style="flex: 1 1 320px; min-width: 320px; text-align: center;">
 <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="320">
-</td>
-<td valign="middle" align="left" style="border:none;">
+</div>
+
+<div style="flex: 3 1 280px; min-width: 280px; text-align: left;">
 
 <b>Peony Flowers Studio</b> — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 **What the company does:**
 [Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
-</td>
-</tr>
-</table>
+
+</div>
+
+</div>
 
 
 
