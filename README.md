@@ -9,7 +9,9 @@
 <h3>About <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></h3>
 <hr>
 
-<div style="text-align: justify">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
+<tr>
+<td valign="top" style="text-align: justify; border:none;">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -19,9 +21,14 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-<br>
+</td>
+<td width="400" valign="top" align="right" style="border:none;">
+<img alt="GIF" src="./assets/code.gif" width="400" height="250" />
+</td>
+</tr>
+</table>
 
-</div>
+<br>
 
 <h3>Work Experience <img src="./assets/icons/briefcase.svg" width="20" valign="middle"></h3>
 <hr>
@@ -54,17 +61,23 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 <div style="text-align: justify">
 
-<p align="left">
-  <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="320">
-</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
+<tr>
+<td width="320" valign="middle" align="left" style="border:none;">
+<img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="320">
+</td>
+<td valign="middle" align="left" style="border:none;">
 
-<p align="left">
 <b>Peony Flowers Studio</b> — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
-</p>
 
 **What the company does:**
 [Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
+</td>
+</tr>
+</table>
+
+
 
 **What the platform does:**
 
@@ -73,6 +86,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 - Returning customers get automatic discounts based on order count, plus a one-time bonus for leaving a product review
 - Checkout is broken into clear, simple steps — address selection, delivery time scheduling, and payment confirmation
 
+<br/>
 
 <p align="left">
   <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%">
@@ -87,9 +101,9 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 <div style="text-align: justify">
 
-<table width="100%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="left" style="border:none;">
 
 <img src="./assets/certificate-backend.png" width="100%">
 
@@ -97,7 +111,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 230-hour course · 6 hands-on projects · final project defense
 
 </td>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="left" style="border:none;">
 
 <img src="./assets/certificate-frontend.png" width="100%">
 
@@ -132,12 +146,12 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="text-align: justify">
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
 <tr>
-<td width="70" valign="top">
+<td width="70" valign="top" style="border:none;">
 <img src="./assets/pdp-university-logo.png" width="60">
 </td>
-<td valign="top">
+<td valign="top" style="border:none;">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -151,12 +165,12 @@ Official Pearson BTEC international education center in partnership with the UK,
 
 <br>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
 <tr>
-<td width="70" valign="top">
+<td width="70" valign="top" style="border:none;">
 <img src="./assets/school-logo.png" width="60">
 </td>
-<td valign="top">
+<td valign="top" style="border:none;">
 
 **School No. 104 — Tashkent**
 General Secondary Education
@@ -295,5 +309,3 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <br>
 
 </div>
-
-<img src="./assets/Bottom.svg" />
