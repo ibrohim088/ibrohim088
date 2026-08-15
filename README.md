@@ -6,7 +6,7 @@
 
 <br>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">About <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>About</span><img style="margin-left:auto;" src="./assets/icons/sparkles.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 16px;">
@@ -31,7 +31,7 @@ I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a
 
 <br>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Work Experience <img src="./assets/icons/briefcase.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Work Experience</span><img style="margin-left:auto;" src="./assets/icons/briefcase.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -57,7 +57,7 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Current Project <img src="./assets/icons/sparkles.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Current Project</span><img style="margin-left:auto;" src="./assets/icons/sparkles.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -99,7 +99,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Licenses & Certifications <img src="./assets/icons/award.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Licenses & Certifications</span><img style="margin-left:auto;" src="./assets/icons/award.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -130,7 +130,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Leadership Experience <img src="./assets/icons/users.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Leadership Experience</span><img style="margin-left:auto;" src="./assets/icons/users.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -145,7 +145,7 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Education <img src="./assets/icons/graduation-cap.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Education</span><img style="margin-left:auto;" src="./assets/icons/graduation-cap.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -186,7 +186,7 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Skills <img src="./assets/icons/settings.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Skills</span><img style="margin-left:auto;" src="./assets/icons/settings.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -197,7 +197,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Technical Skills <img src="./assets/icons/code.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Technical Skills</span><img style="margin-left:auto;" src="./assets/icons/code.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -255,7 +255,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Languages <img src="./assets/icons/globe.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Languages</span><img style="margin-left:auto;" src="./assets/icons/globe.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -271,7 +271,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 </div>
 
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Resume <img src="./assets/icons/file.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Resume</span><img style="margin-left:auto;" src="./assets/icons/file.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
@@ -286,7 +286,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<p style="font-size: 1.25em; font-weight: 600; margin-bottom: 0;">Connect with me <img src="./assets/icons/users.svg" width="20" valign="middle"></p>
+<div style="display:flex; align-items:center; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>Connect with me</span><img style="margin-left:auto;" src="./assets/icons/users.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="text-align: justify">
