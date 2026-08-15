@@ -106,16 +106,16 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 <div style="display: flex; flex-wrap: wrap; gap: 24px;">
 
-<div style="flex: 1 1 260px;">
-<img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
+<div style="flex: 1 1 260px; border: none;">
+<img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px; border: none;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
 </div>
 
-<div style="flex: 1 1 260px;">
-<img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
+<div style="flex: 1 1 260px; border: none;">
+<img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px; border: none;">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
@@ -150,8 +150,8 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
 
-<div style="flex: 0 0 60px;">
-<img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
+<div style="flex: 0 0 60px; border: none;">
+<img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px; border: none;">
 </div>
 
 <div style="flex: 1 1 260px;">
@@ -170,8 +170,8 @@ Official Pearson BTEC international education center in partnership with the UK,
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
 
-<div style="flex: 0 0 60px;">
-<img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
+<div style="flex: 0 0 60px; border: none;">
+<img src="./assets/school-logo.png" width="60" style="border-radius: 6px; border: none;">
 </div>
 
 <div style="flex: 1 1 260px;">
