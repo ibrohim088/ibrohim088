@@ -314,8 +314,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<div style="overflow-x: hidden; width: 100%; max-width: 100%; box-sizing: border-box; padding: 0 8px; text-align: center;">
-<pre style="white-space: pre; font-size: clamp(1px, 0.85vw, 32px); line-height: 1.15; display: inline-block; max-width: 100%; margin: 0; text-align: left;">
+```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -336,5 +335,4 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-</pre>
-</div>
+```
