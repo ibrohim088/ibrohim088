@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner-new.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: contain;" />
+<img src="./assets/banner.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: contain;" />
 
 </div>
 
 <br>
 
-<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
+<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle;"> <b>About</b>
 <hr>
 
 <table>
