@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="./assets/github-banner.gif" width="100%" style="border-radius: 8px; max-height: 480px; object-fit: cover;" />
+<img src="./assets/banner-new.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: contain;" />
 
 </div>
 
 <br>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #8E7CC3; margin-bottom: 4px;"><img src="./assets/icons/sparkles.svg" width="18" valign="middle"><b>About</b></div>
-<hr style="border: none; height: 1px; background: #8E7CC3; opacity: 0.35; margin-top: 0;">
+<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
+<hr>
 
-<br/>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 8px;">
-
-<div style="flex: 3 1 280px; min-width: 280px; text-align: justify;">
+<table>
+<tr>
+<td valign="top" width="55%">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -23,20 +21,17 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-</div>
-
-<div style="flex: 1 1 320px; min-width: 320px; max-width: 400px; text-align: center;">
-<img alt="GIF" src="./assets/code.gif" width="400" height="250" />
-</div>
-
-</div>
+</td>
+<td valign="top" width="45%" align="center">
+<img alt="GIF" src="./assets/about.gif" width="100%" style="border-radius: 6px;" />
+</td>
+</tr>
+</table>
 
 <br>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #4A6B5A; margin-bottom: 4px;"><img src="./assets/icons/briefcase.svg" width="18" valign="middle"><b>Work Experience</b></div>
-<hr style="border: none; height: 1px; background: #4A6B5A; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/briefcase.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Work Experience</b>
+<hr>
 
 <div style="text-align: justify">
 
@@ -61,20 +56,17 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #B08968; margin-bottom: 4px;"><img src="./assets/icons/sparkles.svg" width="18" valign="middle"><b>Current Project</b></div>
-<hr style="border: none; height: 1px; background: #B08968; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Current Project</b>
+<hr>
 
 <div style="text-align: justify">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 16px;">
-
-<div style="flex: 1 1 320px; min-width: 320px; text-align: center;">
-<img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="320">
-</div>
-
-<div style="flex: 3 1 280px; min-width: 280px; text-align: left;">
+<table>
+<tr>
+<td valign="top" width="30%" align="center">
+<img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
+</td>
+<td valign="top" width="70%">
 
 **Peony Flowers Studio** — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
@@ -82,9 +74,9 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 **What the company does:**
 [Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 
 
@@ -98,50 +90,43 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <br/>
 
 <p align="left">
-  <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%">
+  <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%" style="border-radius: 6px;">
 </p>
 
 <br>
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #5C6E91; margin-bottom: 4px;"><img src="./assets/icons/award.svg" width="18" valign="middle"><b>Licenses & Certifications</b></div>
-<hr style="border: none; height: 1px; background: #5C6E91; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/award.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Licenses & Certifications</b>
+<hr>
 
 <div style="text-align: justify">
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
-
-<div style="flex: 1 1 260px; min-width: 260px;">
-
-<img src="./assets/certificate-backend.png" width="100%">
+<table>
+<tr>
+<td valign="top" width="50%">
+<img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
-</div>
-
-<div style="flex: 1 1 260px; min-width: 260px;">
-
-<img src="./assets/certificate-frontend.png" width="100%">
+</td>
+<td valign="top" width="50%">
+<img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #9A6D8C; margin-bottom: 4px;"><img src="./assets/icons/users.svg" width="18" valign="middle"><b>Leadership Experience</b></div>
-<hr style="border: none; height: 1px; background: #9A6D8C; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Leadership Experience</b>
+<hr>
 
 <div style="text-align: justify">
 
@@ -155,18 +140,17 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #6B8E7F; margin-bottom: 4px;"><img src="./assets/icons/graduation-cap.svg" width="18" valign="middle"><b>Education</b></div>
-<hr style="border: none; height: 1px; background: #6B8E7F; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/graduation-cap.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Education</b>
+<hr>
 
 <div style="text-align: justify">
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start;">
-<div style="flex: 0 0 60px; min-width: 60px;">
-<img src="./assets/pdp-university-logo.png" width="60">
-</div>
-<div style="flex: 3 1 240px; min-width: 240px;">
+<table>
+<tr>
+<td valign="top" width="60">
+<img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
+</td>
+<td valign="top">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -174,16 +158,18 @@ Oct 2025 — Oct 2030
 
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start;">
-<div style="flex: 0 0 60px; min-width: 60px;">
-<img src="./assets/school-logo.png" width="60">
-</div>
-<div style="flex: 3 1 240px; min-width: 240px;">
+<table>
+<tr>
+<td valign="top" width="60">
+<img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
+</td>
+<td valign="top">
 
 **School No. 104 — Tashkent**
 General Secondary Education
@@ -191,17 +177,16 @@ Sep 2014 — May 2025
 
 Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
 
-</div>
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #A0785A; margin-bottom: 4px;"><img src="./assets/icons/settings.svg" width="18" valign="middle"><b>Skills</b></div>
-<hr style="border: none; height: 1px; background: #A0785A; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/settings.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Skills</b>
+<hr>
 
 <div style="text-align: justify">
 
@@ -211,15 +196,13 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #5E7A8C; margin-bottom: 4px;"><img src="./assets/icons/code.svg" width="18" valign="middle"><b>Technical Skills</b></div>
-<hr style="border: none; height: 1px; background: #5E7A8C; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/code.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Technical Skills</b>
+<hr>
 
 <div style="text-align: justify">
 
-**Frontend**
 <p>
+<b>Frontend&nbsp;&nbsp;</b>
 <img src="https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">&nbsp;
 <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=flat&logo=vuedotjs&logoColor=white">&nbsp;
@@ -230,8 +213,8 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white">&nbsp;
 </p>
 
-**Backend**
 <p>
+<b>Backend&nbsp;&nbsp;</b>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
@@ -239,14 +222,14 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white">&nbsp;
 </p>
 
-**Database**
 <p>
+<b>Database&nbsp;&nbsp;</b>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">&nbsp;
 </p>
 
-**Tools**
 <p>
+<b>Tools&nbsp;&nbsp;</b>
 <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazons3&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Multer-FF6600?style=flat&logo=npm&logoColor=white">&nbsp;
@@ -257,8 +240,8 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black">&nbsp;
 </p>
 
-**Currently Learning**
 <p>
+<b>Currently Learning&nbsp;&nbsp;</b>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
@@ -271,10 +254,8 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #8C6E9A; margin-bottom: 4px;"><img src="./assets/icons/globe.svg" width="18" valign="middle"><b>Languages</b></div>
-<hr style="border: none; height: 1px; background: #8C6E9A; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/globe.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Languages</b>
+<hr>
 
 <div style="text-align: justify">
 
@@ -289,10 +270,8 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 </div>
 
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #7A8C5E; margin-bottom: 4px;"><img src="./assets/icons/file.svg" width="18" valign="middle"><b>Resume</b></div>
-<hr style="border: none; height: 1px; background: #7A8C5E; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/file.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Resume</b>
+<hr>
 
 <div style="text-align: justify">
 
@@ -306,10 +285,8 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<div style="display:flex; align-items:center; gap: 8px; font-size: 1.05em; font-weight: 700; letter-spacing: 0.04em; color: #946B5C; margin-bottom: 4px;"><img src="./assets/icons/users.svg" width="18" valign="middle"><b>Connect with me</b></div>
-<hr style="border: none; height: 1px; background: #946B5C; opacity: 0.35; margin-top: 0;">
-
-<br/>
+<img src="./assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Connect with me</b>
+<hr>
 
 <div style="text-align: justify">
 
@@ -331,3 +308,26 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <br>
 
 </div>
+
+```
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+```
