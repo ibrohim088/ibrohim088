@@ -6,8 +6,7 @@
 
 <br>
 
-<div style="display:flex; align-items:center; justify-content: space-between; font-size: 1.25em; font-weight: 600; margin-bottom: 0;">
-<span>About</span><img src="./assets/icons/sparkles.svg" width="20" valign="middle"></div>
+<div style="display:flex; align-items:center; justify-content: space-between; font-size: 1.25em; font-weight: 600; margin-bottom: 0;"><span>About</span><img src="./assets/icons/sparkles.svg" width="20" valign="middle"></div>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 16px;">
