@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: contain;" />
+<img src="./assets/banner.gif" width="100%" style="border-radius: 6px;" />
 
 </div>
 
 <br>
 
-<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle;"> <b>About</b>
+<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
 <hr>
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+
+<div style="flex: 1 1 320px; text-align: justify;">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -21,12 +21,13 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-</td>
-<td valign="top" width="45%" align="center">
+</div>
+
+<div style="flex: 1 1 280px; text-align: center;">
 <img alt="GIF" src="./assets/about.gif" width="100%" style="border-radius: 6px;" />
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
@@ -61,12 +62,12 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 <div style="text-align: justify">
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td valign="top" width="30%" align="center">
+<td style="border: none;" valign="top" width="30%" align="center">
 <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
 </td>
-<td valign="top" width="70%">
+<td style="border: none;" valign="top" width="70%">
 
 **Peony Flowers Studio** — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
@@ -102,16 +103,16 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 <div style="text-align: justify">
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td valign="top" width="50%">
+<td style="border: none;" valign="top" width="50%">
 <img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
 </td>
-<td valign="top" width="50%">
+<td style="border: none;" valign="top" width="50%">
 <img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
@@ -145,12 +146,12 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="text-align: justify">
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td valign="top" width="60">
+<td style="border: none;" valign="top" width="60">
 <img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
 </td>
-<td valign="top">
+<td style="border: none;" valign="top">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -164,12 +165,12 @@ Official Pearson BTEC international education center in partnership with the UK,
 
 <br>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td valign="top" width="60">
+<td style="border: none;" valign="top" width="60">
 <img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
 </td>
-<td valign="top">
+<td style="border: none;" valign="top">
 
 **School No. 104 — Tashkent**
 General Secondary Education
