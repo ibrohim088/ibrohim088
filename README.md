@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.gif" width="100%" style="border-radius: 8px; max-height: 340px; object-fit: cover;" />
+<img src="./assets/github-banner.gif" width="100%" style="border-radius: 8px; max-height: 480px; object-fit: cover;" />
 
 </div>
 
