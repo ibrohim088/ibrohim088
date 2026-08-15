@@ -104,26 +104,27 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 <div style="text-align: justify">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="50%" valign="top" align="left" style="border:none;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+
+<div style="flex: 1 1 260px; min-width: 260px;">
 
 <img src="./assets/certificate-backend.png" width="100%">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
-</td>
-<td width="50%" valign="top" align="left" style="border:none;">
+</div>
+
+<div style="flex: 1 1 260px; min-width: 260px;">
 
 <img src="./assets/certificate-frontend.png" width="100%">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
@@ -149,12 +150,11 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="text-align: justify">
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="70" valign="top" style="border:none;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start;">
+<div style="flex: 0 0 60px; min-width: 60px;">
 <img src="./assets/pdp-university-logo.png" width="60">
-</td>
-<td valign="top" style="border:none;">
+</div>
+<div style="flex: 3 1 240px; min-width: 240px;">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -162,18 +162,16 @@ Oct 2025 — Oct 2030
 
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
-<tr>
-<td width="70" valign="top" style="border:none;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start;">
+<div style="flex: 0 0 60px; min-width: 60px;">
 <img src="./assets/school-logo.png" width="60">
-</td>
-<td valign="top" style="border:none;">
+</div>
+<div style="flex: 3 1 240px; min-width: 240px;">
 
 **School No. 104 — Tashkent**
 General Secondary Education
@@ -181,9 +179,8 @@ Sep 2014 — May 2025
 
 Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
 
-</td>
-</tr>
-</table>
+</div>
+</div>
 
 <br>
 
