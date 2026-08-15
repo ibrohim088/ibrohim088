@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" style="border-radius: 6px;" />
+<img src="./assets/banner.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: cover;" />
 
 </div>
 
@@ -62,12 +62,13 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 <div style="text-align: justify">
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none;" valign="top" width="30%" align="center">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+
+<div style="flex: 1 1 220px; text-align: center;">
 <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
-</td>
-<td style="border: none;" valign="top" width="70%">
+</div>
+
+<div style="flex: 2 1 320px;">
 
 **Peony Flowers Studio** — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
@@ -75,9 +76,9 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 **What the company does:**
 [Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 
 
@@ -103,24 +104,25 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 <div style="text-align: justify">
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none;" valign="top" width="50%">
+<div style="display: flex; flex-wrap: wrap; gap: 24px;">
+
+<div style="flex: 1 1 260px;">
 <img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
-</td>
-<td style="border: none;" valign="top" width="50%">
+</div>
+
+<div style="flex: 1 1 260px;">
 <img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
@@ -146,12 +148,13 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 <div style="text-align: justify">
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none;" valign="top" width="60">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
+
+<div style="flex: 0 0 60px;">
 <img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
-</td>
-<td style="border: none;" valign="top">
+</div>
+
+<div style="flex: 1 1 260px;">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -159,18 +162,19 @@ Oct 2025 — Oct 2030
 
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td style="border: none;" valign="top" width="60">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
+
+<div style="flex: 0 0 60px;">
 <img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
-</td>
-<td style="border: none;" valign="top">
+</div>
+
+<div style="flex: 1 1 260px;">
 
 **School No. 104 — Tashkent**
 General Secondary Education
@@ -178,9 +182,9 @@ Sep 2014 — May 2025
 
 Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 <br>
 
@@ -203,7 +207,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <div style="text-align: justify">
 
 <p>
-<b>Frontend&nbsp;&nbsp;</b>
+<b>Frontend</b><br><br>
 <img src="https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">&nbsp;
 <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=flat&logo=vuedotjs&logoColor=white">&nbsp;
@@ -215,7 +219,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 </p>
 
 <p>
-<b>Backend&nbsp;&nbsp;</b>
+<b>Backend</b><br><br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
@@ -224,13 +228,13 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 </p>
 
 <p>
-<b>Database&nbsp;&nbsp;</b>
+<b>Database</b><br><br>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">&nbsp;
 </p>
 
 <p>
-<b>Tools&nbsp;&nbsp;</b>
+<b>Tools</b><br><br>
 <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazons3&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Multer-FF6600?style=flat&logo=npm&logoColor=white">&nbsp;
@@ -242,7 +246,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 </p>
 
 <p>
-<b>Currently Learning&nbsp;&nbsp;</b>
+<b>Currently Learning</b><br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
