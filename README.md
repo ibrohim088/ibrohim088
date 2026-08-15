@@ -9,9 +9,9 @@
 <img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; width: 100%;">
 
-<div style="flex: 1 1 320px; text-align: justify;">
+<div style="flex: 1 1 320px; text-align: justify; margin: 0;">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -23,7 +23,7 @@ I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a
 
 </div>
 
-<div style="flex: 1 1 280px; text-align: center;">
+<div style="flex: 1 1 280px; text-align: center; margin: 0;">
 <img alt="GIF" src="./assets/about.gif" width="100%" style="border-radius: 6px;" />
 </div>
 
@@ -314,7 +314,8 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-```
+<div style="overflow-x: hidden; max-width: 100%; text-align: center;">
+<pre style="white-space: pre; font-size: clamp(1.2px, 1.1vw, 32px); line-height: 1.15; display: inline-block; margin: 0; text-align: left;">
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -335,4 +336,5 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 █████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
 █████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-```
+</pre>
+</div>
