@@ -9,9 +9,9 @@
 <img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
 <hr>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60%" valign="top" style="text-align: justify; padding: 0 16px 0 0;">
+<table width="100%" style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="60%" valign="top" style="border: 0; text-align: justify; padding: 0 16px 0 0;">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -22,7 +22,7 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
 </td>
-<td width="40%" valign="top" align="center"  >
+<td width="40%" valign="top" align="center" style="border: 0;">
 <img alt="GIF" src="./assets/about.gif" width="100%" style="border-radius: 6px;" />
 </td>
 </tr>
@@ -59,12 +59,12 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 <img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Current Project</b>
 <hr>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="30%" valign="top" align="center" style="padding: 0 16px 0 0;">
+<table width="100%" style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="30%" valign="top" align="center" style="border: 0; padding: 0 16px 0 0;">
 <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
 </td>
-<td width="70%" valign="top" style="text-align: justify;">
+<td width="70%" valign="top" style="border: 0; text-align: justify;">
 
 **Peony Flowers Studio** — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
@@ -100,16 +100,16 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <img src="./assets/icons/award.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Licenses & Certifications</b>
 <hr>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top" style="padding: 0 12px 0 0;">
+<table width="100%" style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="50%" valign="top" style="border: 0; padding: 0 12px 0 0;">
 <img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
 </td>
-<td width="50%" valign="top" style="padding: 0 0 0 12px;">
+<td width="50%" valign="top" style="border: 0; padding: 0 0 0 12px;">
 <img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
@@ -139,12 +139,12 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 <img src="./assets/icons/graduation-cap.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Education</b>
 <hr>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60" valign="top" style="padding: 0 16px 0 0;">
+<table style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="60" valign="top" style="border: 0; padding: 0 16px 0 0;">
 <img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
 </td>
-<td valign="top" style="text-align: justify;">
+<td valign="top" style="border: 0; text-align: justify;">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -158,12 +158,12 @@ Official Pearson BTEC international education center in partnership with the UK,
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="60" valign="top" style="padding: 0 16px 0 0;">
+<table style="border-collapse: collapse; border: 0;">
+<tr style="border: 0;">
+<td width="60" valign="top" style="border: 0; padding: 0 16px 0 0;">
 <img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
 </td>
-<td valign="top" style="text-align: justify;">
+<td valign="top" style="border: 0; text-align: justify;">
 
 **School No. 104 — Tashkent**
 General Secondary Education
