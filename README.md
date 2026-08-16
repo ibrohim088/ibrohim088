@@ -9,9 +9,9 @@
 <img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; width: 100%;">
-
-<div style="flex: 1 1 320px; text-align: justify; margin: 0;">
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="60%" valign="top" style="border: none; text-align: justify; padding: 0 16px 0 0;">
 
 Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
 
@@ -21,13 +21,12 @@ I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defend
 
 I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
 
-</div>
-
-<div style="flex: 1 1 280px; text-align: center; margin: 0;">
+</td>
+<td width="40%" valign="top" align="center" style="border: none;">
 <img alt="GIF" src="./assets/about.gif" width="100%" style="border-radius: 6px;" />
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -60,15 +59,12 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 <img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Current Project</b>
 <hr>
 
-<div style="text-align: justify">
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
-
-<div style="flex: 1 1 220px; text-align: center;">
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="30%" valign="top" align="center" style="border: none; padding: 0 16px 0 0;">
 <img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
-</div>
-
-<div style="flex: 2 1 320px;">
+</td>
+<td width="70%" valign="top" style="border: none; text-align: justify;">
 
 **Peony Flowers Studio** — Premium flower delivery platform (Personal project)<br>
 Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
@@ -76,11 +72,13 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 **What the company does:**
 [Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
 
-</div>
+</td>
+</tr>
+</table>
 
-</div>
+<br>
 
-
+<div style="text-align: justify">
 
 **What the platform does:**
 
@@ -102,31 +100,26 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <img src="./assets/icons/award.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Licenses & Certifications</b>
 <hr>
 
-<div style="text-align: justify">
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
-
-<div style="flex: 1 1 260px;">
+<table width="100%" style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none; padding: 0 12px 0 0;">
 <img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
 
-</div>
-
-<div style="flex: 1 1 260px;">
+</td>
+<td width="50%" valign="top" style="border: none; padding: 0 0 0 12px;">
 <img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
-
-</div>
 
 <img src="./assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Leadership Experience</b>
 <hr>
@@ -146,15 +139,12 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 <img src="./assets/icons/graduation-cap.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Education</b>
 <hr>
 
-<div style="text-align: justify">
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-
-<div style="flex: 0 0 60px;">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="60" valign="top" style="border: none; padding: 0 16px 0 0;">
 <img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
-</div>
-
-<div style="flex: 1 1 260px;">
+</td>
+<td valign="top" style="border: none; text-align: justify;">
 
 **PDP University — Tashkent**
 BTEC Higher National Diploma / Software Development
@@ -162,19 +152,18 @@ Oct 2025 — Oct 2030
 
 Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-
-<div style="flex: 0 0 60px;">
+<table style="border-collapse: collapse; border: none;">
+<tr style="border: none;">
+<td width="60" valign="top" style="border: none; padding: 0 16px 0 0;">
 <img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
-</div>
-
-<div style="flex: 1 1 260px;">
+</td>
+<td valign="top" style="border: none; text-align: justify;">
 
 **School No. 104 — Tashkent**
 General Secondary Education
@@ -182,13 +171,11 @@ Sep 2014 — May 2025
 
 Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 <br>
-
-</div>
 
 <img src="./assets/icons/settings.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Skills</b>
 <hr>
