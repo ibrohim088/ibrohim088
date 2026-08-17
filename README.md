@@ -24,7 +24,9 @@ I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a
 </div>
 
 <div style="flex: 1 1 280px; text-align: center; margin: 0;">
+
 <img alt="GIF" src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/about.gif" width="100%" style="border-radius: 6px;" />
+
 </div>
 
 </div>
@@ -62,10 +64,12 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 <div style="text-align: justify">
 
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 
-<div style="flex: 1 1 220px; text-align: center;">
+<div style="flex: 1 1 250px; text-align: center;">
+
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
+
 </div>
 
 <div style="flex: 2 1 320px;">
@@ -79,8 +83,6 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 </div>
 
 </div>
-
-
 
 **What the platform does:**
 
@@ -107,6 +109,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <div style="display: flex; flex-wrap: wrap; gap: 24px;">
 
 <div style="flex: 1 1 260px;">
+
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
@@ -115,6 +118,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 </div>
 
 <div style="flex: 1 1 260px;">
+
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
@@ -151,7 +155,9 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
 
 <div style="flex: 0 0 60px;">
+
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
+
 </div>
 
 <div style="flex: 1 1 260px;">
@@ -171,7 +177,9 @@ Official Pearson BTEC international education center in partnership with the UK,
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
 
 <div style="flex: 0 0 60px;">
+
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/school-logo.png" width="60" style="border-radius: 6px;">
+
 </div>
 
 <div style="flex: 1 1 260px;">
@@ -190,17 +198,6 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 </div>
 
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/settings.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Skills</b>
-<hr>
-
-<div style="text-align: justify">
-
-Full-Stack Development • Software Architecture • UI Design • Problem Solving • Time Management • Teamwork • Mentorship
-
-<br>
-
-</div>
-
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/code.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Technical Skills</b>
 <hr>
 
@@ -210,8 +207,6 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <b>Frontend</b><br><br>
 <img src="https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">&nbsp;
 <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black">&nbsp;
-<img src="https://img.shields.io/badge/Vue_Router-4FC08D?style=flat&logo=vuedotjs&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Vue_I18n-42B883?style=flat&logo=vuedotjs&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">&nbsp;
@@ -235,7 +230,6 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 <p>
 <b>Tools</b><br><br>
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazons3&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Multer-FF6600?style=flat&logo=npm&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">&nbsp;
@@ -248,10 +242,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <p>
 <b>Currently Learning</b><br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">&nbsp;
 </p>
 
@@ -273,7 +264,6 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 <br>
 
 </div>
-
 
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/file.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Resume</b>
 <hr>
@@ -309,6 +299,17 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;
 </a>
 </p>
+
+<br>
+
+</div>
+
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/settings.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Activity</b>
+<hr>
+
+<div style="text-align: justify">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrohim088&theme=react-dark" width="100%">
 
 <br>
 
