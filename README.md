@@ -304,7 +304,7 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 </div>
 
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/settings.svg" width="20" style="border: 0 bold none; vertical-align: middle; position: relative; top: -2px;"> <b>Activity</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/settings.svg" width="20" style="border: 1 bold black; vertical-align: middle; position: relative; top: -2px;"> <b>Activity</b>
 <hr>
 
 <div style="text-align: justify">
