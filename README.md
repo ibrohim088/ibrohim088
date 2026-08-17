@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: cover;" />
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/banner.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: cover;" />
 
 </div>
 
 <br>
 
-<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
 <hr>
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; width: 100%;">
@@ -24,14 +24,14 @@ I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a
 </div>
 
 <div style="flex: 1 1 280px; text-align: center; margin: 0;">
-<img alt="GIF" src="./assets/about.gif" width="100%" style="border-radius: 6px;" />
+<img alt="GIF" src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/about.gif" width="100%" style="border-radius: 6px;" />
 </div>
 
 </div>
 
 <br>
 
-<img src="./assets/icons/briefcase.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Work Experience</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/briefcase.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Work Experience</b>
 <hr>
 
 <div style="text-align: justify">
@@ -57,7 +57,7 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 
 </div>
 
-<img src="./assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Current Project</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Current Project</b>
 <hr>
 
 <div style="text-align: justify">
@@ -65,7 +65,7 @@ Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start;">
 
 <div style="flex: 1 1 220px; text-align: center;">
-<img src="./assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
 </div>
 
 <div style="flex: 2 1 320px;">
@@ -92,14 +92,14 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <br/>
 
 <p align="left">
-  <img src="./assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%" style="border-radius: 6px;">
+  <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%" style="border-radius: 6px;">
 </p>
 
 <br>
 
 </div>
 
-<img src="./assets/icons/award.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Licenses & Certifications</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/award.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Licenses & Certifications</b>
 <hr>
 
 <div style="text-align: justify">
@@ -107,7 +107,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 <div style="display: flex; flex-wrap: wrap; gap: 24px;">
 
 <div style="flex: 1 1 260px;">
-<img src="./assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Backend**
 230-hour course · 6 hands-on projects · final project defense
@@ -115,7 +115,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 </div>
 
 <div style="flex: 1 1 260px;">
-<img src="./assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
 
 **CoddyCamp IT Academy — Frontend**
 240-hour course · 6 hands-on projects · final project defense
@@ -128,7 +128,7 @@ Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
 
 </div>
 
-<img src="./assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Leadership Experience</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Leadership Experience</b>
 <hr>
 
 <div style="text-align: justify">
@@ -143,7 +143,7 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 
 </div>
 
-<img src="./assets/icons/graduation-cap.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Education</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/graduation-cap.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Education</b>
 <hr>
 
 <div style="text-align: justify">
@@ -151,7 +151,7 @@ Peer Mentor &nbsp;·&nbsp; 2025 — Present
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
 
 <div style="flex: 0 0 60px;">
-<img src="./assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
 </div>
 
 <div style="flex: 1 1 260px;">
@@ -171,7 +171,7 @@ Official Pearson BTEC international education center in partnership with the UK,
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
 
 <div style="flex: 0 0 60px;">
-<img src="./assets/school-logo.png" width="60" style="border-radius: 6px;">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/school-logo.png" width="60" style="border-radius: 6px;">
 </div>
 
 <div style="flex: 1 1 260px;">
@@ -190,7 +190,7 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 </div>
 
-<img src="./assets/icons/settings.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Skills</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/settings.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Skills</b>
 <hr>
 
 <div style="text-align: justify">
@@ -201,7 +201,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<img src="./assets/icons/code.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Technical Skills</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/code.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Technical Skills</b>
 <hr>
 
 <div style="text-align: justify">
@@ -259,7 +259,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<img src="./assets/icons/globe.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Languages</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/globe.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Languages</b>
 <hr>
 
 <div style="text-align: justify">
@@ -275,7 +275,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 </div>
 
 
-<img src="./assets/icons/file.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Resume</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/file.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Resume</b>
 <hr>
 
 <div style="text-align: justify">
@@ -290,7 +290,7 @@ Full-Stack Development • Software Architecture • UI Design • Problem Solvi
 
 </div>
 
-<img src="./assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Connect with me</b>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Connect with me</b>
 <hr>
 
 <div style="text-align: justify">
