@@ -315,7 +315,7 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 </div>
 
-<div> 
+<div align="center" style="background-color: #000000; padding: 20px 0;">
 <pre style="
   display: inline-block;
   font-family: 'Courier New', monospace;
@@ -324,6 +324,8 @@ Completed 11 years of general education with an emphasis on mathematics, physics
   white-space: pre;
   margin: 0;
   text-align: left;
+  background-color: #000000;
+  color: #ffffff;
 ">
 ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
