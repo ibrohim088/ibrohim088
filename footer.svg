@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" font-family="Courier New, Courier, monospace">
-  <rect x="0" y="0" width="1000" height="400" fill="#000000"/>
+  <rect x="0" y="0" width="1000" height="400" fill="#0d1117"/>
 
   <text x="20" y="35" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██╗  ██╗███████╗██╗     ██╗      ██████╗</text>
   <text x="20" y="51" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║  ██║██╔════╝██║     ██║     ██╔═══██╗</text>

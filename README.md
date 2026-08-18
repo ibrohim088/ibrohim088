@@ -310,10 +310,7 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 <div style="border: none; outline: none; text-align: justify">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrohim088&theme=react-dark&bg_color=0d1117&color=58a6ff&line=39d353&point=39d353&area=true&custom_title=Mening+GitHub+Faoliyatim&v=1" width="100%" style="border:none; outline:none; display:block;">
-
 <br>
-
 </div>
-
 
 <img src="./footer.svg" width="100%" style="max-width: 100%;">
