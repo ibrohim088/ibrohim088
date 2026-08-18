@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" font-family="Courier New, Courier, monospace">
+  <rect x="0" y="0" width="1000" height="400" fill="#000000"/>
+
+  <text x="20" y="35" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██╗  ██╗███████╗██╗     ██╗      ██████╗</text>
+  <text x="20" y="51" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║  ██║██╔════╝██║     ██║     ██╔═══██╗</text>
+  <text x="20" y="67" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">███████║█████╗  ██║     ██║     ██║   ██║</text>
+  <text x="20" y="83" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██╔══██║██╔══╝  ██║     ██║     ██║   ██║</text>
+  <text x="20" y="99" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗</text>
+  <text x="20" y="115" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝</text>
+
+  <text x="20" y="148" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗</text>
+  <text x="20" y="164" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗</text>
+  <text x="20" y="180" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║</text>
+  <text x="20" y="196" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║</text>
+  <text x="20" y="212" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝</text>
+  <text x="20" y="228" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝</text>
+
+  <text x="20" y="261" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗</text>
+  <text x="20" y="277" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║</text>
+  <text x="20" y="293" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║</text>
+  <text x="20" y="309" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║</text>
+  <text x="20" y="325" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝</text>
+  <text x="20" y="341" text-anchor="start" fill="#ffffff" font-size="14" xml:space="preserve">╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝</text>
+</svg>
