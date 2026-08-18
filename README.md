@@ -315,9 +315,16 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 
 </div>
 
-<div align="center"> 
-<div style="width: 700px; height: 250px; overflow: auto;">
-<pre>
+<div> 
+<pre style="
+  display: inline-block;
+  font-family: 'Courier New', monospace;
+  font-size: 1.15vw;
+  line-height: 1.1;
+  white-space: pre;
+  margin: 0;
+  text-align: left;
+">
 ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║
@@ -339,6 +346,5 @@ Completed 11 years of general education with an emphasis on mathematics, physics
 ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
 ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 </pre>
-</div>
 </div>
 
