@@ -1,0 +1,51 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg-page);
+  font-size: var(--text-m);
+  min-height: 100vh;
+}
+
+.app {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  image-rendering: auto;
+}
+
+.active {
+  background-color: var(--btn-bg) !important;
+  color: var(--text-important) !important;
+  border-radius: var(--radiuse-second);
+}
+
+.active svg,
+.active .icon-wrapper {
+  color: var(--icon-important) !important;
+}
