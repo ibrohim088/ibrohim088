@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "home": "Home",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "profile": {
+    "name": "",
+    "role": "",
+    "more": "More about me",
+    "info-text": "I am a Fullstack Developer with 3 years of experience in IT. Deeply understands the full lifecycle of web application development, from designing responsive interfaces using Vue.js to building server-side logic using Node.js. Specializes in writing clean, stable code and integrating REST APIs. Passionate about developing in a modern JavaScript ecosystem, demonstrates strong discipline and the ability to quickly adopt new technologies."
+  },
+  "education": {
+    "title": "Education",
+    "period": "Duration of study"
+  },
+  "tech": {
+    "title": "Technology"
+  },
+  "certificate": {
+    "title": "Certificate"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Do you have any questions or would you like to collaborate on a new project? Leave a message and I will get back to you as soon as possible.",
+    "name": "Your Name",
+    "email": "Your Email",
+    "subject": "Theme Name",
+    "phone": "Your phone Number",
+    "message": "Theme Descriptions"
+  },
+  "errorPage": {
+    "title": "An error occurred while connecting to the system.",
+    "subtitle": "We couldn't load the required data for this page.",
+    "labelMissing": "Missing element",
+    "labelMessage": "Issue",
+    "labelCode": "Status code"
+  },
+  "fallback": {
+    "title": "No Content Available",
+    "subtitle": "The data you are looking for is currently empty"
+  },
+  "footer": {
+    "rights": "© 2025 Ibrohim Zokirjonov Building Scalable Solutions as a Full Stack Developer. Tashkent, UZ. All rights reserved.",
+    "resume": "Select Resume Language",
+    "cv": "Select CV Language",
+    "back": "Back"
+  },
+  "resume": {
+    "loading": "Loading",
+    "error_loading": "Data not found or an error occurred"
+  },
+  "success": "Message sent",
+  "error": "An error occurred.",
+  "submit": "Send",
+  "submitting": "Sending...",
+  "loading": "Loading..."
+}

@@ -1,0 +1,81 @@
+.ep-wrap {
+  width: fit-content;
+  margin: 0 auto;
+}
+.ep-card {
+  max-width: 480px;
+  width: 100%;
+  background: var(--bg-card);
+  border-radius: var(--radiuse-first);
+  padding: 2.5rem 2rem;
+  text-align: center;
+}
+.ep-icon {
+  width: 80px;
+  height: 80px;
+  margin: 0 auto 1.5rem;
+}
+.ep-title {
+  font-size: var(--text-x);
+  font-weight: 600;
+  color: var(--text-title);
+  margin-bottom: 8px;
+}
+.ep-sub {
+  font-size: var(--text-s);
+  color: var(--text-last);
+  line-height: 1.6;
+  margin-bottom: 1.75rem;
+}
+.ep-info {
+  background: var(--bg-surface);
+  border-radius: var(--radiuse-first);
+  padding: 1.25rem;
+  text-align: left;
+  margin-bottom: 1.75rem;
+  border-left: 3px solid var(--btn-submit);
+}
+.ep-row {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: 14px;
+}
+.ep-row:last-child {
+  margin-bottom: 0;
+}
+.ep-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--icon);
+}
+.ep-val {
+  font-size: var(--text-s);
+  color: var(--text);
+  font-weight: 500;
+}
+.ep-code {
+  font-size: var(--text-m);
+  font-family: monospace;
+  color: var(--text-important);
+  font-weight: 700;
+}
+.ep-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 11px 28px;
+  border-radius: var(--radiuse-last);
+  border: none;
+  background: var(--btn-submit);
+  color: #fff;
+  font-size: var(--text-s);
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.ep-btn:hover {
+  opacity: 0.85;
+}

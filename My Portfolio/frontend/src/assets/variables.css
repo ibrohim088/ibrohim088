@@ -1,0 +1,76 @@
+:root {
+  --logo: #fbf7ec;
+  --bg-page: #f0f2f5;
+  --bg-card: #ffffff;
+  --bg-surface: #f0f2f5;
+  --bg-gray: #cdcecf;
+  --bg-badge: #10B981;
+
+  --text: #576076;
+  --text-logo-1: #000000;
+  --text-logo-2: #0b3864;
+  --text-title: #000000;
+  --text-important: #0b3864;
+  --text-last: #687084;
+  --text-badge: #6AA63F;
+
+  --icon: #8b95a8;
+  --icon-important: #0b3864;
+  --moon-icon: #000000;
+  --sun-icon: #ffff00;
+
+  --border: none;
+  --btn-bg: #e8eaf6;
+  --btn-hover: #c5c8f0;
+  --btn-submit: #0b3864;
+  --input-bg: #ffffff;
+  --input-border: #cdcecf;
+
+  --text-s: 13px;
+  --text-m: 16px;
+  --text-l: 18px;
+  --text-d: 20px;
+  --text-x: 24px;
+
+  --radiuse-first: 10px;
+  --radiuse-second: 5px;
+  --radiuse-last: 50px;
+
+  --bg-tech: #f0f2f5;
+}
+
+.dark {
+  --logo: #0d3968;
+  --bg-page: #0f1117;
+  --bg-card: #171b24;
+  --bg-surface: #2a3045;
+  --bg-gray: #1f2433;
+  --bg-badge: #1b4614;
+
+  --text: #a0a8be;
+  --text-logo-1: #ffffff;
+  --text-logo-2: #ffffff;
+  --text-title: #ffffff;
+  --text-important: #7c82f5;
+  --text-last: #687084;
+  --text-badge: #6aa63f;
+
+  --icon: #8b95a8;
+  --icon-important: #7c82f5;
+  --moon-icon: #000000;
+  --sun-icon: #ffff00;
+
+  --border: #2a3045;
+
+  --btn-bg: #2a3045;
+  --btn-hover: #3a4260;
+  --btn-submit: #7c82f5;
+  --input-bg: #1f2433;
+  --input-border: #2a3045;
+
+  --radiuse-first: 10px;
+  --radiuse-second: 5px;
+  --radiuse-last: 50px;
+
+  --bg-tech: #171b24;
+}

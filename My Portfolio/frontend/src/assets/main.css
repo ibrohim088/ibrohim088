@@ -1,0 +1,11 @@
+@import "./variables.css";
+@import "./bases.css";
+@import "./layout/layout.css";
+@import "./layout/navbar.css";
+@import "./layout/footer.css";
+@import "./components/profile.css";
+@import "./components/education.css";
+@import "./components/technology.css";
+@import "./components/contact.css";
+@import "./components/errordata.css";
+@import "./components/certificate.css";

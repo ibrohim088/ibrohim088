@@ -1,0 +1,58 @@
+{
+  "navbar": {
+    "home": "Bosh Sahifa",
+    "contact": "Aloqa",
+    "about": "Haqimda"
+  },
+  "profile": {
+    "name": "",
+    "role": "",
+    "more": "Men haqimda koproq malumot",
+    "info-text": "Men IT sohasida 3 yillik tajribaga ega Fullstack Dasturchiman. Vue.js yordamida moslashuvchan interfeyslarni loyihalashdan tortib, Node.js yordamida server tomonidagi mantiqni yaratishgacha bo'lgan veb-ilovalarni ishlab chiqishning to'liq hayot aylanishini chuqur tushunadi. Toza, barqaror kod yozish va REST API-larini integratsiyalash bo'yicha ixtisoslashgan. Zamonaviy JavaScript ekotizimida rivojlanishga ishtiyoqmand, kuchli intizom va yangi texnologiyalarni tezda o'zlashtirish qobiliyatini namoyish etadi."
+  },
+  "education": {
+    "title": "Ta'lim",
+    "period": "O'qish davomiyligi"
+  },
+  "tech": {
+    "title": "Texnologiya"
+  },
+  "certificate": {
+    "title": "Sertifikat"
+  },
+  "contact": {
+    "title": "Bog‘lanish",
+    "subtitle": "Savollaringiz bormi yoki yangi loyiha ustida hamkorlik qilmoqchimisiz? Xabaringizni qoldiring, men siz bilan imkon qadar tezroq bog‘lanaman.",
+    "name": "Ismingiz",
+    "email": "Elektron pochtangiz",
+    "subject": "Mavzu nomi",
+    "phone": "Telefon raqami",
+    "message": "Mavzu tavsiflari"
+  },
+  "errorPage": {
+    "title": "Tizim bilan bog'lanishda uzilish yuz berdi..",
+    "subtitle": "Sahifa uchun kerakli ma'lumotlarni yuklab bo'lmadi.",
+    "labelMissing": "Yuklanmagan element",
+    "labelMessage": "Sabab",
+    "labelCode": "Status kodi"
+  },
+  "fallback": {
+    "title": "Kontent mavjud emas",
+    "subtitle": "Siz izlab turgan ma'lumot hozirda bo'sh"
+  },
+  "footer": {
+    "rights": "© 2025 Ibrohim Zokirjonov Full Stack dasturchi sifatida keng ko'lamli raqamli yechimlar yaratuvchisi. Toshkent, O‘zbekiston. Barcha huquqlar himoyalangan.",
+    "resume": "Resume Tilini Tanlang",
+    "cv": "CV Tilini Tanlang",
+    "back": "Orqaga"
+  },
+  "resume": {
+    "loading": "Yuklanmoqda",
+    "error_loading": "Ma'lumot topilmadi yoki xatolik yuz berdi"
+  },
+  "success": "Xabar yuborildi",
+  "error": "Xatolik yuz berdi",
+  "submit": "Yuborish",
+  "submitting": "Yuborilmoqda...",
+  "loading": "Yuklanmoqda..."
+}
