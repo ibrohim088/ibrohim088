@@ -1,0 +1,4218 @@
+===== 2026-09-20T07:17:14.000Z (id=103088) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103088_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-19T08:01:53.000Z (id=103087) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103087_Davron Yusupov - CV.pdf]
+
+===== 2026-09-19T06:37:45.000Z (id=103085) =====
+#Resume #CV
+
+🔹 Data Analyst & Engineer
+
+💼 2 years of experience
+
+💻 Tech stack:
+
+• SQL — CTEs, window functions, query optimization
+• Python — pandas, NumPy, Selenium, Seaborn/Matplotlib/Plotly
+• Power BI — DAX, Power Query, star schema modeling
+• Snowflake, Google BigQuery, PostgreSQL
+• ETL, data migration, data modeling, data cleaning
+• Cohort & RFM analysis, KPI tracking, dashboarding
+• Apache Superset, Streamlit, Excel, Google Sheets
+• Git, GitHub, Bitrix24
+• AI-assisted development (Claude, GPT, Codex, Base44)
+
+🌐Languages: Uzbek (native) · English (C1) · Russian (B2)
+📍 Tashkent | Full-time · Part-time · Project-based
+🖥 Format: Remote · Hybrid · On-site
+
+Portfolio: oktam_zulfqorov.com
+📞 +998999477075
+📱 @zulfqorov7
+✉️ zulfqorov.0217@gmail.com
+📱 linkedin.com/in/oktamzulfqorov1
+📱 github.com/oktambek7
+
+#Analytics #Engineering #AI #Data
+[PDF: resumes_pdf\103085_Oktam_Zulfqorov_CV.pdf]
+
+===== 2026-09-19T06:01:16.000Z (id=103084) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103084_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-19T05:53:48.000Z (id=103083) =====
+🧑‍💻 Robiya Olimjonova — Data Scientist | AI/ML Engineer
+
+💼 1.5+ years of experience 
+
+📍 Tashkent (onsite / hybrid / remote)
+
+🗣 Uzbek — native | English — B2 | Russian — C1
+
+🛠 Stack:
+— Python, SQL
+— ML: scikit-learn, XGBoost, PyTorch, Feature Engineering, SelectKBest
+— Agentic AI: LangGraph, LangChain, RAG, Multi-Agent Systems, BM25, Qdrant, Tavily, Langfuse
+— Web & Deploy: FastAPI, Next.js, React, TypeScript, SSE, Gradio, Vercel, Render
+— LLM APIs: OpenAI, Anthropic (Claude), Gemini, DeepSeek
+— Analysis: Pandas, NumPy, Matplotlib, Seaborn, EDA, Power BI, PostgreSQL
+
+📞 +998977493550
+📩 Telegram: @rosychks
+🌐 Website: rosychks.com
+
+#DataScience #AI #ML #LangGraph #Resume
+
+===== 2026-09-18T14:19:39.000Z (id=103081) =====
+🔹 Python Developer (Django / DRF / PostgreSQL)
+📌 Backend loyihalar tajribasi (POS tizimi, Social Network API, E-commerce API)
+
+💻 Stack:
+Python, Django, Django REST Framework, FastAPI
+PostgreSQL, SQLite
+JWT auth, pytest, factory-boy
+Git, GitHub, GitHub Actions (CI/CD)
+HTML, CSS, JS
+
+📂 Loyihalar:
+• PosSystem — multi-branch retail POS, role-based access (Admin/Cashier/Manager), 15+ Django app
+• Social Network REST API — Instagram-style backend, JWT auth, 21 avtomatik test, CI/CD
+• E-commerce API — to'liq e-commerce backend, race-condition-safe checkout, 15 avtomatik test
+
+🗣 Uzbek native | English B2
+
+📍 Tashkent, Uzbekistan
+🌍 Remote / Part-time ish uchun ochiq
+
+✈️ @pyengineer_1
+📞 +998 94 899 00 21
+📩 sunnatillonasrullayev334@gmail.com
+🔗 github.com/Suncik
+💼 linkedin.com/in/sunnatillo-nasrullayev-8a58603b8
+[PDF: resumes_pdf\103081_Nasrullayev_Sunnatillo_CV.pdf]
+
+===== 2026-09-18T13:01:55.000Z (id=103080) =====
+#Resume #CV
+
+🔹 Data Analyst & Engineer
+
+💼 2 years of experience
+
+💻 Tech stack:
+
+• SQL — CTEs, window functions, query optimization
+• Python — pandas, NumPy, Selenium, Seaborn/Matplotlib/Plotly
+• Power BI — DAX, Power Query, star schema modeling
+• Snowflake, Google BigQuery, PostgreSQL
+• ETL, data migration, data modeling, data cleaning
+• Cohort & RFM analysis, KPI tracking, dashboarding
+• Apache Superset, Streamlit, Excel, Google Sheets
+• Git, GitHub, Bitrix24
+• AI-assisted development (Claude, GPT, Codex, Base44)
+
+🌐Languages: Uzbek (native) · English (C1) · Russian (B2)
+📍 Tashkent | Full-time · Part-time · Project-based
+🖥 Format: Remote · Hybrid · On-site
+
+Portfolio: oktam_zulfqorov.com
+📞 +998999477075
+📱 @zulfqorov7
+✉️ zulfqorov.0217@gmail.com
+📱 linkedin.com/in/oktamzulfqorov1
+📱 github.com/oktambek7
+
+#Analytics #Engineering #AI #Data
+[PDF: resumes_pdf\103080_Oktam_Zulfqorov_CV.pdf]
+
+===== 2026-09-18T07:34:15.000Z (id=103076) =====
+ВАКАНСИЯ: ТЕХНИЧЕСКИЙ ДИРЕКТОР
+
+Ищем профессионального и инициативного Технического директора, который сможет эффективно управлять техническим направлением, развивать IT-инфраструктуру и реализовывать современные цифровые проекты.
+
+📌 Основные обязанности:
+Руководство техническим и IT-направлением;
+Управление командой технических специалистов и разработчиков;
+Планирование, запуск и контроль реализации IT-проектов;
+Развитие и обеспечение стабильной работы IT-инфраструктуры;
+Контроль серверов, сетевого оборудования, программных и технических систем;
+Обеспечение информационной безопасности и защиты данных;
+Внедрение современных цифровых решений, автоматизации и инновационных технологий;
+Взаимодействие с подрядчиками, поставщиками и техническими партнёрами;
+Подготовка технических планов, отчётности и предложений по развитию инфраструктуры;
+Контроль качества, сроков и эффективности выполнения технических задач.
+
+🎯 Требования:
+Высшее техническое или IT-образование;
+Опыт работы на руководящей позиции в IT/технической сфере от 5 лет;
+Практический опыт управления IT-командой;
+Хорошее знание IT-инфраструктуры, серверов, сетей и информационных систем;
+Опыт реализации и управления техническими проектами;
+Понимание принципов информационной безопасности;
+Навыки системного анализа и решения сложных технических задач;
+Ответственность, организованность и развитые лидерские качества;
+Умение самостоятельно принимать решения и нести ответственность за результат;
+Грамотная устная и письменная речь;
+Знание русского и узбекского языков.
+Будет преимуществом:
+Опыт работы с CRM и корпоративными информационными системами;
+Опыт внедрения AI, автоматизации, VR/AR и других современных технологий;
+Знание DevOps, облачных технологий и современных IT-платформ;
+Опыт взаимодействия с внешними техническими подрядчиками.
+
+💼 Условия работы:
+Заработная плата: от 17 000 000 сум в месяц;
+Окончательный размер заработной платы обсуждается и определяется по результатам собеседования, с учётом опыта, квалификации и профессиональных компетенций кандидата;
+Официальное трудоустройство;
+Работа в профессиональной команде;
+Участие в интересных и масштабных IT-проектах;
+Возможность профессионального и карьерного роста;
+Современная рабочая среда;
+Доступ к реализации и внедрению собственных технических инициатив.
+
+📩 Как откликнуться:
+Отправьте резюме и краткую информацию о профессиональном опыте. С подходящими кандидатами будет проведено собеседование.
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-18T04:36:30.000Z (id=103075) =====
+#RESUME #CV
+
+🔹 Backend Engineer (Go / PostgreSQL / Microservices)
+💼 3+ years commercial experience
+
+💻 Stack:
+Go, gRPC, PostgreSQL, Redis, Kafka, MongoDB, MinIO
+Docker, Linux, GitLab CI/CD, Prometheus, Grafana
+Microservices, Clean Architecture, DDD, OAuth 2.0, JWT
+Testing (unit, integration, mocks)
+AI-assisted development (Claude Code, Codex)
+
+🏦 Domain:
+Fintech (IMAN, 500 Global W22): payments, balances, BNPL
+Gov: national SSO via OneID, e-document archive (Ministry of Economy & Finance)
+📈 API latency -25%, queries 10x faster, test coverage 0% to 85%
+
+🗣 Uzbek native | Turkish fluent | English B2 | Russian B2 reading, A2 speaking
+
+🌍 REMOTE ONLY · full-time or part-time
+📄 Employment or contract (B2B)
+🕐 Uzbekistan, UTC+5 · available now
+
+✈️ @BusinesIT21
+📞 +998 93 004 43 71
+📩 asadbekegambergenov21coder@gmail.com
+💼 linkedin.com/in/asadbek-egambergenov-8b6bb5226
+[PDF: resumes_pdf\103075_Asadbek_Egambergenov_Backend_Go.pdf]
+
+===== 2026-09-18T04:00:25.000Z (id=103074) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103074_Davron Yusupov - CV.pdf]
+
+===== 2026-09-18T03:45:21.000Z (id=103073) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103073_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-17T12:13:53.000Z (id=103072) =====
+🧑‍💻 Robiya Olimjonova — Data Scientist | AI/ML Engineer
+
+💼 1.5+ years of experience 
+
+📍 Tashkent (onsite / hybrid / remote)
+
+🗣 Uzbek — native | English — B2 | Russian — C1
+
+🛠 Stack:
+— Python, SQL
+— ML: scikit-learn, XGBoost, PyTorch, Feature Engineering, SelectKBest
+— Agentic AI: LangGraph, LangChain, RAG, Multi-Agent Systems, BM25, Qdrant, Tavily, Langfuse
+— Web & Deploy: FastAPI, Next.js, React, TypeScript, SSE, Gradio, Vercel, Render
+— LLM APIs: OpenAI, Anthropic (Claude), Gemini, DeepSeek
+— Analysis: Pandas, NumPy, Matplotlib, Seaborn, EDA, Power BI, PostgreSQL
+
+📞 +998977493550
+📩 Telegram: @rosychks
+🌐 Website: rosychks.com
+
+#DataScience #AI #ML #LangGraph #Resume
+
+===== 2026-09-17T07:48:15.000Z (id=103071) =====
+#Resume #CV
+
+🔹 Data Analyst & Engineer
+
+💼 2 years of experience
+
+💻 Tech stack:
+
+• SQL — CTEs, window functions, query optimization
+• Python — pandas, NumPy, Selenium, Seaborn/Matplotlib/Plotly
+• Power BI — DAX, Power Query, star schema modeling
+• Snowflake, Google BigQuery, PostgreSQL
+• ETL, data migration, data modeling, data cleaning
+• Cohort & RFM analysis, KPI tracking, dashboarding
+• Apache Superset, Streamlit, Excel, Google Sheets
+• Git, GitHub, Bitrix24
+• AI-assisted development (Claude, GPT, Codex, Base44)
+
+🌐Languages: Uzbek (native) · English (C1) · Russian (B2)
+📍 Tashkent | Full-time · Part-time · Project-based
+🖥 Format: Remote · Hybrid · On-site
+
+Portfolio: oktam_zulfqorov.com
+📞 +998999477075
+📱 @zulfqorov7
+✉️ zulfqorov.0217@gmail.com
+📱 linkedin.com/in/oktamzulfqorov1
+📱 github.com/oktambek7
+
+#Analytics #Engineering #AI #Data
+[PDF: resumes_pdf\103071_Oktam_Zulfqorov_CV.pdf]
+
+===== 2026-09-17T07:24:16.000Z (id=103069) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103069_Davron Yusupov - CV.pdf]
+
+===== 2026-09-17T07:11:39.000Z (id=103068) =====
+#RESUME #CV
+
+🔹 Backend Engineer (Go / PostgreSQL / Microservices)
+💼 3+ years commercial experience
+
+💻 Stack:
+Go, gRPC, PostgreSQL, Redis, Kafka, MongoDB, MinIO
+Docker, Linux, GitLab CI/CD, Prometheus, Grafana
+Microservices, Clean Architecture, DDD, OAuth 2.0, JWT
+Testing (unit, integration, mocks)
+AI-assisted development (Claude Code, Codex)
+
+🏦 Domain:
+Fintech (IMAN, 500 Global W22): payments, balances, BNPL
+Gov: national SSO via OneID, e-document archive (Ministry of Economy & Finance)
+📈 API latency -25%, queries 10x faster, test coverage 0% to 85%
+
+🗣 Uzbek native | Turkish fluent | English B2 | Russian B2 reading, A2 speaking
+
+🌍 REMOTE ONLY · full-time or part-time
+📄 Employment or contract (B2B)
+🕐 Uzbekistan, UTC+5 · available now
+
+✈️ @BusinesIT21
+📞 +998 93 004 43 71
+📩 asadbekegambergenov21coder@gmail.com
+💼 linkedin.com/in/asadbek-egambergenov-8b6bb5226
+[PDF: resumes_pdf\103068_Asadbek_Egambergenov_Backend_Go.pdf]
+
+===== 2026-09-17T06:24:15.000Z (id=103067) =====
+Ищем Frontend Developer
+Компания: Neovex
+Адрес: 9-й тупик Заркайнар, 69
+Формат работы: офис, полная занятость
+Зарплата: от 10 000 000 сум, обсуждается по итогам собеседования
+
+Обязанности:
+Разработка и сопровождение современных веб-приложений.
+Разработка пользовательских интерфейсов на JavaScript/TypeScript.
+Работа с React, Next.js или Vue.js.
+Создание адаптивных интерфейсов для различных устройств и разрешений экрана.
+Интеграция frontend-приложений с REST API и внешними сервисами.
+Взаимодействие с backend-разработчиками при реализации функционала.
+Разработка переиспользуемых UI-компонентов.
+Оптимизация производительности веб-приложений.
+Работа с состоянием приложения и управлением данными.
+Реализация авторизации, регистрации и разграничения доступа на frontend.
+Работа с WebSocket и другими технологиями обмена данными в реальном времени.
+Поиск и устранение ошибок в frontend-коде.
+Тестирование и обеспечение качества пользовательского интерфейса.
+Работа с Git и системами контроля версий.
+Участие в проектировании архитектуры frontend-приложений.
+Взаимодействие с UI/UX-дизайнерами и другими членами команды.
+Поддержка и улучшение существующих веб-приложений.
+Требования:
+Опыт коммерческой frontend-разработки от 2 лет.
+Уверенное знание HTML5, CSS3 и JavaScript.
+Хорошее знание TypeScript.
+Практический опыт работы с React, Next.js или Vue.js.
+Понимание принципов компонентного подхода.
+Опыт работы с REST API.
+Понимание HTTP/HTTPS и принципов клиент-серверного взаимодействия.
+Уверенное знание Git.
+Опыт работы с npm, yarn или pnpm.
+Понимание адаптивной и кроссбраузерной верстки.
+Знание современных подходов к оптимизации производительности веб-приложений.
+Понимание принципов UX/UI.
+Умение самостоятельно находить и устранять технические проблемы.
+Ответственный подход к качеству и структуре кода.
+Свободное владение русским языком — обязательно.
+Будет преимуществом:
+Опыт работы с Next.js.
+Знание Tailwind CSS, Material UI или Ant Design.
+Опыт работы с Redux, Zustand или другими state management решениями.
+Знание React Query / TanStack Query.
+Опыт работы с WebSocket.
+Знание GraphQL.
+Опыт разработки PWA.
+Опыт работы с Docker.
+Знание CI/CD.
+Опыт работы с Figma.
+Опыт разработки высоконагруженных веб-приложений.
+Понимание микросервисной архитектуры.
+Опыт интеграции платежных систем и внешних API.
+Опыт работы с AI/ML API.
+Знание WebGL, Three.js или других технологий для создания интерактивных интерфейсов.
+Условия:
+Полная занятость в офисе.
+Работа над реальными IT-проектами.
+Современная техническая инфраструктура.
+Профессиональный и карьерный рост.
+Возможность участвовать в принятии технических решений.
+Работа в команде frontend, backend и DevOps-разработчиков.
+Возможность работать с современными GPU-серверами NVIDIA B200 и RTX PRO 6000.
+
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-17T06:24:15.000Z (id=103066) =====
+Ищем DevOps-инженера с опытом Backend Developer(Python)
+Компания: Neovex
+Адрес: 9-й тупик Заркайнар, 69
+Формат: работа в офисе, полная занятость
+Зарплата: от 10 000 000 сум, обсуждается на собеседовании
+
+Обязанности:
+Установка, настройка и администрирование Linux-серверов.
+Развертывание и сопровождение production-окружения.
+Работа с Docker и Docker Compose.
+Настройка и поддержка CI/CD.
+Настройка Nginx, DNS, доменов и SSL-сертификатов.
+Настройка VPN, firewall, сетей и доступа к серверам.
+Мониторинг серверов, сервисов и логов.
+Настройка резервного копирования и восстановления данных.
+Обеспечение безопасности и стабильности инфраструктуры.
+Диагностика и устранение проблем с CPU, GPU, RAM, дисками и сетью.
+Работа с GPU-серверами, NVIDIA CUDA и локальными ИИ-моделями.
+Автоматизация задач с помощью Bash или Python.
+
+Требования:
+Опыт работы DevOps-инженером или системным администратором от 4 лет.
+Уверенное знание Linux, Git, Docker и Docker Compose.
+Опыт настройки Nginx, DNS, SSL и CI/CD.
+Знание TCP/IP, VPN, firewall, NAT и маршрутизации.
+Опыт работы с системами мониторинга и логирования.
+Понимание принципов информационной безопасности.
+Опыт резервного копирования и восстановления данных.
+Понимание работы PostgreSQL и MySQL на уровне администрирования.
+Умение самостоятельно находить и устранять технические проблемы.
+Свободное владение русским языком — обязательно.
+
+Будет преимуществом:
+Опыт работы с Kubernetes, Ansible или Terraform.
+Знание Prometheus, Grafana, ELK/EFK или Loki.
+Опыт работы с высоконагруженными системами.
+Опыт администрирования GPU-серверов и локальных ИИ-моделей.
+
+Условия:
+Работа на полную ставку в офисе.
+Участие в реальных IT-проектах.
+Профессиональный и карьерный рост.
+Возможность влиять на развитие инфраструктуры компании.
+Работа с GPU-серверами NVIDIA B200 и RTX PRO 6000.
+Как подать заявку
+
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-17T06:24:15.000Z (id=103065) =====
+Ищем AI Video Creator
+Компания: Neovex
+Адрес: 9-й тупик Заркайнар, 69
+Формат: работа в офисе, полная занятость
+Зарплата: от 8 000 000 сум, обсуждается на собеседовании
+
+Обязанности:
+Cоздание видеороликов с помощью AI-инструментов.
+Разработка идей, сценариев и раскадровок.
+Генерация персонажей, локаций и отдельных сцен.
+Сохранение единого стиля и внешности персонажей во всех кадрах.
+Монтаж видео, добавление музыки, озвучки, эффектов и субтитров.
+Создание рекламных, презентационных и имиджевых роликов.
+Работа с дизайнерами и разработчиками.
+
+Требования:
+Опыт создания изображений и видео с помощью AI.
+Умение правильно составлять промпты.
+Понимание композиции, света, цвета и движения камеры.
+Базовые навыки видеомонтажа и обработки изображений.
+Умение работать по техническому заданию и референсам.
+Внимательность, ответственность и творческое мышление.
+Наличие портфолио с примерами AI-видео обязательно.
+Очень важно: свободное владение русским языком.
+
+Условия:
+Работа на полную ставку в офисе.
+Участие в современных AI- и медиапроектах.
+Возможность профессионального роста.
+Работа в команде дизайнеров и разработчиков.
+Доступ к современным AI-инструментам.
+
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-17T06:14:40.000Z (id=103064) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\103064_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-17T03:51:28.000Z (id=103062) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103062_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-16T11:42:26.000Z (id=103059) =====
+ООО "DUALCOM" ищет в команду мидл-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка новых и доработка сущетвующих функионалов в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке 2-5 лет;
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 15 до 20 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-09-16T11:42:25.000Z (id=103058) =====
+ООО "DUALCOM" ищет в команду стажера-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка отчетов и внесение изменений в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 3 до 5 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-09-16T10:34:19.000Z (id=103055) =====
+Backend / Python Engineer | AI & LLM Integration
+
+📍Tashkent | Remote preferred, open to Hybrid / On-site
+
+Backend engineer with 3+ years of commercial experience
+Core stack:
+Python · FastAPI · Django/DRF · PostgreSQL · Redis · SQL · Docker · REST APIs · Linux · Git
+AI / LLM:
+OpenAI API · LangChain · RAG · pgvector · embeddings · AI classification/routing
+Also:
+TypeScript · Next.js · Azure · Airflow · dbt · CI/CD · Terraform
+
+Recent works:
+Experience with production backend systems, business automation, ETL/data pipelines, authentication, CI/CD, Azure, and AI-enabled services.
+
+Currently working on backend + AI functionality in a team product; also built production/client systems and a strong public engineering portfolio
+
+Open to:
+Backend/ Python Engineer · AI Engineer · selected Full-Stack / Data Engineering roles
+
+Interested in Middle / Senior opportunities
+
+🌍 English C1 · Russian C1 · Uzbek Native
+
+🔗 GitHub: github.com/mufazzalshokh
+🔗 LinkedIn: linkedin.com/in/mufazzalshokh-ulashev
+📩 Telegram: @vodoley01
+[PDF: resumes_pdf\103055_cv_mufazzalshokh_uz.pdf]
+
+===== 2026-09-16T04:40:49.000Z (id=103054) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\103054_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-16T04:24:52.000Z (id=103053) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103053_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-15T14:47:59.000Z (id=103052) =====
+#resume #cv
+
+Data Scientist | AI/ML Engineer
+
+💼 1.5 + year of experience
+
+🖥 Tech stack:
+
+Python, SQL
+scikit-learn, XGBoost, PyTorch
+LangGraph, LangChain, RAG, Multi-Agent Systems
+FastAPI, Next.js, React, TypeScript
+Qdrant, BM25, Tavily, Langfuse
+Gradio, Vercel, Render, Jupyter
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote / On-site / Hybrid
+
+📞 Phone: +998977493550
+📩Telegram: @rosychks
+
+===== 2026-09-15T07:55:58.000Z (id=103048) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103048_Davron Yusupov - CV.pdf]
+
+===== 2026-09-15T04:33:55.000Z (id=103046) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\103046_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-15T04:28:42.000Z (id=103045) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103045_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-14T09:56:51.000Z (id=103039) =====
+🚨 OPEN TO WORK | IT INFRASTRUCTURE & CYBERSECURITY
+I’m currently open to new opportunities in:
+💻 Senior System Administrator
+🌐 Network Engineer
+🖥 IT Support / IT Infrastructure
+🛡 SOC Analyst
+📍 Work Type: On-site | Hybrid
+📍 Location: Uzbekistan / Open to suitable opportunities
+I’m particularly interested in roles where I can contribute to IT infrastructure, networking, system administration, endpoint support, Networking device, CCTV installation and cybersecurity operations.
+🔗 LinkedIn: linkedin.com/in/nodirbek-yusupov-863044247
+📩 Contact: DM me here on Telegram
+
+ Telegram: @yusupov_nbk
+Phone: +99870-198-1548
+
+#OpenToWork #SysAdmin #SystemAdministrator #NetworkEngineer #ITSupport #SOCAnalyst #CyberSecurity #ITInfrastructure #Networking #Uzbekistan #Tashkent #Hiring
+
+===== 2026-09-14T09:23:09.000Z (id=103037) =====
+VAKANSIYA: Flutter Developer (Middle/Senior)
+
+Next Developers Team jamoasiga Flutter Developer izlayapmiz.
+
+📍 Toshkent / m.Minor· Ofis / gibrid 
+💰 Oylik: 12 000 000 so‘m
+
+Biz haqimizda
+Next Developers Team — ta’lim platformalari va mobil ilovalarni ishlab chiqish hamda rivojlantirish bilan shug‘ullanuvchi IT jamoa.
+
+VAZIFALAR
+
+• Ishlab turgan Flutter ilovani rivojlantirish va takomillashtirish
+• Yangi funksiyalar ishlab chiqish va mavjudlarini optimallashtirish
+• REST API va Firebase bilan ishlash
+• Backend dasturchilar va dizaynerlar bilan hamkorlik qilish
+• Xatolarni aniqlash va ilova barqarorligini oshirish
+• Kod sifatini nazorat qilish va Code Review o'tkazish
+• Vazifalarni ClickUp orqali boshqarish
+
+TALABLAR
+
+• Flutter bo‘yicha kamida 2 yil tajriba
+• Dart va Riverpod'ni yaxshi bilish
+• REST API, Firebase va Git bilan ishlash
+• Clean Architecture, SOLID va DI tamoyillarini tushunish
+• Mavjud kod bazasi bilan ishlash va uni optimallashtirish tajribasi
+• App Store va Google Play'ga ilovalarni mustaqil joylashtirish va yangilash tajribasi
+
+QO‘SHIMCHA AFZALLIKLAR
+
+• Unit / Widget / Integration testlar yozish tajribasi
+• CI/CD: Codemagic, GitHub Actions, Fastlane
+• UI/UX bo‘yicha tushuncha
+• ClickUp bilan ishlash tajribasi
+
+ARIZA TOPSHIRISH
+
+Agar siz Flutter'da real loyihalar bilan ishlagan, tayyor mahsulotni rivojlantirishga qiziqadigan mutaxassis bo‘lsangiz, rezyume va portfolio/GitHub havolangizni yuboring.
+
+📩 @intalim_pm
+
+Jamoamizga qo‘shiling va ta’lim sohasidagi real mahsulotni rivojlantirishda ishtirok eting.
+
+===== 2026-09-14T09:17:40.000Z (id=103036) =====
+Frame Media расширяет команду в связи с этим требуется Senior Devops инженер. 
+
+Требования:
+- Знание русского языка ОБЯЗАТЕЛЬНО
+- Опыт работы по направлению от 4 лет;
+- Опыт работы с Proxmox;
+- Опыт работы с базой данных PostgreSQL;
+- Опыт работы с балансировкой вебсайтов(haproxy);
+- Наличие успешно реализованных проектов;
+- Опыт работы по развертыванию и поддержки микросервисной архитектуры;
+- Знание сетевых протоколов и технологий для разработки и оптимизации сетевых приложений;
+- Опыт работы с инструментами Prometheus, Grafana, Elasticsearch, Logstash, Kibana;
+
+Обязанности:
+- Автоматизация сборки и развертывания приложений CI/CD
+- Администрирование Linux серверов 
+- Обеспечение непрерывной доступности и отказоустойчивости серверов
+- Настройка резервного копирования
+
+Условия:
+Оплата  20 000 000 - 24 000 000
+Официальное трудоустройство по ТК РУз; 
+График 5/2 Возможно рассмотрения гибридного графика;
+
+
+ 
+Телефон для связи: Ирина @GIM_HR_IT, предварительно резюме отправляйте в ТГ или  
+www.linkedin.com/in/ирина-газукина-135ab3254
+
+===== 2026-09-14T08:49:04.000Z (id=103035) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103035_Davron Yusupov - CV.pdf]
+
+===== 2026-09-14T06:49:59.000Z (id=103033) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103033_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-14T06:47:25.000Z (id=103032) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\103032_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-13T10:02:04.000Z (id=103030) =====
+#resume #cv
+
+Data Scientist | AI/ML Engineer
+
+💼 1.5 + year of experience
+
+🖥 Tech stack:
+
+Python, SQL
+scikit-learn, XGBoost, PyTorch
+LangGraph, LangChain, RAG, Multi-Agent Systems
+FastAPI, Next.js, React, TypeScript
+Qdrant, BM25, Tavily, Langfuse
+Gradio, Vercel, Render, Jupyter
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote / On-site / Hybrid
+
+📞 Phone: +998977493550
+📩Telegram: @rosychks
+
+===== 2026-09-13T06:38:27.000Z (id=103029) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103029_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-12T07:36:15.000Z (id=103024) =====
+#вакансия #APP #TeamLead #SolutionArchitect #onsite #relocate 
+
+Ищем сильного лидера, который будет отвечать за архитектуру корпоративных систем, развитие технических решений и их соответствие бизнес-целям.
+
+Роль с реальным влиянием на архитектурные решения, технологический стэк, интеграции и качество IT-продуктов на всём жизненном цикле.
+
+• Компания: InfinBANK (4+ млн пользователей)
+• Формат: Офис в центре Ташкента (ул. Тараса Шевченко 1/А)
+• ЗП: вилка от $5000k - $8000k NET
+• Трудоустройство по ТК РУз
+• Корпоративные льготы (премии, 13-ая ЗП, well-being)
+
+🎯 Чем предстоит заниматься
+• Анализировать бизнес- и технические требования, ограничения и риски
+• Проектировать Solution Architecture и целевые технические решения
+• Выбирать технологии, платформы и архитектурные паттерны
+• Определять подходы к масштабируемости, производительности и безопасности
+• Руководить технической частью проектов и управлять командой
+• Обеспечивать интеграцию новых решений с существующим IT-ландшафтом
+• Взаимодействовать с бизнесом, разработчиками и другими stakeholders
+• Сопровождать решения от концепции до внедрения и дальнейшего развития
+• Разрабатывать архитектурную документацию ARD / TRD
+• Проектировать и документировать Sequence Diagrams
+
+🔎 Что важно
+• Высшее образование в сфере IT
+• Опыт управления техническими командами
+• Сильная техническая экспертиза в IT-системах, ПО и архитектуре
+• Опыт проектирования сложных корпоративных решений
+• Системное и аналитическое мышление
+• Умение находить решения для сложных технических задач
+• Сильные коммуникационные навыки — умение говорить на одном языке с бизнесом и IT
+• Стратегическое мышление и понимание связи technology ↔ business
+• Русский язык — свободное владение
+
+📩 @svitych001 
+📩 v.svitich@infinbank.com
+
+===== 2026-09-12T06:02:01.000Z (id=103023) =====
+#RESUME #CV
+
+🔹 Backend Engineer (Go / PostgreSQL / Microservices)
+💼 3+ years commercial experience
+
+💻 Stack:
+Go, gRPC, PostgreSQL, Redis, Kafka, MongoDB, MinIO
+Docker, Linux, GitLab CI/CD, Prometheus, Grafana
+Microservices, Clean Architecture, DDD, OAuth 2.0, JWT
+Testing (unit, integration, mocks)
+AI-assisted development (Claude Code, Codex)
+
+🏦 Domain:
+Fintech (IMAN, 500 Global W22): payments, balances, BNPL
+Gov: national SSO via OneID, e-document archive (Ministry of Economy & Finance)
+📈 API latency -25%, queries 10x faster, test coverage 0% to 85%
+
+🗣 Uzbek native | Turkish fluent | English B2 | Russian B2 reading, A2 speaking
+
+📍 Urgench / Tashkent
+🖥 Remote / Hybrid / On-site
+
+✈️ @BusinesIT21
+📞 +998 93 004 43 71
+📩 asadbekegambergenov21coder@gmail.com
+💼 linkedin.com/in/asadbek-egambergenov-8b6bb5226
+[PDF: resumes_pdf\103023_Asadbek_Egambergenov_Backend_Go.pdf]
+
+===== 2026-09-12T05:43:15.000Z (id=103021) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103021_Davron Yusupov - CV.pdf]
+
+===== 2026-09-12T05:38:32.000Z (id=103020) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103020_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-11T05:24:09.000Z (id=103019) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\103019_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-11T04:43:16.000Z (id=103017) =====
+#Resume 
+
+Muhammadzohid Qahramonov — Flutter Developer
+
+💼 1.5+ years of experience | 6+ productions apps | publish App Store & Google Play Store
+📍Tashkent | Full Time/Hybrid/ on site
+🗣: Uzbek native | English A2
+
+👨‍💻 Stack:
+Flutter, Dart, Firebase, Firebase services, Google/Yandex maps, Bloc, Riverpod, Provider, Go-router, Dio, Payment integrations, App publish App Store - Play Store, MVVM/MVC/Clean architecture ...
+
+📱 Published Apps:
+Onur: link
+Blitz Student: link
+Blitz Teacher: link
+Blitz Parent: link
+Freya: link
+Masterium: link
+
+📳 Contacts
+📱 Telegram: @zohid_flutter_coder
+📩Mail: qahramonovmuhammadzohid47@gmail.com
+📳 +998772653507
+📱Github: link
+📱 Linkedin: link
+Head Hunter: link
+
+#Flutter #Dart #Mobile #Cross-platform #Resume
+
+===== 2026-09-11T04:43:13.000Z (id=103016) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103016_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-10T15:38:53.000Z (id=103015) =====
+🚀 We're Hiring: DevOps-инженер (AWS)
+
+LUCID ELD разрабатывает современные решения в сфере ELD (Electronic Logging Device) и управления автопарком в реальном времени для рынка США. Помогаем водителям соблюдать требования законодательства, а транспортным компаниям — обеспечивать своевременную доставку грузов.
+
+Ищем опытного DevOps-инженера, который возьмёт на себя облачную инфраструктуру на AWS и обеспечит стабильную работу нашей платформы.
+
+🎯 Обязанности:
+- Проектирование, развёртывание и поддержка облачной инфраструктуры на AWS
+- Настройка и оптимизация CI/CD-пайплайнов
+- Контейнеризация приложений (Docker) и управление оркестрацией (Kubernetes/EKS)
+- Автоматизация инфраструктуры через Terraform/CloudFormation и Ansible
+- Настройка мониторинга и алертинга (CloudWatch, Prometheus, Grafana)
+- Обеспечение отказоустойчивости, масштабируемости и безопасности production-окружения
+- Оптимизация затрат на облачную инфраструктуру (Cost Optimization)
+- Ведение задач и инцидентов в таск-трекере, документирование процессов
+- Участие в дежурствах (on-call) по необходимости
+
+✅ Обязательные требования (Must have):
+
+Опыт и профиль
+- Опыт работы DevOps/SRE от 2–3 лет
+- Администрирование Linux-серверов (Ubuntu/CentOS/Debian)
+- Понимание сетевых основ (TCP/IP, DNS, VPN, балансировка нагрузки)
+
+AWS
+- EC2, S3, RDS, VPC, IAM, Route53
+- Построение отказоустойчивой архитектуры (Auto Scaling, ELB/ALB)
+- Сетевая безопасность (Security Groups, NACL)
+
+IaC и оркестрация
+- Terraform или CloudFormation
+- Ansible/Chef/Puppet
+- Docker + Kubernetes/EKS
+
+CI/CD и мониторинг
+- GitLab CI, Jenkins, GitHub Actions или AWS CodePipeline
+- CloudWatch, Prometheus + Grafana, ELK/EFK stack
+- Bash, Python
+
+Таск-менеджмент
+- Jira, YouTrack, Azure DevOps Boards или аналоги
+- Документирование в Confluence/Notion
+- Agile/Scrum/Kanban, декомпозиция задач и оценка трудозатрат
+
+⭐️ Будет плюсом (Nice to have):
+- AWS-сертификация (Solutions Architect, DevOps Engineer)
+- Опыт с GCP/Azure, service mesh (Istio, Linkerd)
+- DevSecOps: сканирование уязвимостей, secrets management (Vault)
+- Serverless (Lambda, API Gateway), миграция on-premise → cloud
+- Интеграция таск-трекеров с CI/CD
+- Runbook и postmortem-документация по инцидентам
+- Знание ITSM-практик
+
+🤝 Soft skills:
+- Умение работать в команде с разработчиками
+- Ответственность за production-окружение
+- Готовность к дежурствам (on-call)
+- Внимательность к деталям и проактивность
+
+🕔 Формат: гибридный, полная занятость (full-time)
+
+💼 Мы предлагаем:
+
+- Корпоративный тимбилдинг
+- Корпоративная почта + доступ к Claude AI
+- Зарплата От $2000. Формат работы — офлайн или гибрид, остальные детали — индивидуально.
+
+📩 Резюме — в Telegram: @Mallasochxonim
+
+#hiring #devops #aws #vacancy #Tashkent #ELD
+
+===== 2026-09-10T14:57:44.000Z (id=103014) =====
+🇺🇿Guruhda bo'sh ish o'rinlari va rezyumelarni joylashtirish narxi haqida ma'lumot:
+
+Bo'sh ish o'rinlari
+✅ Bir martalik obuna. Bitta vakansiyani bir marta e'lon qiling. Narxi - 40 000 so'm.
+✅ Ikki haftalik obuna. IT sohasida cheksiz miqdordagi bo'sh ish o'rinlarini nashr etish. Xuddi shu vakansiya kuniga bir martadan ko'p bo'lmagan holda joylashtirilishi mumkin. Narxi - 130 000 so'm.
+✅ Oylik obuna. IT sohasida cheksiz miqdordagi bo'sh ish o'rinlarini nashr etish. Xuddi shu vakansiya kuniga bir martadan ko'p bo'lmagan holda joylashtirilishi mumkin. Narxi - 160 000 so'm.
+
+Rezyume
+✅ Bir martalik joylashtirish. O'z rezyumeni guruhga bir marta joylashtirish imkoniyati. Narxi - 25 000 so'm.
+✅ Oylik obuna. Guruhda har kuni rezyumeni joylashtirish imkoniyati. Rezyumeni kuniga bir martadan ko'p bo'lmagan holda joylashtirishga ruxsat beriladi. Narxi - 60 000 so'm.
+
+Qo'shimcha xizmatlar:
+✅ vakansiya / rezyumening pin;
+✅ reklama;
+✅ Guruh auditoriyasi so'rovini o'tkazish.
+
+Obuna sotib olish uchun - @el_grapo
+Guruh qoidalari haqida batafsil: https://bit.ly/2T2qvb5
+Qo'shimcha xizmatlar haqida batafsil ma'lumot: https://bit.ly/38jPs7t
+
+🇷🇺Информация о стоимости размещения вакансий и резюме в группе:
+
+Вакансии
+✅ Разовая подписка. Публикация одной вакансии, один раз. Стоимость - 40 000 сум.
+✅ Подписка на две недели. Публикация неограниченного количества вакансий сферы ИТ. Одну и ту же вакансию можно размещать не чаще чем один раз в сутки. Стоимость - 130 000 сум. 
+✅ Подписка на месяц. Публикация неограниченного количества вакансий сферы ИТ. Одну и ту же вакансию можно размещать не чаще чем один раз в сутки. Стоимость - 160 000 сум.
+
+Резюме
+✅ Разовое размещение резюме. Возможность разместить свое резюме в группе один раз. Стоимость - 25 000 сум.
+✅ Подписка на месяц. Возможность ежедневно размещать свое резюме в группе. Допускается размещение резюме не чаще чем один раз в день. Стоимость - 60 000 сум.
+
+Дополнительные услуги:
+✅ пин вакансии/резюме;
+✅ реклама; 
+✅ Проведение опроса аудитории группы.
+
+Для приобретения подписки - @el_grapo
+Подробнее о правилах группы: https://bit.ly/2T2qvb5
+Подробная информация по дополнительным услугам: https://bit.ly/38jPs7t.
+
+===== 2026-09-10T10:29:33.000Z (id=103009) =====
+ООО "DUALCOM" ищет в команду мидл-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка новых и доработка сущетвующих функионалов в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке 2-5 лет;
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 15 до 20 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-09-10T10:29:33.000Z (id=103008) =====
+ООО "DUALCOM" ищет в команду стажера-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка отчетов и внесение изменений в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 3 до 5 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-09-10T10:21:53.000Z (id=103007) =====
+#Hiring #AI #ML #LLM #AIAgents #Tashkent
+
+Ищем AI / ML Engineer в команду разработки ISHONCH 🤖💡
+Мы создаем AI-решения, которые автоматизируют реальные бизнес-процессы: от ML/DL-моделей и RAG до production-ready AI-агентов.
+Чем предстатит заниматься:
+Разрабатывать, обучать и внедрять ML/DL-модели для бизнес-задач.
+Строить AI-агентов и multi-agent workflows с tool/function calling, MCP и LangGraph/LangChain (или аналогами).
+Проектировать RAG-системы: эмбеддинги, hybrid search, reranking и векторные БД.
+Выполнять fine-tuning LLM, оптимизировать inference и интегрировать модели через API и микросервисы.
+Участвовать в MLOps/LLMOps: evaluation, мониторинг, tracing, guardrails и повышение качества AI-систем.
+
+Требования к кандидату:
+Опыт: от 2 лет в ML/DL или разработке AI-систем.
+Стек: Python, NumPy/pandas, scikit-learn, PyTorch / TensorFlow, Hugging Face Transformers.
+Знания: понимание ML/DL, архитектуры трансформеров и принципов работы LLM.
+
+Навыки: практический опыт с AI-агентами, RAG, vector DB и structured output; уверенный Git и деплой в production.
+Языки: знание узбекского и английского (Intermediate+) языков.
+
+Будет преимуществом:
+Разработка API на FastAPI / Django REST Framework и контейнеризация с Docker.
+Computer Vision и видеоаналитика (OpenCV, YOLO, tracking, RTSP).
+MLOps/LLMOps-инструменты, self-hosted inference, GPU и Kubernetes.
+Мультимодальные модели или голосовые пайплайны (STT-LLM-TTS).
+
+Что мы предлагаем:
+Развитие: оплачиваемые профильные курсы, IT-конференции, фестивали и тимбилдинги.
+Условия: бесплатные вкусные обеды в офисе.
+Карьера: реальные масштабные задачи, влияние на продукты компании, профессиональный и финансовый рост.
+Условия работы:
+Локация: офис в г. Ташкент.
+График: 5/2, с 09:00 до 18:00.
+Командировки: в г. Коканд (организуются и оплачиваются компанией).
+Зарплата: От 14.000.000 сум.
+📩 Резюме и краткое описание проектов отправляйте в ЛС: @Ishonch_V
+
+===== 2026-09-10T09:10:23.000Z (id=103006) =====
+🔥 Ищем SMM-специалиста / Мобилографа в команду!
+В маркетинговый отдел "SAYHUN GROUP BOTTLERS" требуется креативный и инициативный универсал, который умеет создавать залипательный контент и развивать бренды в соцсетях.
+📍 Формат работы: Полная ставка, в офисе (Пн–Сб, 9:00–18:00)
+💰 ЗП:  от 8 млн на руки 
+Что нужно будет делать (Обязанности):
+• Полное ведение и развитие соцсетей (Instagram, Telegram, TikTok, FB, YT).
+• Составление ежемесячного контент-плана.
+• Съемка качественного фото/видео контента на телефон (продукты, процессы, команда).
+• Динамичный монтаж трендовых Reels/TikTok (CapCut/VN).
+• Написание вовлекающих текстов, ответы на комментарии и сообщения.
+• Анализ статистики и предоставление ежемесячных отчетов.
+Наши требования к кандидату:
+• Опыт в SMM или мобилографии от 1 года.
+• Наличие портфолио с примерами видео и успешных кейсов (обязательно).
+• Грамотный узбекский и русский языки.
+• Готовность выполнить небольшое тестовое задание.
+• Знание фишек мобильной съемки (свет, ракурс, композиция, звук).
+• Плюсом будет: опыт настройки таргета (Facebook Ads) и работы с блогерами.
+Что мы предлагаем:
+• Официальное трудоустройство.
+• Своевременная оплата труда.
+• Предоставление необходимой техники и оборудования для съемок.
+• Дружный коллектив и реальный профессиональный рост.
+Этапы отбора: Резюме и портфолио ➡️ Собеседование ➡️ Тестовое задание ➡️ Стажировка (1 месяц).
+📥 Откликнуться:
+📞 Телефон: +998974807646
+✈️ Telegram: @Nargiza_v
+🏢 Адрес: адрес
+Присылайте резюме сразу со ссылкой на ваше портфолио!
+
+===== 2026-09-10T07:53:59.000Z (id=103005) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\103005_Davron Yusupov - CV.pdf]
+
+===== 2026-09-10T07:51:04.000Z (id=103004) =====
+#vacancy #BusinessAnalyst #ProductManager #SAP_FI #S4HANA #Retail #Accounting #Treasury #Middle #Senior
+
+Бизнес-аналитик / Продакт-менеджер (SAP FI / S/4HANA / Ритейл / БУ и НК РУз) 📊🏦
+
+ID вакансии: RM-41_Gul
+Ставка: 17$/час.
+Грейд: Middle+ / Senior.
+Загрузка: Full-time (полная занятость).
+Старт: ASAP.
+Длительность: Долгосрочно.
+Формат: Удалённо.
+Локация: Ташкент
+📌 Важно: рассматриваются кандидаты с релевантностью опыта от 85% (аутстаффинговая позиция).
+🏢 О компании: крупный ритейл в СНГ.
+🧩 О проекте: внедрение и развитие системы бухгалтерского учёта, налогового учёта/отчётности и казначейства на базе SAP, включая учёт товаров, ОС и НМ, ДЗ/КЗ, учёт аренды, налоговые операции (НДС, налог на прибыль, имущество, земельный налог), управление платежами и банковскими интеграциями.
+Ищем бизнес-аналитика / продакт-менеджера для работы над внедрением SAP FI в крупном ритейлере СНГ. Роль для специалиста с опытом 2-3 года в SAP FI (желательно S/4HANA), который понимает принципы бухгалтерского и налогового учёта РУз, умеет вести бэклог инициатив, координировать работу с SAP-интегратором и сопровождать месячное/годовое закрытие по БУ и НК учётам.
+🚀 Ключевые задачи:
+ • Взаимодействие с заказчиком, анализ продукта, описание бизнес-процессов as-is → to-be.
+ • Формирование совместно с бизнес-заказчиком функциональных/технических требований для постановки задач разработчикам.
+ • Ведение бэклога инициатив по продуктам, приоритизация с учётом эффективности / масштабируемости сети / требований законодательства.
+ • Участие в ПСИ, приёмка результатов.
+ • Координация с SAP-интегратором / вендором, участие в проектах внедрения.
+ • Сопровождение месячного / годового закрытия по БУ и НК учётам.
+ • Развитие инструментов интеграции с банковскими системами, платёжными системами, системами электронного документооборота, системами налогового взаимодействия.
+🎯 Обязательные требования (Hard Skills):
+SAP (КРИТИЧНО!):
+ • Опыт уверенного пользователя с SAP FI (S/4HANA — весомое преимущество) от 2-3 лет на стороне бизнеса или ИТ.
+Учёт и законодательство РУз:
+ • Понимание принципов бухгалтерского и налогового учёта РУз (НСБУ, НК РУз).
+Аналитика и продакт-менеджмент:
+ • Опыт работы бизнес-аналитиком / продакт-менеджером: сбор требований, написание ФТ/ТЗ, приоритизация бэклога.
+Казначейство:
+ • Понимание процессов казначейства (cash flow, банковские интеграции) — хотя бы на уровне пользователя.
+Образование:
+ • Профильное образование: финансы / бухучёт + доп. ИТ-образование, либо наоборот (желательно).
+💡 Будет плюсом:
+ • Опыт работы в ритейле.
+ • Знание положений по БУ, НК РУз.
+ • Опыт участия в SAP-роллаутах / масштабировании систем.
+ • Работа с Asana / Jira / Confluence.
+ • Опыт работы с ЭСФ / электронной отчётностью в РУз.
+📲 Контакт для отклика: @hrwomenpro
+(При отклике, пожалуйста, пишите ID вакансии: RM-41_Gul)
+
+===== 2026-09-10T07:50:25.000Z (id=103003) =====
+#vacancy #BusinessAnalyst #SystemAnalyst #BPMN #UML #API #SOAP #REST #Kafka #RabbitMQ #Fintech #Banking #Senior
+
+Senior бизнес-/системный аналитик (Интеграции / API / BPMS / Ташкент) 📊🔗
+
+ID вакансии: BSS_Red
+Ставка: 2500-3500$
+Грейд: Senior.
+Загрузка: Full-time (полная занятость).
+График: 5/2 (9:00–18:00 или 10:00–19:00 на выбор).
+Формат: Офис в центре Ташкента.
+Локация: Ташкент, Узбекистан. (рассматриваем кандидатов желающих релоцироваться)
+Трудоустройство: Официально по ТК РУз с первого дня.
+⏳ Срок актуальности вакансии: до 11.09.2026.
+
+🚀 Зона ответственности:
+Анализ и документирование существующих сервисов компании.
+Выяснение и документирование требований к интеграционным процессам и API.
+Сбор, анализ и документирование функциональных и нефункциональных требований к ПО.
+Разработка технических заданий для разработки ПО.
+Описание связей между различными системами и способов их взаимодействия.
+Формализация требований по описанию сущностей, взаимосвязей и процессов предметной области с использованием специальных нотаций.
+Сбор, анализ и описание источников входных и выходных данных для новых продуктов и доработок существующих.
+Участие в разработке взаимодействий, обработки и хранения данных.
+Подготовка схем тестирования функционала для выявления отклонений от бизнес-требований.
+Анализ рисков и причин возникновения ошибок при разработке систем.
+Генерация идей, проработка технических решений интеграционных взаимодействий с внешними партнёрами.
+Участие в написании внешней документации для партнёров компании.
+Участие в разработке архитектуры продуктов и концепций совместно с архитекторами и лидами команд.
+🎯 Обязательные требования:
+Опыт:
+Опыт работы в качестве бизнес-/системного аналитика в IT-компаниях (банки, интеграторы, финтех, телеком) не менее 3 лет.
+Моделирование:
+Знание нотаций BPMN и UML.
+Опыт работы в любой BPMS.
+Инструменты:
+Опыт работы с Jira, Confluence, Miro, Figma, Enterprise Architect.
+API и интеграции:
+Опыт работы с описанием API и процессов (sequence diagram, XSD, JSON Schema).
+Опыт работы с описанием SOAP- и REST-взаимодействий.
+Понимание работы брокеров сообщений (RabbitMQ, Apache Kafka).
+Процессы и методологии:
+Понимание производственного процесса разработки и поддержки ПО (SDLC) в разрезе различных методологий и подходов (Agile, Kanban и пр.).
+Опыт самостоятельной декомпозиции больших задач для итеративной проработки в составе команды.
+Базы данных:
+Знание основ SQL.
+Языки:
+Английский язык — чтение технической документации.
+Русский язык — на уровне носителя языка или близком к нему для коммуникации в команде и написания документации.
+💡 Будет плюсом:
+Опыт разработки и проектирования систем.
+Опыт BI-аналитики.
+Углублённые знания финансовых продуктов на рынке (эквайринг, процессинг, страхование и т. д.).
+Знание смежных профессиональных областей (UI/UX, Data Science, поведенческая аналитика и т. д.).
+Знание основ тестирования и управления дефектами.
+🎁 Мы предлагаем:
+Комфортный график работы: 5/2 с графиком на выбор (9:00–18:00 или 10:00–19:00).
+Официальное трудоустройство в соответствии с ТК РУз с первого дня.
+Ежеквартальные премии по итогам выполнения KPI.
+Современный офис в центре города с полностью оборудованной инфраструктурой для работы и отдыха: спортзал, chill zone, PS5, настольный теннис и футбол.
+Расширенный социальный пакет: ДМС, регулярные тимбилдинги, пакет бесплатных переводов до 50 млн сум в Paynet Mobile и другие бонусы.
+Полное или частичное покрытие расходов на профильное обучение и повышение квалификации.
+📲 Контакт для отклика: @hrwomenpro
+(При отклике, пожалуйста, сразу присылайте актуальное резюме с акцентом на опыт интеграций (SOAP/REST, брокеры сообщений) и работы в банковском/финтех/телеком домене, пишите ID вакансии: BSS_Red и подтверждайте готовность к работе в Ташкенте)
+
+===== 2026-09-10T06:45:57.000Z (id=103001) =====
+#RESUME #CV
+
+🔹 Backend Engineer (Go / PostgreSQL / Microservices)
+💼 3+ years commercial experience
+
+💻 Stack:
+Go, gRPC, PostgreSQL, Redis, Kafka, MongoDB, MinIO
+Docker, Linux, GitLab CI/CD, Prometheus, Grafana
+Microservices, Clean Architecture, DDD, OAuth 2.0, JWT
+Testing (unit, integration, mocks)
+AI-assisted development (Claude Code, Codex)
+
+🏦 Domain:
+Fintech (IMAN, 500 Global W22): payments, balances, BNPL
+Gov: national SSO via OneID, e-document archive (Ministry of Economy & Finance)
+📈 API latency -25%, queries 10x faster, test coverage 0% to 85%
+
+🗣 Uzbek native | Turkish fluent | English B2 | Russian B2 reading, A2 speaking
+
+📍 Urgench / Tashkent
+🖥 Remote / Hybrid / On-site
+
+✈️ @BusinesIT21
+📞 +998 93 004 43 71
+📩 asadbekegambergenov21coder@gmail.com
+💼 linkedin.com/in/asadbek-egambergenov-8b6bb5226
+[PDF: resumes_pdf\103001_Asadbek_Egambergenov_Backend_Go.pdf]
+
+===== 2026-09-10T06:44:50.000Z (id=103000) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\103000_Eshimov_Hayitmurod_Resume (1).pdf]
+
+===== 2026-09-09T13:35:59.000Z (id=102997) =====
+Backend Developer (Middle) | Node.js · TypeScript | Ташкент
+
+Ищем backend-разработчика в команду внутренних систем iPost Cargo — логистика Китай → Узбекистан: склады, сортировка, доставка. Несколько десятков сервисов на NestJS, общий API Gateway, очереди.
+
+ЧТО ПРЕДСТОИТ ДЕЛАТЬ
+развивать backend внутренних систем (ERP / CRM / WMS) на NestJS
+проектировать REST API для интеграций: курьерские службы, почта, платежи, 1С
+писать миграции и оптимизировать запросы на больших таблицах
+находить причину бага по логам через несколько сервисов и закрывать её тестом
+участвовать в code review и вести техническую документацию
+СТЕК
+
+Node.js 20+, TypeScript, NestJS, TypeORM, MySQL, PostgreSQL, RabbitMQ, Kafka, Redis + Bull, Docker, GitLab CI, REST API, GraphQL.
+
+ЧТО ВАЖНО
+от 2–3 лет коммерческой разработки на Node.js, из них от года на TypeScript
+уверенный NestJS: модули, DI, guards, interceptors
+TypeORM или другая ORM + опыт написания миграций
+сильный SQL: индексы, план запроса, большие таблицы
+очереди (RabbitMQ / Kafka / Bull): ack, retry, идемпотентность
+умение работать с чужим legacy-кодом
+Git / GitLab, Docker Compose
+русский или узбекский язык
+БУДЕТ ПЛЮСОМ
+
+ERP / WMS / логистика, GraphQL, Telegram-боты на Node.js, опыт с общей БД между сервисами, CI/CD и мониторинг.
+
+УСЛОВИЯ
+fix 1000$+  бонус
+Ташкент, офис / гибрид
+полная занятость
+испытательный срок 3 месяца с планом онбординга
+
+Резюме: @shahbozmj
+
+#Backend #NodeJS #NestJS #TypeScript #Tashkent #ITjobs
+
+===== 2026-09-09T13:20:12.000Z (id=102996) =====
+#resume #cv
+
+Data Scientist | AI/ML Engineer
+
+💼 1.5 + year of experience
+
+🖥 Tech stack:
+
+Python, SQL
+scikit-learn, XGBoost, PyTorch
+LangGraph, LangChain, RAG, Multi-Agent Systems
+FastAPI, Next.js, React, TypeScript
+Qdrant, BM25, Tavily, Langfuse
+Gradio, Vercel, Render, Jupyter
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote / On-site / Hybrid
+
+📞 Phone: +998977493550
+📩Telegram: @rosychks
+
+===== 2026-09-09T10:13:14.000Z (id=102995) =====
+#RESUME #CV
+
+🔹 Backend Engineer (Go / PostgreSQL / Microservices)
+💼 3+ years commercial experience
+
+💻 Stack:
+Go, gRPC, PostgreSQL, Redis, Kafka, MongoDB, MinIO
+Docker, Linux, GitLab CI/CD, Prometheus, Grafana
+Microservices, Clean Architecture, DDD, OAuth 2.0, JWT
+Testing (unit, integration, mocks)
+AI-assisted development (Claude Code, Codex)
+
+🏦 Domain:
+Fintech (IMAN, 500 Global W22): payments, balances, BNPL
+Gov: national SSO via OneID, e-document archive (Ministry of Economy & Finance)
+📈 API latency -25%, queries 10x faster, test coverage 0% to 85%
+
+🗣 Uzbek native | Turkish fluent | English B2 | Russian B2 reading, A2 speaking
+
+📍 Urgench / Tashkent
+🖥 Remote / Hybrid / On-site
+
+✈️ @BusinesIT21
+📞 +998 93 004 43 71
+📩 asadbekegambergenov21coder@gmail.com
+💼 linkedin.com/in/asadbek-egambergenov-8b6bb5226
+[PDF: resumes_pdf\102995_Asadbek_Egambergenov_Backend_Go.pdf]
+
+===== 2026-09-09T06:35:02.000Z (id=102992) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102992_Davron Yusupov - CV.pdf]
+
+===== 2026-09-09T05:39:35.000Z (id=102991) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102991_Eshimov_Hayitmurod_Resume (4).pdf]
+
+===== 2026-09-08T05:09:32.000Z (id=102989) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102989_Davron Yusupov - CV.pdf]
+
+===== 2026-09-08T04:23:51.000Z (id=102988) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102988_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-08T04:22:28.000Z (id=102987) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\102987_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-07T15:47:46.000Z (id=102986) =====
+#resume #cv
+
+🧑🏼‍💻Robiya Olimjonova-Data Scientist | AI/ML Engineer
+
+💼 1.5 + years of experience
+
+🖥 Tech stack:
+
+Python, SQL
+scikit-learn, XGBoost, PyTorch
+LangGraph, LangChain, RAG, Multi-Agent Systems
+FastAPI, Next.js, React, TypeScript
+Qdrant, BM25, Tavily, Langfuse
+Gradio, Vercel, Render, Jupyter
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote / On-site / Hybrid
+
+📞 Phone: +998977493550
+📩Telegram: @rosychks
+
+===== 2026-09-07T05:40:38.000Z (id=102985) =====
+#resume #cv
+
+💻 Frontend Engineer (React.js / TypeScript)
+
+💼 1(1+ month) year of experience | Health tech 
+
+💻 Tech stack:
+  - React, TypeScript, Vite
+  - Tailwind CSS, Bootstrap
+  - React Query, Zustand, Redux Toolkit
+  - Feature-Sliced Design Architecture
+  - PHP / Wordpress / Elementor
+
+📍 Tashkent | Full-time / Part-time / Project-based
+💻 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998932501906
+✈️ Telegram: @tg_dovud_ty
+🔗 LinkedIn: https://www.linkedin.com/in/dovud-toshmurodov-683239396/
+[PDF: resumes_pdf\102985_Резюме_Frontend_Engineer-Dovud_Toshmurodov.pdf]
+
+===== 2026-09-07T05:19:17.000Z (id=102983) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102983_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-07T04:32:03.000Z (id=102982) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102982_Davron Yusupov - CV.pdf]
+
+===== 2026-09-07T03:59:02.000Z (id=102981) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\102981_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-06T14:38:47.000Z (id=102980) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102980_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-09-06T13:33:01.000Z (id=102979) =====
+#resume #cv
+
+💻 Frontend Engineer (React.js / TypeScript)
+
+💼 1(1+ month) year of experience | Health tech 
+
+💻 Tech stack:
+  - React, TypeScript, Vite
+  - Tailwind CSS, Bootstrap
+  - React Query, Zustand, Redux Toolkit
+  - Feature-Sliced Design Architecture
+  - PHP / Wordpress / Elementor
+
+📍 Tashkent | Full-time / Part-time / Project-based
+💻 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998932501906
+✈️ Telegram: @tg_dovud_ty
+🔗 LinkedIn: https://www.linkedin.com/in/dovud-toshmurodov-683239396/
+[PDF: resumes_pdf\102979_Резюме_Frontend_Engineer-Dovud_Toshmurodov.pdf]
+
+===== 2026-09-06T08:39:22.000Z (id=102976) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\102976_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-06T06:31:47.000Z (id=102975) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102975_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-06T06:27:54.000Z (id=102974) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102974_Davron Yusupov - CV.pdf]
+
+===== 2026-09-05T10:06:21.000Z (id=102973) =====
+🧑‍💻 Alijon Makhmudov — Flutter Developer
+
+💼 4+ years of experience | 10+ production apps | live on the App Store & Google Play
+📍 Tashkent (onsite / hybrid / remote)
+🗣 Uzbek — native | English — B2
+
+🚀 Selected projects:
+🏛 Museum tour system (Center of Islamic Civilization) — visitor kiosk app + specialist control panel, a fleet of tablets synced live over custom WebSockets
+🎓 ILMMarket — e-learning marketplace with UzCard / Humo / Visa / Mastercard billing
+🤝 Pathway — mentorship platform: Stripe payments, Google Sign-In + JWT auth, Shorebird OTA updates
+🎬 Splay — video player on native ExoPlayer & AVPlayer with Google Cast and VAST ads
+🏢 ARK — CRM for web + mobile: LiveKit calls, digital signatures, real-time chat
+🗳 OLIY MAJLIS — real-time legislative voting app for parliament deputies
+
+🛠 Stack:
+— Flutter / Dart · Riverpod · Bloc / Cubit · Freezed · GoRouter · Dio · Firebase
+— Real-time: custom WebSocket services, offline-first media pipelines, FCM push
+— Payments: Stripe, UzCard, Humo, Visa / Mastercard
+— Native integrations: ExoPlayer, AVPlayer, Google Cast SDK · OTA via Shorebird
+— Clean Architecture · SQLite / Hive · Yandex & Google Maps
+
+📱 Live apps:
+ILMMarket — Link
+Pathway — Link
+SDrama — Link
+
+📩 Telegram: @Makhmudov_Alijon
+✉️ alijon.makhmudov.dev@gmail.com
+📞 +998 91 243 55 19
+💻 GitHub: Link
+🔗 LinkedIn: Link
+
+#Flutter #Dart #Mobile #Developer #Resume
+[PDF: resumes_pdf\102973_Makhmudov Alijon Resume.pdf]
+
+===== 2026-09-05T09:53:30.000Z (id=102972) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102972_Davron Yusupov - CV.pdf]
+
+===== 2026-09-05T08:35:15.000Z (id=102970) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102970_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-09-05T08:03:24.000Z (id=102969) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102969_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-04T06:21:49.000Z (id=102966) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102966_Davron Yusupov - CV.pdf]
+
+===== 2026-09-04T06:19:16.000Z (id=102965) =====
+#resume #cv
+
+💻 Frontend Engineer (React.js / TypeScript)
+
+💼 1 year of experience | Health tech 
+
+💻 Tech stack:
+  - React, TypeScript, Vite
+  - Tailwind CSS, Bootstrap
+  - React Query, Zustand, Redux Toolkit
+  - Feature-Sliced Design Architecture
+  - PHP / Wordpress / Elementor
+
+📍 Tashkent | Full-time / Part-time / Project-based
+💻 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998932501906
+✈️ Telegram: @tg_dovud_ty
+🔗 LinkedIn: https://www.linkedin.com/in/dovud-toshmurodov-683239396/
+[PDF: resumes_pdf\102965_Резюме_Frontend_Engineer-Dovud_Toshmurodov.pdf]
+
+===== 2026-09-04T06:03:41.000Z (id=102964) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102964_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-03T10:45:13.000Z (id=102963) =====
+🇺🇿 Do'stlar, marketing, PR, SMM va reklama sohasidagi bo'sh ish o'rinlarini e'lon qiladigan ikkinchi loyihamizga qo'shiling.
+
+🇷🇺 Друзья, присоединяйтесь к нашему второму проекту, где мы будем публиковать вакансии в сфере маркетинга, PR, SMM и рекламы.
+
+🔗 Marketing Jobs, Uzbekistan
+
+===== 2026-09-03T09:11:40.000Z (id=102962) =====
+DevOps / SRE Engineer (Middle) | Ташкент
+
+Ищем DevOps / SRE инженера в штат Hamkor Bank для работы над проектом Tez — цифровым банковским сервисом.
+Вы будете работать в команде инфраструктуры над развитием и стабильностью production-среды.
+
+Что предстоит делать:
+— развивать GitOps на FluxCD для dev / stage / prod / prod-DR
+— унифицировать GitLab CI/CD и внедрять security-сканирование
+— выводить сервисы и Kubernetes-операторы в production
+— работать с Terraform и Ansible
+— развивать мониторинг, логи и алертинг
+— разбирать инциденты и находить root cause
+Стек:
+Kubernetes, FluxCD, Helm, Kustomize, GitLab CI, Terraform, Ansible, Istio, NGINX, HAProxy, Vault, Victoria Metrics, Grafana, Alertmanager, Kafka, PostgreSQL, Redis / Valkey, Kyverno, Falco.
+Что важно:
+— от 2 лет опыта в DevOps / SRE
+— уверенный Linux
+— практический опыт с Kubernetes
+— FluxCD и понимание GitOps
+— Helm, Kustomize, Docker, GitLab CI
+— Terraform или Ansible
+— Prometheus / Victoria Metrics, PromQL, Grafana
+— Python или Bash
+Будет плюсом: финтех/банки, ArgoCD, Istio, Vault, Kafka/CDC, PostgreSQL в Kubernetes, on-prem / VMware, DevSecOps.
+Условия:
+— до 50 000 000 сум gross
+— квартальный бонус до 30%
+— Ташкент, офис / гибрид
+— полная занятость
+— современный стек и возможности профессионального роста
+Если вакансия интересна, присылайте резюме в личные сообщения.
+Контакт: @khalenova
+
+#DevOps #SRE #Kubernetes #Tashkent #ITjobs
+
+===== 2026-09-03T08:30:12.000Z (id=102961) =====
+🇺🇿Guruhda bo'sh ish o'rinlari va rezyumelarni joylashtirish narxi haqida ma'lumot:
+
+Bo'sh ish o'rinlari
+✅ Bir martalik obuna. Bitta vakansiyani bir marta e'lon qiling. Narxi - 40 000 so'm.
+✅ Ikki haftalik obuna. IT sohasida cheksiz miqdordagi bo'sh ish o'rinlarini nashr etish. Xuddi shu vakansiya kuniga bir martadan ko'p bo'lmagan holda joylashtirilishi mumkin. Narxi - 130 000 so'm.
+✅ Oylik obuna. IT sohasida cheksiz miqdordagi bo'sh ish o'rinlarini nashr etish. Xuddi shu vakansiya kuniga bir martadan ko'p bo'lmagan holda joylashtirilishi mumkin. Narxi - 160 000 so'm.
+
+Rezyume
+✅ Bir martalik joylashtirish. O'z rezyumeni guruhga bir marta joylashtirish imkoniyati. Narxi - 25 000 so'm.
+✅ Oylik obuna. Guruhda har kuni rezyumeni joylashtirish imkoniyati. Rezyumeni kuniga bir martadan ko'p bo'lmagan holda joylashtirishga ruxsat beriladi. Narxi - 60 000 so'm.
+
+Qo'shimcha xizmatlar:
+✅ vakansiya / rezyumening pin;
+✅ reklama;
+✅ Guruh auditoriyasi so'rovini o'tkazish.
+
+Obuna sotib olish uchun - @el_grapo
+Guruh qoidalari haqida batafsil: https://bit.ly/2T2qvb5
+Qo'shimcha xizmatlar haqida batafsil ma'lumot: https://bit.ly/38jPs7t
+
+🇷🇺Информация о стоимости размещения вакансий и резюме в группе:
+
+Вакансии
+✅ Разовая подписка. Публикация одной вакансии, один раз. Стоимость - 40 000 сум.
+✅ Подписка на две недели. Публикация неограниченного количества вакансий сферы ИТ. Одну и ту же вакансию можно размещать не чаще чем один раз в сутки. Стоимость - 130 000 сум. 
+✅ Подписка на месяц. Публикация неограниченного количества вакансий сферы ИТ. Одну и ту же вакансию можно размещать не чаще чем один раз в сутки. Стоимость - 160 000 сум.
+
+Резюме
+✅ Разовое размещение резюме. Возможность разместить свое резюме в группе один раз. Стоимость - 25 000 сум.
+✅ Подписка на месяц. Возможность ежедневно размещать свое резюме в группе. Допускается размещение резюме не чаще чем один раз в день. Стоимость - 60 000 сум.
+
+Дополнительные услуги:
+✅ пин вакансии/резюме;
+✅ реклама; 
+✅ Проведение опроса аудитории группы.
+
+Для приобретения подписки - @el_grapo
+Подробнее о правилах группы: https://bit.ly/2T2qvb5
+Подробная информация по дополнительным услугам: https://bit.ly/38jPs7t.
+
+===== 2026-09-03T05:38:00.000Z (id=102958) =====
+#resume #cv
+
+💻 Frontend Engineer (React.js / TypeScript)
+
+💼 1 year of experience | Health tech 
+
+💻 Tech stack:
+  - React, TypeScript, Vite
+  - Tailwind CSS, Bootstrap
+  - React Query, Zustand, Redux Toolkit
+  - Feature-Sliced Design Architecture
+  - PHP / Wordpress / Elementor
+
+📍 Tashkent | Full-time / Part-time / Project-based
+💻 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998932501906
+✈️ Telegram: @tg_dovud_ty
+🔗 LinkedIn: https://www.linkedin.com/in/dovud-toshmurodov-683239396/
+[PDF: resumes_pdf\102958_Резюме_Frontend_Engineer-Dovud_Toshmurodov.pdf]
+
+===== 2026-09-03T05:37:18.000Z (id=102957) =====
+Ищем Frontend Developer
+Компания: Neovex
+Адрес: 9-й тупик Заркайнар, 69
+Формат работы: офис, полная занятость
+Зарплата: от 10 000 000 сум, обсуждается по итогам собеседования
+
+Обязанности:
+Разработка и сопровождение современных веб-приложений.
+Разработка пользовательских интерфейсов на JavaScript/TypeScript.
+Работа с React, Next.js или Vue.js.
+Создание адаптивных интерфейсов для различных устройств и разрешений экрана.
+Интеграция frontend-приложений с REST API и внешними сервисами.
+Взаимодействие с backend-разработчиками при реализации функционала.
+Разработка переиспользуемых UI-компонентов.
+Оптимизация производительности веб-приложений.
+Работа с состоянием приложения и управлением данными.
+Реализация авторизации, регистрации и разграничения доступа на frontend.
+Работа с WebSocket и другими технологиями обмена данными в реальном времени.
+Поиск и устранение ошибок в frontend-коде.
+Тестирование и обеспечение качества пользовательского интерфейса.
+Работа с Git и системами контроля версий.
+Участие в проектировании архитектуры frontend-приложений.
+Взаимодействие с UI/UX-дизайнерами и другими членами команды.
+Поддержка и улучшение существующих веб-приложений.
+Требования:
+Опыт коммерческой frontend-разработки от 2 лет.
+Уверенное знание HTML5, CSS3 и JavaScript.
+Хорошее знание TypeScript.
+Практический опыт работы с React, Next.js или Vue.js.
+Понимание принципов компонентного подхода.
+Опыт работы с REST API.
+Понимание HTTP/HTTPS и принципов клиент-серверного взаимодействия.
+Уверенное знание Git.
+Опыт работы с npm, yarn или pnpm.
+Понимание адаптивной и кроссбраузерной верстки.
+Знание современных подходов к оптимизации производительности веб-приложений.
+Понимание принципов UX/UI.
+Умение самостоятельно находить и устранять технические проблемы.
+Ответственный подход к качеству и структуре кода.
+Свободное владение русским языком — обязательно.
+Будет преимуществом:
+Опыт работы с Next.js.
+Знание Tailwind CSS, Material UI или Ant Design.
+Опыт работы с Redux, Zustand или другими state management решениями.
+Знание React Query / TanStack Query.
+Опыт работы с WebSocket.
+Знание GraphQL.
+Опыт разработки PWA.
+Опыт работы с Docker.
+Знание CI/CD.
+Опыт работы с Figma.
+Опыт разработки высоконагруженных веб-приложений.
+Понимание микросервисной архитектуры.
+Опыт интеграции платежных систем и внешних API.
+Опыт работы с AI/ML API.
+Знание WebGL, Three.js или других технологий для создания интерактивных интерфейсов.
+Условия:
+Полная занятость в офисе.
+Работа над реальными IT-проектами.
+Современная техническая инфраструктура.
+Профессиональный и карьерный рост.
+Возможность участвовать в принятии технических решений.
+Работа в команде frontend, backend и DevOps-разработчиков.
+Возможность работать с современными GPU-серверами NVIDIA B200 и RTX PRO 6000.
+
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-03T05:36:47.000Z (id=102956) =====
+Ищем DevOps-инженера с опытом Backend Developer(Python)
+Компания: Neovex
+Адрес: 9-й тупик Заркайнар, 69
+Формат: работа в офисе, полная занятость
+Зарплата: от 10 000 000 сум, обсуждается на собеседовании
+
+Обязанности:
+Установка, настройка и администрирование Linux-серверов.
+Развертывание и сопровождение production-окружения.
+Работа с Docker и Docker Compose.
+Настройка и поддержка CI/CD.
+Настройка Nginx, DNS, доменов и SSL-сертификатов.
+Настройка VPN, firewall, сетей и доступа к серверам.
+Мониторинг серверов, сервисов и логов.
+Настройка резервного копирования и восстановления данных.
+Обеспечение безопасности и стабильности инфраструктуры.
+Диагностика и устранение проблем с CPU, GPU, RAM, дисками и сетью.
+Работа с GPU-серверами, NVIDIA CUDA и локальными ИИ-моделями.
+Автоматизация задач с помощью Bash или Python.
+
+Требования:
+Опыт работы DevOps-инженером или системным администратором от 4 лет.
+Уверенное знание Linux, Git, Docker и Docker Compose.
+Опыт настройки Nginx, DNS, SSL и CI/CD.
+Знание TCP/IP, VPN, firewall, NAT и маршрутизации.
+Опыт работы с системами мониторинга и логирования.
+Понимание принципов информационной безопасности.
+Опыт резервного копирования и восстановления данных.
+Понимание работы PostgreSQL и MySQL на уровне администрирования.
+Умение самостоятельно находить и устранять технические проблемы.
+Свободное владение русским языком — обязательно.
+
+Будет преимуществом:
+Опыт работы с Kubernetes, Ansible или Terraform.
+Знание Prometheus, Grafana, ELK/EFK или Loki.
+Опыт работы с высоконагруженными системами.
+Опыт администрирования GPU-серверов и локальных ИИ-моделей.
+
+Условия:
+Работа на полную ставку в офисе.
+Участие в реальных IT-проектах.
+Профессиональный и карьерный рост.
+Возможность влиять на развитие инфраструктуры компании.
+Работа с GPU-серверами NVIDIA B200 и RTX PRO 6000.
+Как подать заявку
+
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-03T05:36:01.000Z (id=102955) =====
+Ищем AI Video Creator
+Компания: Neovex
+Адрес: 9-й тупик Заркайнар, 69
+Формат: работа в офисе, полная занятость
+Зарплата: от 8 000 000 сум, обсуждается на собеседовании
+
+Обязанности:
+Cоздание видеороликов с помощью AI-инструментов.
+Разработка идей, сценариев и раскадровок.
+Генерация персонажей, локаций и отдельных сцен.
+Сохранение единого стиля и внешности персонажей во всех кадрах.
+Монтаж видео, добавление музыки, озвучки, эффектов и субтитров.
+Создание рекламных, презентационных и имиджевых роликов.
+Работа с дизайнерами и разработчиками.
+
+Требования:
+Опыт создания изображений и видео с помощью AI.
+Умение правильно составлять промпты.
+Понимание композиции, света, цвета и движения камеры.
+Базовые навыки видеомонтажа и обработки изображений.
+Умение работать по техническому заданию и референсам.
+Внимательность, ответственность и творческое мышление.
+Наличие портфолио с примерами AI-видео обязательно.
+Очень важно: свободное владение русским языком.
+
+Условия:
+Работа на полную ставку в офисе.
+Участие в современных AI- и медиапроектах.
+Возможность профессионального роста.
+Работа в команде дизайнеров и разработчиков.
+Доступ к современным AI-инструментам.
+
+Как подать заявку:
+Telegram: @xmkarimov
+Телефон: +998 95 060 07 17
+Сайт: neovex.uz
+
+===== 2026-09-03T04:35:23.000Z (id=102954) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102954_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-09-02T04:57:45.000Z (id=102952) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102952_Davron Yusupov - CV.pdf]
+
+===== 2026-09-02T04:56:07.000Z (id=102951) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102951_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-09-02T04:47:52.000Z (id=102950) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102950_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-31T06:55:50.000Z (id=102947) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102947_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-08-31T06:35:12.000Z (id=102946) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102946_Davron Yusupov - CV.pdf]
+
+===== 2026-08-31T05:58:56.000Z (id=102945) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102945_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-30T07:16:10.000Z (id=102942) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102942_Davron Yusupov - CV.pdf]
+
+===== 2026-08-30T06:59:44.000Z (id=102941) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102941_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-29T09:14:48.000Z (id=102940) =====
+🍬 CANDY GOLD КОМПАНИИ ТРЕБУЕТСЯ СИСТЕМНЫЙ АДМИНИСТРАТОР! 💻
+🔹 Обязанности:
+• Поддержка и настройка Bitrix24, Verifix и 1С;
+• Настройка Router, Switch и Wi-Fi;
+• Монтаж и обслуживание кабельных сетей;
+• Контроль локальной сети и интернета;
+• Установка и настройка ПК и офисной техники;
+• Техническая поддержка сотрудников;
+• Обеспечение безопасности и бесперебойной работы IT-систем.
+🔹 Требования:
+• IT-образование;
+• Опыт работы системным администратором;
+• Знание Bitrix24, Verifix и 1С;
+• Навыки работы с сетевым оборудованием;
+• Ответственность и внимательность.
+🕘 График: 6/1, 09:00–13:00
+💰 Зарплата: от 4 000 000 сум
+📍 г. Ташкент
+📞 Телефон: +998 92 045 06 43
+        ТГ @HRG_Aziz
+✨ Присоединяйтесь к команде CANDY GOLD!
+
+===== 2026-08-29T05:38:57.000Z (id=102937) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102937_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-29T05:18:29.000Z (id=102936) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102936_Davron Yusupov - CV.pdf]
+
+===== 2026-08-29T04:52:49.000Z (id=102935) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102935_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-08-28T07:29:12.000Z (id=102934) =====
+ООО "DUALCOM" ищет в команду мидл-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка новых и доработка сущетвующих функионалов в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке 2-5 лет;
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 15 до 20 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-08-28T07:29:11.000Z (id=102933) =====
+ООО "DUALCOM" ищет в команду стажера-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка отчетов и внесение изменений в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 3 до 5 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-08-28T07:14:00.000Z (id=102932) =====
+#resume #cv
+
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102932_Davron Yusupov - CV.pdf]
+
+===== 2026-08-28T07:03:01.000Z (id=102931) =====
+#Hiring #AI #ML #LLM #AIAgents #Tashkent
+
+Ищем AI / ML Engineer в команду разработки ISHONCH 🤖💡
+Мы создаем AI-решения, которые автоматизируют реальные бизнес-процессы: от ML/DL-моделей и RAG до production-ready AI-агентов.
+Чем предстатит заниматься:
+Разрабатывать, обучать и внедрять ML/DL-модели для бизнес-задач.
+Строить AI-агентов и multi-agent workflows с tool/function calling, MCP и LangGraph/LangChain (или аналогами).
+Проектировать RAG-системы: эмбеддинги, hybrid search, reranking и векторные БД.
+Выполнять fine-tuning LLM, оптимизировать inference и интегрировать модели через API и микросервисы.
+Участвовать в MLOps/LLMOps: evaluation, мониторинг, tracing, guardrails и повышение качества AI-систем.
+
+Требования к кандидату:
+Опыт: от 2 лет в ML/DL или разработке AI-систем.
+Стек: Python, NumPy/pandas, scikit-learn, PyTorch / TensorFlow, Hugging Face Transformers.
+Знания: понимание ML/DL, архитектуры трансформеров и принципов работы LLM.
+
+Навыки: практический опыт с AI-агентами, RAG, vector DB и structured output; уверенный Git и деплой в production.
+Языки: знание узбекского и английского (Intermediate+) языков.
+
+Будет преимуществом:
+Разработка API на FastAPI / Django REST Framework и контейнеризация с Docker.
+Computer Vision и видеоаналитика (OpenCV, YOLO, tracking, RTSP).
+MLOps/LLMOps-инструменты, self-hosted inference, GPU и Kubernetes.
+Мультимодальные модели или голосовые пайплайны (STT-LLM-TTS).
+
+Что мы предлагаем:
+Развитие: оплачиваемые профильные курсы, IT-конференции, фестивали и тимбилдинги.
+Условия: бесплатные вкусные обеды в офисе.
+Карьера: реальные масштабные задачи, влияние на продукты компании, профессиональный и финансовый рост.
+Условия работы:
+Локация: офис в г. Ташкент.
+График: 5/2, с 09:00 до 18:00.
+Командировки: в г. Коканд (организуются и оплачиваются компанией).
+Зарплата: От 14.000.000 сум.
+📩 Резюме и краткое описание проектов отправляйте в ЛС: @Ishonch_V
+
+===== 2026-08-28T06:46:06.000Z (id=102930) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102930_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-27T10:06:26.000Z (id=102929) =====
+Вакансия: Системный администратор в сеть клиник De Factum🩺💊🔬
+
+Современная сеть медицинских клиник в Ташкенте ищет в команду надежного и инициативного Системного администратора, который возьмет под контроль всю нашу технологическую инфраструктуру. ​​​​​​​Ключевая цель — обеспечение бесперебойной работы медицинского оборудования, клиники и высокой скорости обслуживания пациентов. ​​​​​​​
+
+Чем предстоит заниматься:
+Поддерживать стабильную и бесперебойную работу ПК, серверов, оргтехники, сетевого оборудования и видеонаблюдения на филиалах клиники.
+Сопровождать и настраивать медицинскую информационную систему, 1С, электронный документооборот.
+Оказывать оперативную техническую помощь сотрудникам клиники.
+Обеспечивать антивирусную защиту, регулярное резервное копирование данных и сохранность персональных данных пациентов.
+
+Наши ожидания от кандидата:
+Опыт работы системным администратором / специалистом технической поддержки от 2-х лет.
+Уверенные знания ОС Windows Server / Windows 10/11, основных сервисов.
+Понимание принципов работы сетей и опыт настройки сетевого оборудования, AD, Kerio контроль.
+Практический опыт настройки IP-телефонии, систем видеонаблюдения.
+Понимание принципов работы МИС (Медицинских информационных систем) и 1С будет большим преимуществом.
+Навыки работы с офисной оргтехники.
+Личные качества: стрессоустойчивость, вежливость, оперативность, умение объяснять сложные вещи простым языком.​​​​​​​​​​​​​​​​​​​​​
+
+Что мы предлагаем:
+Стабильную заработную плату с выплатами без задержек (от 10 000 000 сум "на руки" и выше, по результатам собеседования).
+Официальное трудоустройство согласно ТК РУз.
+График работы: 6/1 (с 08:00 до 17:00).
+Льготы на медицинское обслуживание в сети наших клиник для вас и вашей семьи.
+Дружный коллектив, современное оборудование и пространство для профессионального роста.
+Если вы любите, чтобы техника работала как часы, сеть была защищена, а пользователи довольны - отправляйте резюме в личные сообщения и мы свяжемся с вами.
+Резюме: @de_factum_recruting
+Контакт: +998947446515, Анастасия.
+
+Откликаясь на вакансию, вы соглашаетесь на обработку персональных данных в соответствии с законодательством Республики Узбекистан.
+
+===== 2026-08-27T05:07:17.000Z (id=102927) =====
+#resume #cv
+
+🔹 Backend Developer (Java / SpringBoot)
+
+💼 3+ years of experience
+
+💻 Tech stack:
+  - Java, Kotlin, Spring Boot
+  - OOP, SOLID, Design Pattern
+  - PostgreSQL, MySQL, Redis
+  - Hibernate, Spring Data JPA
+  - RabbitMQ, Kafka, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998995092376
+✈️ Telegram: @Xojiakbar_Andaqulov
+[PDF: resumes_pdf\102927_Xojiakbar_Andaqulov_CV.pdf]
+
+===== 2026-08-27T05:04:57.000Z (id=102925) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL, WebSocket
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102925_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-26T11:08:45.000Z (id=102923) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102923_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-08-26T10:45:12.000Z (id=102922) =====
+«Kundalik» – резидент IT-Park и компания-разработчик Единой цифровой образовательной платформы под названием «eMaktab.uz» для учителей, учащихся, родителей, администрации образовательных учреждений и представителей органов управления образованием, которая регулярно входит в ТОП-3 самых посещаемых сайтов Узбекистана.
+Мы находимся в поиске TeamLead SRE в наше международное представительство в Узбекистане.
+Мы ищем человека, который возглавит сопровождение продуктов компании, будет плотно работать с разработкой, развивать внутренние процессы и архитектуру сложных систем.
+Смело откликайтесь, с радостью познакомимся )
+Мы вам доверим:
+Обеспечение высокой доступности продуктов компании: высоконагруженных интернет-решений.
+Разработка и реализация IT-стратегии и операционного плана компании в части инфраструктуры для собственных продуктов и внутренних сервисов.
+Планирование и организация работы IT-подразделения: системные инженеры и администраторы.
+Развитие и оптимизация внутренних процессов, регламентов, систем мониторинга и обеспечения работоспособности систем IT-подразделения.
+Развитие и совершенствование систем мониторинга.
+Работа вместе с командами разработки в части планирования архитектурных изменений, выпуска новых версий продуктов и др.
+Управление закупками оборудования и ПО, взаимодействие с контрагентами и вендорами.
+Соблюдение норм регуляторов РУз.
+Нам важны:
+Опыт работы руководителем подразделения DevOps/SRE инженеров в продуктовой или аутсорсинг-компании - от 3 лет;
+Опыт работы с нагруженными веб-решениями с режимом работы 24х7х365;
+Знание и личный опыт применения современных DevOps/SRE подходов организации эксплуатации и развития IT-инфраструктуры;
+Готовность совмещать управление и работу руками. Мы не ищем чистого менеджера, мы ждем максимального погружения в задачи, готовность самостоятельно выполнить любую операцию, если это потребуется;
+Отличные знания используемых технологий на уровне ведущего специалиста:
+Debian-like Linux 9-11;
+Windows 20012r2-2019;
+IIS, nginx, redis;
+Системы мониторинга Zabbix; • сетевые технологии (маршрутизация, NAT, iptables), уровень CCNA;
+Систем виртуализации VMWare;
+Серверное оборудование (желательно);
+Привычку следить за трендами в своей области, быть в курсе последних технологий и продуктов;
+Высокий уровень ответственности и самоорганизации, отличные управленческие и коммуникативные навыки;
+Проактивность, способность самостоятельно определять узкие места, предвидеть проблемы и потребности, управлять рисками;
+Высокий уровень самоотдачи, готовность к работе в гибком графике.
+Важный момент: мы ищем кандидата, который находится в Ташкенте или готов к переезду в Ташкент. Работа предполагает периодическое присутствие в офисе для решения оперативных задач.
+Мы предлагаем:
+Работу над амбициозными и интересными проектами;
+Возможность профессионального роста;
+Оформление по ТК РУз, «белая» заработная плата;
+Корпоративные мероприятия;                                                                                                                    Зарплата от 60 млн. и выше
+У нас интересная, разнообразная работа, занимаясь которой вы точно не будете скучать.                                                                                                                                                         если Вам интересно или знаете подходящих кандидатов — пишите @eMaktabHr или  +998990449977 Гузаль
+
+===== 2026-08-26T05:50:04.000Z (id=102921) =====
+#RESUME #CV
+
+🔹 Front End Developer (React)
+
+💼 5+ years of experience
+
+💻 Tech stack:
+  - Html, Css, Sass, Less
+  - JavaScript, TypeScript, Nodejs
+  - React, Nextjs, Vitejs
+  - Context, Redux, Redux Toolkit, Zustand, React Query
+  - Axios, Fetch, GraphQL
+  - Material UI, Ant Design, Hero UI
+  - Tailwindcss, Styled-components, Css Module
+  - npm, yarn, nvm
+  - Git, Github, Gitlab
+
+📍 Tashkent | Full-time
+🖥 Format: Hybrid, On-site
+
+📞 Phone: +998933003358
+✈️ Telegram: @eshimovhayitmurod
+ 👨‍💻Website: hayitmurod.uz
+  🔗Linkedin: linkedin.com/in/eshimovhayitmurod
+[PDF: resumes_pdf\102921_Eshimov_Hayitmurod_Resume.pdf]
+
+===== 2026-08-26T04:15:40.000Z (id=102920) =====
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102920_Davron Yusupov - CV.pdf]
+
+===== 2026-08-25T09:46:37.000Z (id=102916) =====
+#Hiring #AI #ML #LLM #AIAgents #Tashkent
+
+Ищем AI / ML Engineer в команду разработки ISHONCH 🤖💡
+Мы создаем AI-решения, которые автоматизируют реальные бизнес-процессы: от ML/DL-моделей и RAG до production-ready AI-агентов.
+Чем предстатит заниматься:
+Разрабатывать, обучать и внедрять ML/DL-модели для бизнес-задач.
+Строить AI-агентов и multi-agent workflows с tool/function calling, MCP и LangGraph/LangChain (или аналогами).
+Проектировать RAG-системы: эмбеддинги, hybrid search, reranking и векторные БД.
+Выполнять fine-tuning LLM, оптимизировать inference и интегрировать модели через API и микросервисы.
+Участвовать в MLOps/LLMOps: evaluation, мониторинг, tracing, guardrails и повышение качества AI-систем.
+
+Требования к кандидату:
+Опыт: от 2 лет в ML/DL или разработке AI-систем.
+Стек: Python, NumPy/pandas, scikit-learn, PyTorch / TensorFlow, Hugging Face Transformers.
+Знания: понимание ML/DL, архитектуры трансформеров и принципов работы LLM.
+
+Навыки: практический опыт с AI-агентами, RAG, vector DB и structured output; уверенный Git и деплой в production.
+Языки: знание узбекского и английского (Intermediate+) языков.
+
+Будет преимуществом:
+Разработка API на FastAPI / Django REST Framework и контейнеризация с Docker.
+Computer Vision и видеоаналитика (OpenCV, YOLO, tracking, RTSP).
+MLOps/LLMOps-инструменты, self-hosted inference, GPU и Kubernetes.
+Мультимодальные модели или голосовые пайплайны (STT-LLM-TTS).
+
+Что мы предлагаем:
+Развитие: оплачиваемые профильные курсы, IT-конференции, фестивали и тимбилдинги.
+Условия: бесплатные вкусные обеды в офисе.
+Карьера: реальные масштабные задачи, влияние на продукты компании, профессиональный и финансовый рост.
+Условия работы:
+Локация: офис в г. Ташкент.
+График: 5/2, с 09:00 до 18:00.
+Командировки: в г. Коканд (организуются и оплачиваются компанией).
+Зарплата: От 14.000.000 сум.
+📩 Резюме и краткое описание проектов отправляйте в ЛС: @Ishonch_V
+
+===== 2026-08-25T07:19:13.000Z (id=102915) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102915_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-08-25T07:18:41.000Z (id=102914) =====
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102914_Davron Yusupov - CV.pdf]
+
+===== 2026-08-25T06:22:05.000Z (id=102913) =====
+#resume #cv
+
+💻 Frontend Engineer (React.js / TypeScript)
+
+💼 1 year of experience | Health tech 
+
+💻 Tech stack:
+  - React, TypeScript, Vite
+  - Tailwind CSS, Bootstrap
+  - React Query, Zustand, Redux Toolkit
+  - Feature-Sliced Design Architecture
+  - PHP / Wordpress / Elementor
+
+📍 Tashkent | Full-time / Part-time / Project-based
+💻 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998932501906
+✈️ Telegram: @tg_dovud_ty
+🔗 LinkedIn: https://www.linkedin.com/in/dovud-toshmurodov-683239396/
+[PDF: resumes_pdf\102913_Резюме_Frontend_Engineer-Dovud_Toshmurodov.pdf]
+
+===== 2026-08-25T06:21:27.000Z (id=102912) =====
+Здравствуйте! Меня зовут Мохинур! Я начинающий IT recruiter, активно ищу работу в IT сфере! Активно развиваю свои навыки в поиске и подборе IT-специалистов, Boolean search и в работе с кандидатами.
+Я ответственная, быстро обучаюсь и открыта к новым возможностям. Есть сертификат IT recruiting.
+[PDF: resumes_pdf\102912_резюме.pdf]
+
+===== 2026-08-24T06:55:46.000Z (id=102909) =====
+ООО "DUALCOM" ищет в команду мидл-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка новых и доработка сущетвующих функионалов в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке 2-5 лет;
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 15 до 20 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-08-24T06:55:46.000Z (id=102908) =====
+ООО "DUALCOM" ищет в команду стажера-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка отчетов и внесение изменений в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 3 до 5 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-08-24T05:10:17.000Z (id=102907) =====
+Davron Yusupov
+Backend / Full-Stack Engineer (.NET / PostgreSQL / Angular / AI Automation)
+💼 Опыт работы: 4+ года
+Стек технологий:
+C# / .NET / ASP.NET Core
+Entity Framework / LINQ / Dapper
+SQL Server / PostgreSQL
+REST API / Integrations
+Angular / JavaScript / jQuery
+Kafka / RabbitMQ / Redis
+Docker / CI/CD
+Microservices / Clean Architecture
+Automated Testing
+AI Automation / AI-assisted Development
+Claude Code / Cursor / Codex
+Опыт:
+Разработка enterprise workforce management платформ
+Backend-сервисы и REST API
+HR / Payroll интеграции
+Проектирование БД и оптимизация SQL-запросов
+Аутентификация и авторизация
+Reporting и поддержка legacy-систем
+Разработка features end-to-end - от базы данных до UI
+Использование AI для автоматизации разработки, рефакторинга, тестирования и инженерных workflows
+Языки:
+🇺🇿 Узбекский - C2
+🇷🇺 Русский - C2
+🇬🇧 Английский - C1
+Open to remote / hybrid / on-site work
+📩 Telegram: @mvd_hades
+💼 LinkedIn: https://www.linkedin.com/in/davron-yusupov-0aa840227/
+💻 GitHub: https://github.com/00008550
+[PDF: resumes_pdf\102907_Davron Yusupov - CV.pdf]
+
+===== 2026-08-24T04:14:04.000Z (id=102906) =====
+Вакансия: Системный администратор в сеть клиник De Factum🩺💊🔬
+
+Современная сеть медицинских клиник в Ташкенте ищет в команду надежного и инициативного Системного администратора, который возьмет под контроль всю нашу технологическую инфраструктуру. ​​​​​​​Ключевая цель — обеспечение бесперебойной работы медицинского оборудования, клиники и высокой скорости обслуживания пациентов. ​​​​​​​
+
+Чем предстоит заниматься:
+Поддерживать стабильную и бесперебойную работу ПК, серверов, оргтехники, сетевого оборудования и видеонаблюдения на филиалах клиники.
+Сопровождать и настраивать медицинскую информационную систему, 1С, электронный документооборот.
+Оказывать оперативную техническую помощь сотрудникам клиники.
+Обеспечивать антивирусную защиту, регулярное резервное копирование данных и сохранность персональных данных пациентов.
+
+Наши ожидания от кандидата:
+Опыт работы системным администратором / специалистом технической поддержки от 2-х лет.
+Уверенные знания ОС Windows Server / Windows 10/11, основных сервисов.
+Понимание принципов работы сетей и опыт настройки сетевого оборудования, AD, Kerio контроль.
+Практический опыт настройки IP-телефонии, систем видеонаблюдения.
+Понимание принципов работы МИС (Медицинских информационных систем) и 1С будет большим преимуществом.
+Навыки работы с офисной оргтехники.
+Личные качества: стрессоустойчивость, вежливость, оперативность, умение объяснять сложные вещи простым языком.​​​​​​​​​​​​​​​​​​​​​
+
+Что мы предлагаем:
+Стабильную заработную плату с выплатами без задержек (от 10 000 000 сум "на руки" и выше, по результатам собеседования).
+Официальное трудоустройство согласно ТК РУз.
+График работы: 6/1 (с 08:00 до 17:00).
+Льготы на медицинское обслуживание в сети наших клиник для вас и вашей семьи.
+Дружный коллектив, современное оборудование и пространство для профессионального роста.
+Если вы любите, чтобы техника работала как часы, сеть была защищена, а пользователи довольны - отправляйте резюме в личные сообщения и мы свяжемся с вами.
+Резюме: @de_factum_recruting
+Контакт: +998947446515, Анастасия.
+
+Откликаясь на вакансию, вы соглашаетесь на обработку персональных данных в соответствии с законодательством Республики Узбекистан.
+
+===== 2026-08-23T13:05:20.000Z (id=102905) =====
+#resume #cv
+
+💻 Frontend Engineer (React.js / TypeScript)
+
+💼 1 year of experience | Health tech 
+
+💻 Tech stack:
+  - React, TypeScript, Vite
+  - Tailwind CSS, Bootstrap
+  - React Query, Zustand, Redux Toolkit
+  - Feature-Sliced Design Architecture
+  - PHP / Wordpress / Elementor
+
+📍 Tashkent | Full-time / Part-time / Project-based
+💻 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998932501906
+✈️ Telegram: @tg_dovud_ty
+🔗 LinkedIn: https://www.linkedin.com/in/dovud-toshmurodov-683239396/
+[PDF: resumes_pdf\102905_Резюме_Frontend_Engineer-Dovud_Toshmurodov.pdf]
+
+===== 2026-08-23T09:17:24.000Z (id=102904) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1.5+ years of experience
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102904_Sharipov_Sunnatillo-cv.pdf]
+
+===== 2026-08-22T13:18:00.000Z (id=102903) =====
+🥸System Administrator
+
+🌟 AFRASIAB UNIVERSITY ищет системного администратора в молодую команду.
+
+Мы ищем специалиста с 1–3 годами опыта, хорошей технической базой и пониманием того, как устроена современная IT-инфраструктура.Для нас важно, чтобы специалист понимал основные принципы работы сетей, оборудования и серверов, умел самостоятельно разбираться в новых задачах и хотел профессионально расти.
+
+Чем предстоит заниматься:
+
+- Поддерживать локальную сеть университета и сетевую инфраструктуру.
+- Работать с MikroTik, коммутаторами, роутерами и точками доступа.
+- Настраивать и подключать сетевое оборудование.
+- Понимать и поддерживать топологию сети.
+- Работать с IP-адресацией, DHCP, DNS и базовой маршрутизацией.
+- Диагностировать проблемы с интернетом и локальной сетью.
+- Поднимать и настраивать серверы под внутренние задачи университета.
+- Работать с IP-камерами и системами видеонаблюдения.
+- Подключать новые камеры к существующей сети и системе видеонаблюдения.
+- Постепенно улучшать существующую IT-инфраструктуру и предлагать свои решения.
+
+Что мы ожидаем
+- 1–3 года опыта в системном администрировании 
+- Хорошее понимание принципов работы TCP/IP и компьютерных сетей.
+- Понимание сетевой топологии и устройства локальных сетей.
+- Опыт работы с MikroTik.
+- Умение работать с коммутаторами, роутерами и другим сетевым оборудованием.
+- Понимание IP-адресации, DHCP, DNS, NAT и маршрутизации.
+- Базовый опыт работы с Linux и/или Windows Server.
+- Понимание того, как развернуть и настроить сервер под конкретную задачу.
+- Опыт или понимание работы с IP-камерами, NVR и системами видеонаблюдения.
+- Умение диагностировать технические проблемы и самостоятельно искать решения.
+- Желание изучать новые технологии и профессионально развиваться.
+
+Что предлагаем:
+- Работу с реальной IT-инфраструктурой AFRASIAB UNIVERSITY.
+- Возможность работать с сетями, серверами, видеонаблюдением и современным оборудованием.
+- Молодую и дружелюбную команду без лишней бюрократии.
+- Возможность предлагать свои идеи и улучшать инфраструктуру университета.
+- Возможность изучать новые технологии непосредственно в процессе работы.
+- Поддержку команды при сложных технических задачах.
+- Реальную возможность карьерного роста внутри университета.
+- Возможность показать себя, брать больше ответственности и расти вместе с командой.
+
+Заработная плата - от +300$. Итоговый размер зависит от вашего опыта, навыков, уровня ответственности и формата работы и обсуждается индивидуально после собеседования. По мере профессионального роста и увеличения зоны ответственности заработная плата будет расти.
+
+📞 Тел: +998-77-265-99-66
+❤️ Telegram: @me_diiyor
+📋Формат работы: Part-time / Full-time, офис
+
+ 📍  Локация: Ташкент
+
+===== 2026-08-22T10:32:48.000Z (id=102900) =====
+Frame Media расширяет команду в связи с этим требуется Senior Devops инженер. 
+
+Требования:
+- Знание русского языка ОБЯЗАТЕЛЬНО
+- Опыт работы по направлению от 4 лет;
+- Опыт работы с Proxmox;
+- Опыт работы с базой данных PostgreSQL;
+- Опыт работы с балансировкой вебсайтов(haproxy);
+- Наличие успешно реализованных проектов;
+- Опыт работы по развертыванию и поддержки микросервисной архитектуры;
+- Знание сетевых протоколов и технологий для разработки и оптимизации сетевых приложений;
+- Опыт работы с инструментами Prometheus, Grafana, Elasticsearch, Logstash, Kibana;
+
+Обязанности:
+- Автоматизация сборки и развертывания приложений CI/CD
+- Администрирование Linux серверов 
+- Обеспечение непрерывной доступности и отказоустойчивости серверов
+- Настройка резервного копирования
+
+Условия:
+Оплата  20 000 000 - 24 000 000
+Официальное трудоустройство по ТК РУз; 
+График 5/2 Возможно рассмотрения гибридного графика;
+
+
+ 
+Телефон для связи: Ирина @GIM_HR_IT, предварительно резюме отправляйте в ТГ
+
+===== 2026-08-21T14:01:28.000Z (id=102898) =====
+🚀 Garant Bank ищет Сетевого администратора
+
+Если для вас сеть — это не просто набор коммутаторов и маршрутизаторов, а критически важная инфраструктура, от которой зависит доступность банковских сервисов, эта роль может быть вам интересна.
+
+В Garant Bank мы усиливаем команду системного и сетевого администрирования и ищем специалиста, который сможет самостоятельно отвечать за развитие и стабильность сетевой инфраструктуры банка — от ЦОД и головного офиса до филиалов и удалённых пользователей.
+
+🌐 Что предстоит делать
+🏗 Развивать корпоративную сетевую инфраструктуру банка, включая ЦОД, головной офис и территориально распределённые подразделения.
+🔀 Настраивать и оптимизировать маршрутизацию и коммутацию, включая BGP и OSPF.
+🛡 Администрировать NGFW и экосистему Fortinet: FortiGate, FortiSwitch, FortiEMS, FortiWeb.
+🔐 Проектировать и сопровождать VPN-соединения между филиалами, удалёнными пользователями и внешними информационными системами.
+⚡ Обеспечивать отказоустойчивость сети, резервирование оборудования и каналов связи, автоматическое переключение между провайдерами.
+📡 Развивать корпоративную Wi-Fi-инфраструктуру, включая контроллеры, точки доступа, аутентификацию и роуминг.
+📊 Использовать системы мониторинга и инструменты анализа трафика для диагностики сложных сетевых инцидентов.
+🚀 Участвовать в проектах по модернизации и развитию сетевой инфраструктуры банка.
+
+ 👨‍💻 Мы ожидаем
+Нам нужен специалист с 5+ годами опыта в сетевом администрировании, который уверенно понимает архитектуру корпоративных IP-сетей и умеет самостоятельно проектировать, внедрять и эксплуатировать сетевую инфраструктуру.
+
+Особенно важны:
+✅ BGP, OSPF, TCP/IP, VLAN, STP/RSTP/MSTP, LACP, VRRP/HSRP, NAT, QoS, DHCP, DNS.
+✅ Практический опыт с Fortinet и NGFW.
+✅ Опыт работы с одним или несколькими вендорами современного сетевого оборудования.
+✅ Понимание принципов построения отказоустойчивых сетей и резервирования каналов.
+✅ Опыт эксплуатации корпоративных Wi-Fi сетей.
+✅ Умение анализировать сложные сетевые инциденты с помощью Wireshark, tcpdump или аналогичных инструментов.
+✅ Опыт работы с Zabbix, PRTG, SolarWinds или аналогичными системами мониторинга.
+📝 Способность документировать сетевую инфраструктуру и поддерживать актуальными схемы и эксплуатационные регламенты также важна.
+
+🎁 Что предлагаем
+💰 Заработная плата от 30 млн сум по результатам собеседования.
+📑 Официальное трудоустройство по ТК РУз.
+🏦 Работа в банке с 30-летней историей.
+🌐 Работа с реальной корпоративной сетевой инфраструктурой: ЦОД, офисы, филиалы, VPN, NGFW, BGP/OSPF, Wi-Fi и отказоустойчивые каналы.
+🚀 Возможность участвовать в технических проектах и непосредственно влиять на развитие сетевой инфраструктуры банка.📍 Полная занятость, график 5/2, работа в офисе.
+
+Garant Bank — универсальный коммерческий банк с 30-летней историей и развитой сетью подразделений по всему Узбекистану.Если вы хотите работать с масштабной корпоративной сетью и действительно сложными инфраструктурными задачами, а не только заниматься эксплуатацией — присылайте резюме.
+
+ 🚀📩 Резюме отправляйте в Telegram: @Nargiza578222
+
+===== 2026-08-21T12:12:24.000Z (id=102897) =====
+#resume #cv
+
+🔹 Backend Developer (Node.js / TypeScript)
+
+💼 1 year 8 months of experience | ERP systems & online learning platforms
+
+💻 Tech stack:
+  - JavaScript, TypeScript, Node.js
+  - Express.js, NestJS, Fastify
+  - PostgreSQL, MySQL, MongoDB, Redis
+  - Prisma, TypeORM
+  - RabbitMQ, BullMQ, WebSocket
+  - Docker, Docker Compose, Nginx
+  - Linux (Ubuntu Server), Git, Jira
+  - GrammyJs (Telegram bot framework)
+
+📍 Tashkent | Full-time / Part-time / Project-based
+🖥 Format: Remote, Hybrid, On-site
+
+📞 Phone num: +998500025274
+✈️ Telegram: @sunnatillo8o
+[PDF: resumes_pdf\102897_Sunnatillo_Sharipov-CV.pdf]
+
+===== 2026-08-21T10:06:31.000Z (id=102896) =====
+ООО "DUALCOM" ищет в команду мидл-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка новых и доработка сущетвующих функионалов в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке 2-5 лет;
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 15 до 20 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-08-21T10:06:30.000Z (id=102895) =====
+ООО "DUALCOM" ищет в команду стажера-программиста 1С.
+
+Рабочие задачи и обязанности:
+• Установка, настройка, обновление программных продуктов 1С;
+• Поиск и устранение ошибок пользователей;
+• Разработка отчетов и внесение изменений в конфигурации на платформе 1С.
+
+Присылайте свое резюме, если Вы соответствуете этим критериям:
+• Законченное образование (высшее или средне специальное);
+• Высокая обучаемость и способность к самообучению;
+• Развитое логическое мышление и коммуникабельность;
+• Дисциплина и ответственность;
+• Желание работать в команде;
+• Готовность работать с большим объёмом документации и информации
+
+Вы кандидат мечты, если у Вас есть что-то из перечисленного:
+• Опыт в разработке модулей в клиент-серверной архитектуре на платформе 1С 8.3 (Управляемые формы, запросы, СКД);
+• Знания платформы 1С 7.7, MS SQL;
+• Знание других языков программирования.
+
+ Что мы предлагаем:
+• Трудоустройство согласно ТК РУз с первого рабочего дня;
+• Обучение и наставничество от опытных разработчиков;
+• Офис в 3 минутах ходьбы от станции метро Минор;
+• График работы 5/2 с 09:00 до 18:00;
+• Уровень заработной платы: от 3 до 5 млн сум на руки.
+
+Контакт: 
+Tel:+998 90 958 88 48
+TG: @Feruz_Mamatnazarov
+
+===== 2026-08-21T10:05:14.000Z (id=102894) =====
+🚀 Garant Bank ищет Системного администратора
+
+Если вам интересно не просто поддерживать пользователей, а отвечать за стабильность корпоративной ИТ-инфраструктуры банка и работать с серьезной серверной средой — будем рады познакомиться.
+
+В Garant Bank мы усиливаем команду системного и сетевого администрирования и ищем опытного системного администратора, который сможет самостоятельно работать с критически важной инфраструктурой и участвовать в её дальнейшем развитии.
+
+🔹 Что предстоит делать
+🖥 Администрировать серверную инфраструктуру на базе Microsoft Windows Server и Linux.
+☁️ Работать с гибридной инфраструктурой Microsoft: Active Directory, Group Policy, DNS, DHCP, Microsoft Entra ID, Microsoft 365, Exchange Online и Exchange Server.
+🏗 Эксплуатировать и развивать виртуальную инфраструктуру на базе VMware vSphere (ESXi, vCenter).
+💾 Работать с серверным оборудованием, системами хранения SAN/NAS и инфраструктурой резервного копирования Veeam Backup & Replication.
+📊 Контролировать состояние инфраструктуры через Zabbix, оперативно выявлять и устранять проблемы.
+⚙️ Автоматизировать административные задачи с помощью PowerShell.
+🛡 Обеспечивать высокую доступность, стабильность и безопасность корпоративных ИТ-сервисов.
+🚀 Участвовать в проектах по развитию и модернизации ИТ-инфраструктуры банка.
+
+👨‍💻 Мы ожидаем
+Нам нужен специалист с 5+ годами опыта в системном администрировании, который хорошо понимает не отдельный сервер или сервис, а инфраструктуру как единую систему.
+
+Особенно важны
+✅ Глубокая экспертиза в Microsoft-инфраструктуре и Active Directory
+✅ Практический опыт с VMware vSphere, SAN/NAS и Veeam
+✅ Уверенные базовые навыки администрирования Linux
+✅ Понимание принципов построения отказоустойчивой и высокодоступной инфраструктуры
+✅ Понимание требований информационной безопасности и принципов обеспечения непрерывности ИТ-сервисов
+✅ Способность самостоятельно диагностировать сложные инциденты, находить первопричины и предотвращать повторение проблем
+
+ 🎁 Что предлагаем
+💰 Заработная плата от 30 млн сум по результатам собеседования.
+📑 Официальное трудоустройство по ТК РУз.
+🏦 Работа в банке с 30-летней историей.
+🖥 Работа с реальной корпоративной инфраструктурой, включая серверы, виртуализацию, системы хранения и резервного копирования.
+🚀 Возможность участвовать в развитии и модернизации ИТ-инфраструктуры банка и влиять на технические решения.
+📍 Полная занятость, график 5/2, работа в офисе.
+
+Garant Bank — универсальный коммерческий банк с 30-летней историей, который развивает собственную ИТ-инфраструктуру и современные банковские сервисы.
+Если вы хотите работать с серьезной инфраструктурой, а не только заниматься рутинной эксплуатацией, — присылайте резюме. Будем рады познакомиться. 
+
+🚀📩 Резюме отправляйте в Telegram: @Nargiza578222
