@@ -24,7 +24,7 @@ Working on both sides of software gives me a practical advantage: as a developer
 
 <p>
 <a href="https://www.linkedin.com/in/ibrohim-zokirjonov/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="36"></a>
-<a href="https://t.me/Ibrohim_77088"><img src="assets/btn-telegram.svg" alt="Telegram" height="36"></a>
+<a href="https://t.me/Ibrohim_zokirjonov"><img src="assets/btn-telegram.svg" alt="Telegram" height="36"></a>
 <a href="mailto:ibrohimzokirjonov917@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="36"></a>
 <a href="https://docs.google.com/document/d/1MavGOOkAUEL7EsaKkyvUc8CEG1Bdn_-E/edit?usp=sharing&ouid=102202098327476808894&rtpof=true&sd=true"><img src="assets/btn-resume.svg" alt="Resume" height="36"></a>
 </p>
