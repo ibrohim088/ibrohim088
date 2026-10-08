@@ -1,0 +1,5 @@
+<svg width="118" height="36" viewBox="0 0 118 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Resume">
+  <rect width="118" height="36" rx="18" fill="#7C3AED"/>
+  <g transform="translate(18,10)"><path d="M3.5 1.5h6l3.5 3.5v9a1 1 0 0 1-1 1h-8.5a1 1 0 0 1-1-1v-11.5a1 1 0 0 1 1-1z" stroke="#fff" stroke-width="1.5" stroke-linejoin="round" fill="none"/><path d="M5.5 8h5M5.5 11h5" stroke="#fff" stroke-width="1.5" stroke-linecap="round"/></g>
+  <text x="42" y="23.5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="13.5" fill="#fff">Resume</text>
+</svg>

@@ -1,306 +1,152 @@
 <div align="center">
- 
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/banner.gif" width="100%" style="border-radius: 6px; max-height: 480px; object-fit: cover;" />
+
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/linkedin_banner_clean_final.png" alt="Ibrohim Zokirjonov — Software Engineer · Full-Stack Web Development · QA" width="100%">
 
 </div>
 
-<br>
+---
 
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>About</b>
-<hr>
+## About
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; width: 100%;">
+Software engineer from Tashkent. I build web applications end to end — interface, server, database — and test them like a QA engineer. I enjoy taking real projects from planning and structure to final delivery, with attention to detail and products that are easy to use.
 
-<div style="flex: 1 1 320px; text-align: justify; margin: 0;">
+Working on both sides of software gives me a practical advantage: as a developer I know where bugs usually hide, and as a QA tester I know how a real user breaks things. I care about clean structure, clear error handling, readable code, and interfaces that work in more than one language.
 
-Full-stack developer and PDP University student, able to build web applications independently from end to end — from the user-facing interface to the server and database.
+**What I do**
+- Build full-stack web platforms: customer storefront, admin panel, REST API, database
+- Design role-based systems (admin, florist, courier) with separate workspaces
+- Create bilingual (Uzbek/Russian) interfaces and content management
+- Test products manually: requirements review, test cases, bug reports
 
-As a personal project, I built a complete platform intended for real users, staying with it through development and completion to prove I follow through to results.
+**Currently:** QA Tester at **Faktura.uz**, freelance full-stack developer, student at **PDP University**.
 
-I completed the full Frontend and Backend tracks at CoddyCamp IT Academy, defending 4 hands-on projects, and I also mentor fellow students at university.
-
-I'm a fast learner, responsible, enjoy working in a team, and ready to grow in a hands-on environment.
-
-</div>
-
-<div style="flex: 1 1 280px; text-align: center; margin: 0;">
-
-<img alt="GIF" src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/about.gif" width="100%" style="border-radius: 6px;" />
-
-</div>
-
-</div>
-
-<br>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/briefcase.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Work Experience</b>
-<hr>
-
-<div style="text-align: justify">
-
-**QA Tester — Faktura.uz**
-Full-time &nbsp;·&nbsp; Jun 2026 — Present
-
-- Studying task descriptions in depth or clarifying requirements with developers to confirm the intended logic and updated system behavior before starting work
-- Designing test cases ahead of or early in development
-- Executing test cases to verify functionality and localize bugs
-- Coordinating findings with a senior specialist before filing a detailed bug report or task comment, including reproduction steps, test cases used, and screenshots
-- Consistently delivering assigned tasks on schedule
-
-**Full-Stack Developer — Freelance**
-Tashkent, Uzbekistan &nbsp;·&nbsp; May 2026 — Present
-
-- Building complete web platforms end to end — from architecture to final interface — covering the client side, server side, and database
-- Creating role-based admin systems for managing orders, users, and content
-- Implementing multilingual (Uzbek/Russian/English) interface support for the local market
-- Independently owning the whole process, from design and development through testing and delivery
-
-<br>
-
-</div>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/sparkles.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Current Project</b>
-<hr>
-
-<div style="text-align: justify">
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-
-<div style="flex: 1 1 250px; text-align: center;">
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/peony-logo.png" alt="Peony Flower Studio" width="100%" style="border-radius: 6px;">
-
-</div>
-
-<div style="flex: 2 1 320px;">
-
-**Peony Flowers Studio** — Premium flower delivery platform (Personal project)<br>
-Full-Stack Developer &nbsp;·&nbsp; 2026 — Present
-
-**What the company does:**
-[Peony Flower Studio](https://peonyflowerstudio.uz/uz) is a real business providing premium flower and bouquet delivery across Andijan, Uzbekistan, for weddings, birthdays, and holidays, with each bouquet prepared with care and craftsmanship. I'm building the company's full online ordering platform as a full-stack developer.
-
-</div>
-
-</div>
-
-**What the platform does:**
-
-- Customers browse the catalog, choose flowers and bouquets, select delivery or pickup, and place cash-on-delivery orders online
-- Each staff role has its own dedicated workspace: the **florist** prepares the order, the **courier** handles delivery, and the **admin** oversees the entire process
-- Returning customers get automatic discounts based on order count, plus a one-time bonus for leaving a product review
-- Checkout is broken into clear, simple steps — address selection, delivery time scheduling, and payment confirmation
-
-<br/>
-
-<p align="left">
-  <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/peony-hero.png" alt="Peony Flower Studio — Website Hero Section" width="100%" style="border-radius: 6px;">
-</p>
-
-<br>
-
-</div>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/award.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Licenses & Certifications</b>
-<hr>
-
-<div style="text-align: justify">
-
-<div style="display: flex; flex-wrap: wrap; gap: 24px;">
-
-<div style="flex: 1 1 260px;">
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/certificate-backend.png" width="100%" style="border-radius: 6px;">
-
-**CoddyCamp IT Academy — Backend**
-230-hour course · 6 hands-on projects · final project defense
-
-</div>
-
-<div style="flex: 1 1 260px;">
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/certificate-frontend.png" width="100%" style="border-radius: 6px;">
-
-**CoddyCamp IT Academy — Frontend**
-240-hour course · 6 hands-on projects · final project defense
-
-</div>
-
-</div>
-
-<br>
-
-</div>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Leadership Experience</b>
-<hr>
-
-<div style="text-align: justify">
-
-**PDP University — "Tengdosh Ustoz" (Peer Mentor) Program**
-Peer Mentor &nbsp;·&nbsp; 2025 — Present
-
-- Mentored students in full-stack development as part of the program, helping improve their code quality and technical confidence
-- Reviewed group members' frontend and backend assignments, explaining concepts in Vue.js, Node.js, Express, and MongoDB
-
-<br>
-
-</div>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/graduation-cap.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Education</b>
-<hr>
-
-<div style="text-align: justify">
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-
-<div style="flex: 0 0 60px;">
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/pdp-university-logo.png" width="60" style="border-radius: 6px;">
-
-</div>
-
-<div style="flex: 1 1 260px;">
-
-**PDP University — Tashkent**
-BTEC Higher National Diploma / Software Development
-Oct 2025 — Oct 2030
-
-Official Pearson BTEC international education center in partnership with the UK, focused on hands-on projects in software development, networking, and data science.
-
-</div>
-
-</div>
-
-<br>
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start;">
-
-<div style="flex: 0 0 60px;">
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/school-logo.png" width="60" style="border-radius: 6px;">
-
-</div>
-
-<div style="flex: 1 1 260px;">
-
-**School No. 104 — Tashkent**
-General Secondary Education
-Sep 2014 — May 2025
-
-Completed 11 years of general education with an emphasis on mathematics, physics, and computer science.
-
-</div>
-
-</div>
-
-<br>
-
-</div>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/code.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Technical Skills</b>
-<hr>
-
-<div style="text-align: justify">
+## Contacts
 
 <p>
-<b>Frontend</b><br><br>
-<img src="https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D">&nbsp;
-<img src="https://img.shields.io/badge/Pinia-FFD859?style=flat&logo=vuedotjs&logoColor=black">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white">&nbsp;
+<a href="https://www.linkedin.com/in/ibrohim-zokirjonov/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="36"></a>
+<a href="https://t.me/Ibrohim_77088"><img src="assets/btn-telegram.svg" alt="Telegram" height="36"></a>
+<a href="mailto:ibrohimzokirjonov917@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="36"></a>
+<a href="https://docs.google.com/document/d/1MavGOOkAUEL7EsaKkyvUc8CEG1Bdn_-E/edit?usp=sharing&ouid=102202098327476808894&rtpof=true&sd=true"><img src="assets/btn-resume.svg" alt="Resume" height="36"></a>
+</p>
+
+## Experience
+
+<table>
+<tr>
+<td width="200" valign="top"><img src="assets/faktura-logo.svg" alt="Faktura.uz" width="180"></td>
+<td valign="top">
+
+**QA Tester** · Faktura.uz · *Jun 2026 — Present*
+Quality assurance for a product team working with developers on a daily basis.
+
+- Clarify requirements with developers before testing starts
+- Design test cases early, so problems are found before release
+- Execute manual tests and verify fixes
+- File bug reports with clear steps, test cases, and screenshots
+
+</td>
+</tr>
+</table>
+
+**Full-Stack Developer** · Freelance · *May 2026 — Present*
+Complete web platforms for clients, from architecture to the final interface.
+
+- Role-based admin systems with separate workspaces for each role
+- Multilingual (Uzbek/Russian) user interfaces
+- REST API with authentication, file uploads, and database design
+- Full cycle: design → development → testing → deployment → handover
+
+## Featured Project
+
+<table>
+<tr>
+<td width="200" valign="top"><img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/peony-logo.png" alt="Peony Flowers Studio" width="180"></td>
+<td valign="top">
+
+**[Peony Flowers Studio](https://peonyflowerstudio.uz/uz)** · client project · Jul — Aug 2026
+
+Online store, admin panel, and Telegram bot for a flower business in Andijan. Built from scratch, deployed, and handed over.
+
+**Customer side**
+- Catalog with categories and product pages, cart, and checkout
+- Delivery or pickup, map-based address selection, cash-on-delivery payment
+- Automatic delivery pricing: free delivery inside the city zone, fixed fee outside it
+- Personal account with order history and order details
+- Automatic loyalty discounts and review bonus
+
+**Business side**
+- Separate workspaces for florist, courier, and admin
+- Order flow with statuses: confirmed → preparing → ready → delivery
+- Courier view with delivery location and route on the map
+- Inventory management, Excel import/export
+- Editable site content (About page) from the admin panel, in both languages
+
+**Technical**
+- Vue 3 + Pinia + Vite (storefront and admin panel as separate apps)
+- Node.js, Express, TypeScript, Prisma, MySQL, Redis caching
+- JWT authentication, role-based access, Yandex Maps integration
+- Bilingual interface (Uzbek/Russian)
+
+</td>
+</tr>
+</table>
+
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/peony-hero.png" alt="Peony Flowers Studio — hero section" width="100%">
+
+## GitHub & LinkedIn
+
+<p>
+<a href="https://github.com/ibrohim088"><img src="assets/github-card.svg" alt="GitHub profile" width="49%"></a>
+<a href="https://www.linkedin.com/in/ibrohim-zokirjonov/"><img src="assets/linkedin-card.svg" alt="LinkedIn profile" width="49%"></a>
 </p>
 
 <p>
-<b>Backend</b><br><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white">&nbsp;
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ibrohim088&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
+<img src="https://github-readme-stats.vercel.app/api?username=ibrohim088&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da" alt="GitHub stats" height="150">
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohim088&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohim088&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f" alt="Top languages" height="150">
+</picture>
 </p>
 
-<p>
-<b>Database</b><br><br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white">&nbsp;
-</p>
+## Skills
 
-<p>
-<b>Tools</b><br><br>
-<img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazons3&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Multer-FF6600?style=flat&logo=npm&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black">&nbsp;
-</p>
+| Area | Technologies |
+|---|---|
+| **Frontend** | Vue 3, Pinia, Vite, JavaScript, TypeScript, HTML/CSS, Sass, Leaflet, Yandex Maps |
+| **Backend** | Node.js, Express, REST API, JWT authentication, Multer (file uploads), Prisma |
+| **Database** | MySQL, MongoDB (Mongoose), Redis (caching) |
+| **QA** | Manual testing, test case design, bug reports, requirements analysis |
+| **Tools** | Git, GitHub, Postman, Swagger, Axios, AWS S3 |
 
-<p>
-<b>Currently Learning</b><br><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">&nbsp;
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,sass,nodejs,express,mysql,mongodb,git,github,postman,aws&theme=light" alt="Tech stack">
 
-<br>
+## Education
 
-</div>
+**PDP University** — Tashkent · *Oct 2025 — Oct 2029*
+BTEC Higher National Diploma, Software Development (Pearson BTEC, in partnership with the UK)
 
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/globe.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Languages</b>
-<hr>
+**CoddyCamp IT Academy** — *Jan 2023 — Jun 2025*
+Backend (230 h, 6 projects) and Frontend (240 h, 6 projects), both with final project defense.
 
-<div style="text-align: justify">
+<table>
+<tr>
+<td width="50%"><img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/certificate-backend.png" alt="CoddyCamp Backend certificate" width="100%"></td>
+<td width="50%"><img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/certificate-frontend.png" alt="CoddyCamp Frontend certificate" width="100%"></td>
+</tr>
+</table>
 
-<p>
-<img src="https://img.shields.io/badge/Uzbek-Native-0099B5?style=flat&logo=googletranslate&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Russian-Fluent-0033A0?style=flat&logo=googletranslate&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/English-Intermediate_(A2)-C8102E?style=flat&logo=googletranslate&logoColor=white">&nbsp;
-</p>
+## Leadership
 
-<br>
+**Peer Mentor** — PDP University, "Tengdosh Ustoz" program · *2025 — Present*
+Mentor students in full-stack development, review frontend and backend assignments, explain Vue.js, Node.js, Express, and MongoDB.
 
-</div>
+- Review students' frontend and backend assignments and give written feedback
+- Explain core concepts: components and state in Vue, routing and middleware in Express, schemas in MongoDB
+- Help students debug their code and build projects step by step
 
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/file.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Resume</b>
-<hr>
+## Languages
 
-<div style="text-align: justify">
-
-<p>
-<a href="https://drive.google.com/file/d/1W6JgjVxM0rfTNHeOLzw8043p3v_dlPHJ/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4C1D95?style=flat&logo=readdotcv&logoColor=white" alt="Resume">&nbsp;
-</a>
-</p>
-
-<br>
-
-</div>
-
-<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/assets/icons/users.svg" width="20" style="vertical-align: middle; position: relative; top: -2px;"> <b>Connect with me</b>
-<hr>
-
-<div style="text-align: justify">
-
-<p>
-<a href="https://t.me/Ibrohim_77088">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">&nbsp;
-</a>
-<a href="mailto:ibrohimzokirjonov917@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">&nbsp;
-</a>
-<a href="https://github.com/ibrohim088">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
-</a>
-<a href="https://www.linkedin.com/in/ibrohim-zokirjonov-1a93b6386/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">&nbsp;
-</a>
-</p>
-
-<br>
-</div>
-
-<img src="./assets/icons/footer.svg" width="100%" style="max-width: 100%;">
+<img src="assets/languages-card.svg" alt="Languages: Uzbek (native), Russian (fluent), English (A2)" width="100%">

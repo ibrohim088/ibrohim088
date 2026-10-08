@@ -1,0 +1,43 @@
+<svg width="959" height="104" viewBox="-2 -2 959 104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="t">
+  <title id="t">Languages: Uzbek (native), Russian (fluent), English (A2)</title>
+  <style>
+    .name { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1f2328; }
+    .sub  { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #57606a; }
+    .lvl  { font: 700 11.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff; }
+    .frame { stroke: #d0d7de; }
+    .off  { fill: #e6eaee; }
+    .fl   { stroke: #000; stroke-opacity: .18; }
+    @media (prefers-color-scheme: dark) {
+      .name { fill: #e6edf3; }
+      .sub  { fill: #8b949e; }
+      .frame { stroke: #30363d; }
+      .off  { fill: #30363d; }
+      .fl   { stroke: #fff; stroke-opacity: .18; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="310" height="96" rx="10" class="frame"/>
+  <clipPath id="fuz"><rect x="20.5" y="20" width="36" height="24" rx="4"/></clipPath><g clip-path="url(#fuz)" transform="translate(0,0)"><rect x="20.5" y="20" width="36" height="8" fill="#0099B5"/><rect x="20.5" y="28" width="36" height="8" fill="#fff"/><rect x="20.5" y="36" width="36" height="8" fill="#1EB53A"/><rect x="20.5" y="27.2" width="36" height="1.1" fill="#CE1126"/><rect x="20.5" y="35.7" width="36" height="1.1" fill="#CE1126"/><circle cx="26.5" cy="24" r="2.8" fill="#fff"/><circle cx="27.7" cy="24" r="2.4" fill="#0099B5"/><circle cx="31.5" cy="22" r=".55" fill="#fff"/><circle cx="33.9" cy="22" r=".55" fill="#fff"/><circle cx="36.3" cy="22" r=".55" fill="#fff"/><circle cx="31.5" cy="24" r=".55" fill="#fff"/><circle cx="33.9" cy="24" r=".55" fill="#fff"/><circle cx="36.3" cy="24" r=".55" fill="#fff"/><circle cx="38.7" cy="24" r=".55" fill="#fff"/><circle cx="31.5" cy="26" r=".55" fill="#fff"/><circle cx="33.9" cy="26" r=".55" fill="#fff"/><circle cx="36.3" cy="26" r=".55" fill="#fff"/></g><rect x="20.5" y="20" width="36" height="24" rx="4" class="fl"/>
+  <text x="68.5" y="31" class="name">Uzbek</text>
+  <text x="68.5" y="48" class="sub">Native speaker</text>
+  <rect x="228.5" y="22" width="62" height="22" rx="11" fill="#16A34A"/>
+  <text x="259.5" y="37" class="lvl" text-anchor="middle">Native</text>
+  <rect x="20.5" y="76" width="48.4" height="6" rx="3" fill="#16A34A"/><rect x="75.9" y="76" width="48.4" height="6" rx="3" fill="#16A34A"/><rect x="131.3" y="76" width="48.4" height="6" rx="3" fill="#16A34A"/><rect x="186.7" y="76" width="48.4" height="6" rx="3" fill="#16A34A"/><rect x="242.1" y="76" width="48.4" height="6" rx="3" fill="#16A34A"/>
+  <g transform="translate(-18,0)">
+  <rect x="340.5" y="0.5" width="310" height="96" rx="10" class="frame"/>
+  <clipPath id="fru"><rect x="360.5" y="20" width="36" height="24" rx="4"/></clipPath><g clip-path="url(#fru)" transform="translate(0,0)"><rect x="360.5" y="20" width="36" height="8" fill="#fff"/><rect x="360.5" y="28" width="36" height="8" fill="#0039A6"/><rect x="360.5" y="36" width="36" height="8" fill="#D52B1E"/></g><rect x="360.5" y="20" width="36" height="24" rx="4" class="fl"/>
+  <text x="408.5" y="31" class="name">Russian</text>
+  <text x="408.5" y="48" class="sub">Fluent</text>
+  <rect x="568.5" y="22" width="62" height="22" rx="11" fill="#2563EB"/>
+  <text x="599.5" y="37" class="lvl" text-anchor="middle">Fluent</text>
+  <rect x="360.5" y="76" width="48.4" height="6" rx="3" fill="#2563EB"/><rect x="415.9" y="76" width="48.4" height="6" rx="3" fill="#2563EB"/><rect x="471.3" y="76" width="48.4" height="6" rx="3" fill="#2563EB"/><rect x="526.7" y="76" width="48.4" height="6" rx="3" fill="#2563EB"/><rect x="582.1" y="76" width="48.4" height="6" rx="3" class="off"/>
+  </g>
+  <g transform="translate(-36,0)">
+  <rect x="680.5" y="0.5" width="310" height="96" rx="10" class="frame"/>
+  <clipPath id="fgb"><rect x="700.5" y="20" width="36" height="24" rx="4"/></clipPath><g clip-path="url(#fgb)" transform="translate(0,0)"><rect x="700.5" y="20" width="36" height="24" fill="#012169"/><path d="M700.5 20L736.5 44M736.5 20L700.5 44" stroke="#fff" stroke-width="4.5"/><path d="M700.5 20L736.5 44M736.5 20L700.5 44" stroke="#C8102E" stroke-width="1.8"/><path d="M718.5 20V44M700.5 32H736.5" stroke="#fff" stroke-width="7"/><path d="M718.5 20V44M700.5 32H736.5" stroke="#C8102E" stroke-width="4"/></g><rect x="700.5" y="20" width="36" height="24" rx="4" class="fl"/>
+  <text x="748.5" y="31" class="name">English</text>
+  <text x="748.5" y="48" class="sub">Elementary · A2</text>
+  <rect x="908.5" y="22" width="62" height="22" rx="11" fill="#F59E0B"/>
+  <text x="939.5" y="37" class="lvl" text-anchor="middle">A2</text>
+  <rect x="700.5" y="76" width="48.4" height="6" rx="3" fill="#F59E0B"/><rect x="755.9" y="76" width="48.4" height="6" rx="3" fill="#F59E0B"/><rect x="811.3" y="76" width="48.4" height="6" rx="3" class="off"/><rect x="866.7" y="76" width="48.4" height="6" rx="3" class="off"/><rect x="922.1" y="76" width="48.4" height="6" rx="3" class="off"/>
+  </g>
+</svg>

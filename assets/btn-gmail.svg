@@ -1,0 +1,5 @@
+<svg width="108" height="36" viewBox="0 0 108 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gmail">
+  <rect width="108" height="36" rx="18" fill="#EA4335"/>
+  <g transform="translate(18,10)"><rect x="1" y="2.5" width="14" height="11" rx="2" stroke="#fff" stroke-width="1.6" fill="none"/><path d="M1.6 3.8L8 9l6.4-5.2" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
+  <text x="42" y="23.5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="13.5" fill="#fff">Gmail</text>
+</svg>
