@@ -31,10 +31,7 @@ Working on both sides of software gives me a practical advantage: as a developer
 
 ## Experience
 
-<table>
-<tr>
-<td width="200" valign="top"><img src="assets/faktura-logo.svg" alt="Faktura.uz" width="180"></td>
-<td valign="top">
+<img src="assets/faktura-logo.svg" alt="Faktura.uz" width="170">
 
 **QA Tester** · Faktura.uz · *Jun 2026 — Present*
 Quality assurance for a product team working with developers on a daily basis.
@@ -43,10 +40,6 @@ Quality assurance for a product team working with developers on a daily basis.
 - Design test cases early, so problems are found before release
 - Execute manual tests and verify fixes
 - File bug reports with clear steps, test cases, and screenshots
-
-</td>
-</tr>
-</table>
 
 **Full-Stack Developer** · Freelance · *May 2026 — Present*
 Complete web platforms for clients, from architecture to the final interface.
@@ -58,10 +51,7 @@ Complete web platforms for clients, from architecture to the final interface.
 
 ## Featured Project
 
-<table>
-<tr>
-<td width="200" valign="top"><img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/peony-logo.png" alt="Peony Flowers Studio" width="180"></td>
-<td valign="top">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/peony-logo.png" alt="Peony Flowers Studio" width="170">
 
 **[Peony Flowers Studio](https://peonyflowerstudio.uz/uz)** · client project · Jul — Aug 2026
 
@@ -86,10 +76,6 @@ Online store, admin panel, and Telegram bot for a flower business in Andijan. Bu
 - Node.js, Express, TypeScript, Prisma, MySQL, Redis caching
 - JWT authentication, role-based access, Yandex Maps integration
 - Bilingual interface (Uzbek/Russian)
-
-</td>
-</tr>
-</table>
 
 <img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/peony-hero.png" alt="Peony Flowers Studio — hero section" width="100%">
 
@@ -116,10 +102,10 @@ Online store, admin panel, and Telegram bot for a flower business in Andijan. Bu
 | Area | Technologies |
 |---|---|
 | **Frontend** | Vue 3, Pinia, Vite, JavaScript, TypeScript, HTML/CSS, Sass, Leaflet, Yandex Maps |
-| **Backend** | Node.js, Express, REST API, JWT authentication, Multer (file uploads), Prisma |
-| **Database** | MySQL, MongoDB (Mongoose), Redis (caching) |
-| **QA** | Manual testing, test case design, bug reports, requirements analysis |
+| **Backend** | Node.js, Express, REST API's, JWT Authentication, Multer (file uploads)|
+| **Database** | NoSQL, MySQL, MongoDB (Mongoose)|
 | **Tools** | Git, GitHub, Postman, Swagger, Axios, AWS S3 |
+| **QA** | Manual testing, Test Case Design, Bug Reports, Requirements Analysis |
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,sass,nodejs,express,mysql,mongodb,git,github,postman,aws&theme=light" alt="Tech stack">
 
@@ -131,12 +117,10 @@ BTEC Higher National Diploma, Software Development (Pearson BTEC, in partnership
 **CoddyCamp IT Academy** — *Jan 2023 — Jun 2025*
 Backend (230 h, 6 projects) and Frontend (240 h, 6 projects), both with final project defense.
 
-<table>
-<tr>
-<td width="50%"><img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/certificate-backend.png" alt="CoddyCamp Backend certificate" width="100%"></td>
-<td width="50%"><img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/certificate-frontend.png" alt="CoddyCamp Frontend certificate" width="100%"></td>
-</tr>
-</table>
+<p>
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/certificate-backend.png" alt="CoddyCamp Backend certificate" width="49%">
+<img src="https://ibrohim088-assets.s3.eu-north-1.amazonaws.com/certificate-frontend.png" alt="CoddyCamp Frontend certificate" width="49%">
+</p>
 
 ## Leadership
 
