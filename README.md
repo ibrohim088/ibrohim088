@@ -87,14 +87,8 @@ Online store, admin panel, and Telegram bot for a flower business in Andijan. Bu
 </p>
 
 <p>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ibrohim088&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff">
-<img src="https://github-readme-stats.vercel.app/api?username=ibrohim088&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=0969da&text_color=24292f&icon_color=0969da" alt="GitHub stats" height="150">
-</picture>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohim088&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrohim088&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=24292f" alt="Top languages" height="150">
-</picture>
+  <img src="./github-metrics.svg" alt="GitHub stats" height="300">
+  <img src="./github-languages.svg" alt="Top languages" height="300">
 </p>
 
 ## Skills
