@@ -91,6 +91,17 @@ Online store, admin panel, and Telegram bot for a flower business in Andijan. Bu
   <img src="./github-languages.svg" alt="Top languages" height="300">
 </p>
 
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrohim088/ibrohim088/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrohim088/ibrohim088/output/github-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ibrohim088/ibrohim088/output/github-snake.svg" width="100%">
+</picture>
+</div>
+
 ## Skills
 
 | Area | Technologies |
