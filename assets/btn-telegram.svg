@@ -1,5 +1,20 @@
-<svg width="126" height="36" viewBox="0 0 126 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Telegram">
-  <rect width="126" height="36" rx="18" fill="#26A5E4"/>
-  <g transform="translate(18,10)"><path d="M1 7.2L15 1.4 12.6 14 8.8 10.6 6.8 13 6.2 8.8z" fill="#fff"/></g>
-  <text x="42" y="23.5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="13.5" fill="#fff">Telegram</text>
+<svg width="138" height="40" viewBox="0 0 138 40" fill="none" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Telegram" xmlns:c2pa="http://c2pa.org/manifest">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C232D" />
+      <stop offset="1" stop-color="#11161D" />
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#26A5E4" />
+      <stop offset="1" stop-color="#1D8CC4" />
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="137" height="39" rx="12" fill="url(#bg)" stroke="#26A5E4"
+    stroke-opacity="0.45" />
+  <rect x="8" y="8" width="24" height="24" rx="8" fill="url(#tile)" />
+  <path transform="translate(12.5 13.45) scale(0.85)"
+    d="M1 7.2L15 1.4 12.6 14 8.8 10.6 6.8 13 6.2 8.8z" fill="#fff" />
+  <text x="42" y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600"
+    font-size="13.5" fill="#E6EDF3">Telegram</text>
 </svg>
