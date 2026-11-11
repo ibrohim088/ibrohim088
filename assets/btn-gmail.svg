@@ -1,5 +1,21 @@
-<svg width="108" height="36" viewBox="0 0 108 36" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Gmail">
-  <rect width="108" height="36" rx="18" fill="#EA4335"/>
-  <g transform="translate(18,10)"><rect x="1" y="2.5" width="14" height="11" rx="2" stroke="#fff" stroke-width="1.6" fill="none"/><path d="M1.6 3.8L8 9l6.4-5.2" stroke="#fff" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" fill="none"/></g>
-  <text x="42" y="23.5" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="700" font-size="13.5" fill="#fff">Gmail</text>
+<svg width="118" height="40" viewBox="0 0 118 40" fill="none" xmlns="http://www.w3.org/2000/svg"
+  role="img" aria-label="Gmail" xmlns:c2pa="http://c2pa.org/manifest">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C232D" />
+      <stop offset="1" stop-color="#11161D" />
+    </linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EA4335" />
+      <stop offset="1" stop-color="#C5221F" />
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="117" height="39" rx="12" fill="url(#bg)" stroke="#EA4335"
+    stroke-opacity="0.45" />
+  <rect x="8" y="8" width="24" height="24" rx="8" fill="url(#tile)" />
+  <rect x="14" y="15.5" width="12" height="9" rx="1.8" stroke="#fff" stroke-width="1.5" />
+  <path d="M14.8 16.8L20 21l5.2-4.2" stroke="#fff" stroke-width="1.5" stroke-linecap="round"
+    stroke-linejoin="round" />
+  <text x="42" y="25" font-family="'Segoe UI', Ubuntu, Sans-Serif" font-weight="600"
+    font-size="13.5" fill="#E6EDF3">Gmail</text>
 </svg>
